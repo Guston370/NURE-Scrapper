@@ -1,0 +1,16 @@
+{
+  "product_id": "e702ca42e5e8",
+  "product_name": "Lemon Ice Tea",
+  "brand": "Lipton",
+  "barcode": "5000118047794",
+  "category": "Beverages",
+  "subcategory": "Plant Based Foods And Beverages",
+  "weight": "500 ml",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5000118047794",
+  "image_count": 0,
+  "folder_name": "Lipton_Lemon_Ice_Tea_500_ml",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.791878Z"
+}

@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Eau gazéifiée",
+    "sucre",
+    "fructose",
+    "extrait de thé noir",
+    "acidifiants",
+    "arômes",
+    "correcteur d'acidité",
+    "antioxydant",
+    "édulcorant ."
+  ],
+  "nutrition": {
+    "energy_kcal": 20,
+    "protein_g": 0,
+    "carbohydrates_g": 4.6,
+    "of_which_sugars_g": 4.5,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.016
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

@@ -1,0 +1,16 @@
+{
+  "product_id": "6d76c3de432b",
+  "product_name": "Pfirsich Ice Tea",
+  "brand": "Lipton",
+  "barcode": "4062139009978",
+  "category": "Beverages",
+  "subcategory": "Beverages",
+  "weight": "1.25l",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/4062139009978",
+  "image_count": 0,
+  "folder_name": "Lipton_Pfirsich_Ice_Tea_1_25l",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.803180Z"
+}

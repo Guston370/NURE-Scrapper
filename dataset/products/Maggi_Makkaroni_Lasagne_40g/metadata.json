@@ -1,0 +1,16 @@
+{
+  "product_id": "1a732b4acf7b",
+  "product_name": "Makkaroni Lasagne",
+  "brand": "Maggi",
+  "barcode": "7613034330444",
+  "category": "Instant Foods & Noodles",
+  "subcategory": "Plant Based Foods",
+  "weight": "40g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/7613034330444",
+  "image_count": 0,
+  "folder_name": "Maggi_Makkaroni_Lasagne_40g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.598307Z"
+}

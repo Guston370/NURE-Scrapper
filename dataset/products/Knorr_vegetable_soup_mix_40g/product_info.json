@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "LEGUMES SECHES",
+    "EXTRAIT DE LEVURE",
+    "AROME",
+    "SUCRE",
+    "GUANYLATE DISODIQUE",
+    "INOSINATE DISODIQUE",
+    "CHLORURE DE POTASSIUM",
+    "COLORANT",
+    "DIOXYDE DE SILICUM",
+    "EPICE CONTIENT:SOJA",
+    "SULFITES",
+    "BLÉ."
+  ],
+  "nutrition": {
+    "energy_kcal": 300,
+    "protein_g": 10,
+    "carbohydrates_g": 60,
+    "of_which_sugars_g": 20,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 1,
+    "sodium_mg": 2.4
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans",
+    "Sulphur Dioxide And Sulphites"
+  ],
+  "description": "",
+  "country_of_origin": "Canada, France, Germany",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

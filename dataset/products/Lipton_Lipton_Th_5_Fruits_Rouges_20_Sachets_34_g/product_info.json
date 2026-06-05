@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "Thé",
+    "arôme",
+    "fruits rouges  ."
+  ],
+  "nutrition": {
+    "energy_kcal": 4,
+    "protein_g": 0.5,
+    "carbohydrates_g": 0.5,
+    "of_which_sugars_g": 0.5,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0
+  },
+  "allergens": [],
+  "description": "Thé aromatisé fruits rouges",
+  "country_of_origin": "France, Guadeloupe, La Réunion",
+  "storage_information": "Conserver au sec et à température ambiante.",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": 4
+}

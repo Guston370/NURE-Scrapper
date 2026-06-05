@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "EDIBLE VEGETABLE OIL",
+    "POTATO FLAKES",
+    "CHICKPEA FLOUR",
+    "MOTH BEAN FLOUR",
+    "STARCH",
+    "BLACK SALT",
+    "EDIBLE COMMON SALT",
+    "SUGAR",
+    "DEHYDRATED VEGETABLE POWDER ONION GARLIC",
+    "SPICES & CONDIMENTS",
+    "MILK SOLIDS",
+    "HYDROLYZED VEGETABLE PROTEIN",
+    "ACIDITY REGULATOR",
+    "FLAVOUR ENHANCER (INS 627",
+    "INS 631 TURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (CHILLI",
+    "CUMIN"
+  ],
+  "nutrition": {
+    "energy_kcal": 608,
+    "protein_g": 7.7,
+    "carbohydrates_g": 42.3,
+    "of_which_sugars_g": 2,
+    "fat_g": 43.9,
+    "of_which_saturated_fat_g": 20.7,
+    "dietary_fiber_g": 6.5,
+    "sodium_mg": 1.033
+  },
+  "allergens": [
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

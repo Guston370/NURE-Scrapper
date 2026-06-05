@@ -1,0 +1,45 @@
+{
+  "ingredients": [
+    "80% Nudeln",
+    "jodiertes Speisesalz",
+    "Hefeextrakt",
+    "Aromen",
+    "Kaliumchlorid",
+    "Speisesalz",
+    "Stärke",
+    "0",
+    "5% Hühnerfett",
+    "_KNOLLENSELLERIE_",
+    "0",
+    "3% Lauch",
+    "0",
+    "3% Petersilie",
+    "0",
+    "2% Karotten",
+    "Tomaten",
+    "Zwiebeln",
+    "Kurkuma",
+    "Rosmarin",
+    "Antioxidationsmittel ."
+  ],
+  "nutrition": {
+    "energy_kcal": 31,
+    "protein_g": 1.2,
+    "carbohydrates_g": 5.9,
+    "of_which_sugars_g": 0.32,
+    "fat_g": 0.1,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0.2,
+    "sodium_mg": 0.3
+  },
+  "allergens": [
+    "Celery",
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "Frankreich, Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

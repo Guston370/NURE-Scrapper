@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Wheat flour",
+    "sugar",
+    "palm oil",
+    "butter",
+    "skim milk powder",
+    "cashew",
+    "almond",
+    "pistachio",
+    "salt",
+    "ammonium bicarbonate & sodium bicarbonate",
+    "mono & diglycerides of fatty acids & soya lecithin",
+    "tartrazine (fd"
+  ],
+  "nutrition": {
+    "energy_kcal": 500,
+    "protein_g": 8.82,
+    "carbohydrates_g": 64.71,
+    "of_which_sugars_g": 23.53,
+    "fat_g": 23.53,
+    "of_which_saturated_fat_g": 11.76,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.313944
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Nuts"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

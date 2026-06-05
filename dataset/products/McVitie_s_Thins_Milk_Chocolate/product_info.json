@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "price 12"
+  ],
+  "nutrition": {
+    "energy_kcal": 510.810810810811,
+    "protein_g": 7.2972972972973,
+    "carbohydrates_g": 51.351351351351,
+    "of_which_sugars_g": 24.324324324324,
+    "fat_g": 19.72972972973,
+    "of_which_saturated_fat_g": 10.810810810811,
+    "dietary_fiber_g": 2.4324324324324,
+    "sodium_mg": 0.27837837837838
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": ""
+}

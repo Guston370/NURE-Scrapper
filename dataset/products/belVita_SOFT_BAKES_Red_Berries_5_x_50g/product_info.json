@@ -1,0 +1,47 @@
+{
+  "ingredients": [
+    "Cereals 46.1 % WHEAT flour 25.5 %",
+    "wholegrain cereals 18 %  1%",
+    "wholegrain BARLEY flour 1 %",
+    "wholegrain WHEAT flour 1 %)",
+    "rice flour 2.5 %",
+    "malted WHEAT flour 0.1 %]",
+    "sugar",
+    "rapeseed oil",
+    "modified starch",
+    "sweetened cranberries 5 %",
+    "chicory root fibre",
+    "isomaltulose****",
+    "humectant",
+    "mineral blend",
+    "currants 1 %",
+    "salt",
+    "emulsifier",
+    "raising agent",
+    "flavourings",
+    "concentrated redcurrant juice 0.3 %",
+    "WHEAT gluten",
+    "dextrose",
+    "starch. ****Isomaltulose is a source of glucose and fructose. MAY CONTAIN MILK."
+  ],
+  "nutrition": {
+    "energy_kcal": 386,
+    "protein_g": 5.3,
+    "carbohydrates_g": 63,
+    "of_which_sugars_g": 22,
+    "fat_g": 12,
+    "of_which_saturated_fat_g": 1.1,
+    "dietary_fiber_g": 7.2,
+    "sodium_mg": 0.134
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

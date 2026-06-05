@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Water",
+    "Sugar",
+    "Tomato paste",
+    "Red chilli puree",
+    "lodized salt",
+    "Acidity regulator",
+    "Starch",
+    "Mixed Spices",
+    "Garlic powder",
+    "Thickener",
+    "Onion powder and Preservative ."
+  ],
+  "nutrition": {
+    "energy_kcal": 135,
+    "protein_g": 0.4,
+    "carbohydrates_g": 33.8,
+    "of_which_sugars_g": 33.3,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.8077
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

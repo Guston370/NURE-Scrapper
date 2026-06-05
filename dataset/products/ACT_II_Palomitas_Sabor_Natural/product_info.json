@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    "Maiz palomero",
+    "aceite vegetal  y sal yodada."
+  ],
+  "nutrition": {
+    "energy_kcal": 470,
+    "protein_g": 9,
+    "carbohydrates_g": 51,
+    "of_which_sugars_g": 0,
+    "fat_g": 26,
+    "of_which_saturated_fat_g": 13,
+    "dietary_fiber_g": 10,
+    "sodium_mg": 0.42672
+  },
+  "allergens": [],
+  "description": "palomitas",
+  "country_of_origin": "México",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 3
+}

@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "flour",
+    "sugar",
+    "vegetable oil",
+    "glucose-fructose syrup",
+    "barley malt extract",
+    "emulsifiers",
+    "raising agents",
+    "salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 452,
+    "protein_g": 7.2,
+    "carbohydrates_g": 66.6,
+    "of_which_sugars_g": 12.8,
+    "fat_g": 15.8,
+    "of_which_saturated_fat_g": 1.5,
+    "dietary_fiber_g": 7.3,
+    "sodium_mg": 0.00067
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

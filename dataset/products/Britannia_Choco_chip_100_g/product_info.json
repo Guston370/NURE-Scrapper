@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "REFINED WHEAT FLOUR",
+    "SUGAR",
+    "EDIBLE VEGETABLE OIL",
+    "CHOCOLATE CHIPS  [SUGAR",
+    "COCOA SOLIDS",
+    "COCOA BUTTER",
+    "DEXTROSE",
+    "EMULSIFIER  AND ADDED NATURAL FLAVOURING SUBSTANCES ] CHOCOCHIPS  [SUGAR EDIBLE HYDROGENATED VEGETABLE OIL",
+    "COCOA SOLIDS",
+    "DEXTROSE",
+    "EMULSIFIER AND ADDED NATURAL FLAVOURING SUBSTANCES ]",
+    "INVERT SYRUP RAISING AGENTS [503",
+    "500",
+    "450]",
+    "COCOA SOLIDS",
+    "EDIBLE COMMON SALT AND EMULSIFIERS  CONTAINS PERMITTED NATURAL FOOD COLOUR  AND ADDED FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES ]"
+  ],
+  "nutrition": {
+    "energy_kcal": 493,
+    "protein_g": 5,
+    "carbohydrates_g": 71,
+    "of_which_sugars_g": 30,
+    "fat_g": 21,
+    "of_which_saturated_fat_g": 7.5,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

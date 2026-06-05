@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "Coffee creamer [Glucose syrup",
+    "Hydrogenated vegetable fat",
+    "Sodium caseinate",
+    "Emuisifier",
+    "Stabilizer  Anti-caking agent",
+    "Dairy Flavour)",
+    "Sugar",
+    "Instant Coffee  & Salt. CONTAINS ADDED FLAVOURS  Ingredients after reconstitution: Water",
+    "Coffee creamer [Glucose syrup",
+    "Hydrogenated vegetable fat",
+    "Sodium Caseinate",
+    "Emulsfer",
+    "Sttabilizer340.337.452)",
+    "Anti-caking agent 551)",
+    "Dairy Flavour)",
+    "Sugar",
+    "Instant Coffee & Salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 92.3,
+    "protein_g": 0.79,
+    "carbohydrates_g": 15.3,
+    "of_which_sugars_g": 11.6,
+    "fat_g": 3,
+    "of_which_saturated_fat_g": 3,
+    "dietary_fiber_g": 1.5,
+    "sodium_mg": 0.063908
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

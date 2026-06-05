@@ -1,0 +1,38 @@
+{
+  "ingredients": [
+    "Wheat flour",
+    "sugars",
+    "palm oil",
+    "invert sugar syrup",
+    "sweetened condensed milk",
+    "sesame oil",
+    "skim milk powder",
+    "leavening agents",
+    "salt",
+    "dough conditioner",
+    "sodium metabisulphite",
+    "artificial flavour",
+    "caramel colour"
+  ],
+  "nutrition": {
+    "energy_kcal": 437.5,
+    "protein_g": 9.375,
+    "carbohydrates_g": 78.125,
+    "of_which_sugars_g": 21.875,
+    "fat_g": 9.375,
+    "of_which_saturated_fat_g": 6.25,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.3125
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Sesame Seeds"
+  ],
+  "description": "",
+  "country_of_origin": "Canada",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

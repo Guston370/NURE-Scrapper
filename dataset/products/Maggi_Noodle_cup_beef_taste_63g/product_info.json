@@ -1,0 +1,49 @@
+{
+  "ingredients": [
+    "87",
+    "3% frittierte Nudeln [WEIZENMEHL",
+    "Sonnenblumenöl",
+    "WEIZENGLUTEN",
+    "Salz",
+    "Säureregulator Kaliumcarbonat",
+    "Stabilisator Polyphosphate]",
+    "Salz",
+    "Karotten",
+    "Stärke",
+    "Gewürze",
+    "Kräuter",
+    "0",
+    "5% SOJASAUCENPULVER [",
+    "Maltose]",
+    "Lauch",
+    "Zwiebeln",
+    "Aromen",
+    "Zucker",
+    "Hefeextrakt",
+    "Karamellzuckersirup",
+    "Sonnenblumenöl. Kann SELLERIE",
+    "EIER",
+    "MILCH",
+    "SENF und SESAM enthalten."
+  ],
+  "nutrition": {
+    "energy_kcal": 103,
+    "protein_g": 2.4,
+    "carbohydrates_g": 11.7,
+    "of_which_sugars_g": 0.6,
+    "fat_g": 5,
+    "of_which_saturated_fat_g": 2.8,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.4
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Österreich, Frankreich, Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

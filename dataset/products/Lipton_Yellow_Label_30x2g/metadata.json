@@ -1,0 +1,16 @@
+{
+  "product_id": "4acd15f57857",
+  "product_name": "Yellow Label",
+  "brand": "Lipton",
+  "barcode": "8720608007417",
+  "category": "Beverages",
+  "subcategory": "Plant Based Foods And Beverages",
+  "weight": "30x2g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8720608007417",
+  "image_count": 0,
+  "folder_name": "Lipton_Yellow_Label_30x2g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.768619Z"
+}

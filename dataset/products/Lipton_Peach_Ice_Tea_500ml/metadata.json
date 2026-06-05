@@ -1,0 +1,16 @@
+{
+  "product_id": "2c756700cea4",
+  "product_name": "Peach Ice Tea",
+  "brand": "Lipton",
+  "barcode": "5000118047817",
+  "category": "Beverages",
+  "subcategory": "Plant Based Foods And Beverages",
+  "weight": "500ml",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5000118047817",
+  "image_count": 0,
+  "folder_name": "Lipton_Peach_Ice_Tea_500ml",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.776222Z"
+}

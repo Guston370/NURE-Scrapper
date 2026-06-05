@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    "Coriander",
+    "salt",
+    "red chilli",
+    "turmeric",
+    "onion flakes",
+    "dry ginger",
+    "cassia",
+    "cumin garlic flakes",
+    "cloves",
+    "nutmeg",
+    "mace",
+    "asafoetida."
+  ],
+  "nutrition": {
+    "energy_kcal": 360,
+    "protein_g": 40,
+    "carbohydrates_g": 40,
+    "of_which_sugars_g": 0,
+    "fat_g": 20,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 7.94512
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

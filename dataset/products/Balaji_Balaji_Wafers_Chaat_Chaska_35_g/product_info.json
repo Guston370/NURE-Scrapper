@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Potato",
+    "Edible Vegetable Oil",
+    "lodized Salt",
+    "†Spices & Condiments 0.5%",
+    "Dehydrated Vegetable Powder",
+    "Sugar",
+    "Maltodextrin",
+    "Flavour Enhancer",
+    "Acidity Regulator",
+    "Anticaking Agent ."
+  ],
+  "nutrition": {
+    "energy_kcal": 545,
+    "protein_g": 7.4,
+    "carbohydrates_g": 53.5,
+    "of_which_sugars_g": 3,
+    "fat_g": 32.2,
+    "of_which_saturated_fat_g": 15.3,
+    "dietary_fiber_g": 6.2,
+    "sodium_mg": 0.3928
+  },
+  "allergens": [],
+  "description": "Potato Chips",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

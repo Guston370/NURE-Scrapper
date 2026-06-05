@@ -1,0 +1,16 @@
+{
+  "product_id": "d24206d8affe",
+  "product_name": "Penguin Biscuit Bar",
+  "brand": "McVitie's",
+  "barcode": "50168064",
+  "category": "Snacks & Namkeen",
+  "subcategory": "Sweet Snacks",
+  "weight": "24.6 g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/50168064",
+  "image_count": 0,
+  "folder_name": "McVitie_s_Penguin_Biscuit_Bar_24_6_g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.468311Z"
+}

@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "88.7% fried noodles [ wheat flour",
+    "sunflower oil",
+    "wheat gluten",
+    "salt",
+    "acidity regulator potassium carbonate",
+    "stabilizer polyphosphates]",
+    "salt",
+    "curry",
+    "spices",
+    "onions",
+    "sunflower oil",
+    "leeks",
+    "parsley",
+    "starch",
+    "sugar",
+    "yeast extract",
+    "flavors"
+  ],
+  "nutrition": {
+    "energy_kcal": 75.3330234621763,
+    "protein_g": 1.7,
+    "carbohydrates_g": 10.4,
+    "of_which_sugars_g": 0.3,
+    "fat_g": 2.9,
+    "of_which_saturated_fat_g": 0.2,
+    "dietary_fiber_g": 0.6,
+    "sodium_mg": 0.376
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

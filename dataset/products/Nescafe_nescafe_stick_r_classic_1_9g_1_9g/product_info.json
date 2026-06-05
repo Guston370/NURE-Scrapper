@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "100% Pure and Natural coffee"
+  ],
+  "nutrition": {
+    "energy_kcal": 5,
+    "protein_g": 0.2,
+    "carbohydrates_g": 2,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": 1,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "Nescafe Stick (Nescafe Classic Stick)",
+  "country_of_origin": "Philippines",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    "milk",
+    "sugar",
+    "dried grapes",
+    "cocoa butter",
+    "almonds",
+    "cocoa mass",
+    "vegetable fats",
+    "emulsifiers",
+    "flavourings"
+  ],
+  "nutrition": {
+    "energy_kcal": 500,
+    "protein_g": 7.8,
+    "carbohydrates_g": 55,
+    "of_which_sugars_g": 54,
+    "fat_g": 27,
+    "of_which_saturated_fat_g": 13,
+    "dietary_fiber_g": 3.2,
+    "sodium_mg": 0.076
+  },
+  "allergens": [
+    "Milk",
+    "Nuts"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

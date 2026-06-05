@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "MILK**",
+    "sugar",
+    "cocoa butter",
+    "glucose syrup",
+    "vegetable fats",
+    "glucose-fructose syrup",
+    "cocoa mass",
+    "whey powder",
+    "emulsifier",
+    "flavourings",
+    "salt",
+    "acidity regulator ."
+  ],
+  "nutrition": {
+    "energy_kcal": 497,
+    "protein_g": 5.7,
+    "carbohydrates_g": 59,
+    "of_which_sugars_g": 52,
+    "fat_g": 26,
+    "of_which_saturated_fat_g": 15,
+    "dietary_fiber_g": 1.6,
+    "sodium_mg": 0.122
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

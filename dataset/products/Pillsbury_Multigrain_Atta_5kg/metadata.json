@@ -1,0 +1,16 @@
+{
+  "product_id": "7a153cff90aa",
+  "product_name": "Multigrain Atta",
+  "brand": "Pillsbury",
+  "barcode": "8906000212240",
+  "category": "Grains & Flour",
+  "subcategory": "Plant Based Foods",
+  "weight": "5kg",
+  "manufacturer": "India",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8906000212240",
+  "image_count": 0,
+  "folder_name": "Pillsbury_Multigrain_Atta_5kg",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.051889Z"
+}

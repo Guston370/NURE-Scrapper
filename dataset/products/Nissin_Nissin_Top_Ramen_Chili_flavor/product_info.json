@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 452.38095238095,
+    "protein_g": 11.904761904762,
+    "carbohydrates_g": 61.904761904762,
+    "of_which_sugars_g": 2.3809523809524,
+    "fat_g": 16.666666666667,
+    "of_which_saturated_fat_g": 9.5238095238095,
+    "dietary_fiber_g": 2.3809523809524,
+    "sodium_mg": 1.8095238095238
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Viêt Nam",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

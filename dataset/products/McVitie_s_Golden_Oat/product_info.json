@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 471,
+    "protein_g": 7.3,
+    "carbohydrates_g": 61.4,
+    "of_which_sugars_g": 25.5,
+    "fat_g": 20.3,
+    "of_which_saturated_fat_g": 8.9,
+    "dietary_fiber_g": 6.1,
+    "sodium_mg": 0.332
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Égypte, Maroc",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": ""
+}

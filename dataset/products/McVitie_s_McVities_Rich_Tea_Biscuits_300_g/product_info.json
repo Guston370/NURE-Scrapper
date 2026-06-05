@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Flour",
+    "Sugar",
+    "Vegetable Oil",
+    "Glucose-Fructose Syrup",
+    "Barley Malt Extract",
+    "Raising Agents",
+    "Salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 460,
+    "protein_g": 7.2,
+    "carbohydrates_g": 71.1,
+    "of_which_sugars_g": 18.6,
+    "fat_g": 15.7,
+    "of_which_saturated_fat_g": 7.4,
+    "dietary_fiber_g": 3,
+    "sodium_mg": 0.324
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "Rich Tea Biscuits",
+  "country_of_origin": "Ireland, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

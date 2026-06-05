@@ -1,0 +1,16 @@
+{
+  "product_id": "c7b0c959911b",
+  "product_name": "Coffee Powder",
+  "brand": "Bru",
+  "barcode": "8901030084188",
+  "category": "Tea & Coffee",
+  "subcategory": "",
+  "weight": "200g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8901030084188",
+  "image_count": 0,
+  "folder_name": "Bru_Coffee_Powder_200g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.856950Z"
+}

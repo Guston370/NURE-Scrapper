@@ -1,0 +1,25 @@
+{
+    "Products Processed": 100,
+    "Average Valid Images Per Product": 4.7,
+    "Median Images Per Product": 0,
+    "Lowest Image Count": 0,
+    "Highest Image Count": 14,
+    "Products Below 10 Images": 100,
+    "Source Contribution Percentages (actual measured)": {
+        "OpenFoodFacts": "0.0%",
+        "Amazon": "3.4%",
+        "Bing": "0.0%",
+        "Blinkit": "96.6%",
+        "BigBasket": "0.0%",
+        "JioMart": "0.0%",
+        "Flipkart": "0.0%"
+    },
+    "Storage Used": "7.97 MB",
+    "Estimated Storage For 878 Products": "69.94 MB",
+    "Validation Confirmations": {
+        "Every image file physically exists": true,
+        "Total Image Files on Disk": 467,
+        "Total Images Recorded in Stats": 467,
+        "Reports generated from actual data": true
+    }
+}

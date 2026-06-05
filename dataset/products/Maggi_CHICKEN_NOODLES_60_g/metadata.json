@@ -1,0 +1,16 @@
+{
+  "product_id": "3c26a0128c8e",
+  "product_name": "CHICKEN NOODLES",
+  "brand": "Maggi",
+  "barcode": "9556001171337",
+  "category": "Instant Foods & Noodles",
+  "subcategory": "Plant Based Foods",
+  "weight": "60 g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/9556001171337",
+  "image_count": 0,
+  "folder_name": "Maggi_CHICKEN_NOODLES_60_g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.561731Z"
+}

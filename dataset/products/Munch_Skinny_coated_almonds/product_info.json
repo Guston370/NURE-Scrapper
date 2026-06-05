@@ -1,0 +1,42 @@
+{
+  "ingredients": [
+    "Roasted Almonds",
+    "Dark Chocolate",
+    "Natural Vanilla Flavour",
+    "Milk)",
+    "Freeze-Dried Raspberry Powder",
+    "Icing Sugar",
+    "Acidity Regulators  Dark Chocolate contains 55% Cocoa Solids Contains Almond",
+    "Soy",
+    "Milk This product is packaged in a facility where nut",
+    "gluten",
+    "milk",
+    "sesame",
+    "and soy-based products are packaged. This product may contain traces of peanuts",
+    "other nuts",
+    "gluten and sesame."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": 35.7,
+    "of_which_sugars_g": 23.7,
+    "fat_g": 37.6,
+    "of_which_saturated_fat_g": 12.9,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.004
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Nuts",
+    "Sesame Seeds",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "New Zealand",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

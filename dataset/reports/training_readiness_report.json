@@ -1,0 +1,7 @@
+{
+  "total_training_images": 2674,
+  "classes_available": 212,
+  "products_meeting_threshold": 195,
+  "average_images_per_class": 12.6,
+  "status": "Ready for Training Pipeline"
+}

@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    "FULL CREAM MILK",
+    "SUGAR",
+    "COCOA BUTTER",
+    "COCOA MASS",
+    "MILK SOLIDS",
+    "EMULSIFIERS",
+    "FLAVOURS. MILK CHOCOLATE CONTAINS COCOA SOLIDS 27%",
+    "MILK SOLIDS MINIMUM 24%. ALLERGEN STATEMENT: CONTAINS MILK AND SOY. MAY CONTAIN TRACES OF WHEAT",
+    "PEANUTS AND TREE NUTS."
+  ],
+  "nutrition": {
+    "energy_kcal": 542.065009560229,
+    "protein_g": 7.2,
+    "carbohydrates_g": 57.2,
+    "of_which_sugars_g": 56,
+    "fat_g": 30.4,
+    "of_which_saturated_fat_g": 19.2,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.08
+  },
+  "allergens": [
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Australia, New Zealand",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

@@ -1,0 +1,49 @@
+{
+  "ingredients": [
+    "79% _HARTWEIZENGRIESSTEIGWAREN_",
+    "Speisesalz",
+    "Stärke",
+    "Hefeextrakt",
+    "Palmöl",
+    "Kochsalzersatz",
+    "Speisesalz",
+    "0",
+    "5% Zwiebeln",
+    "Zucker",
+    "0",
+    "2% Karotten",
+    "Maltodextrin",
+    "Palmöl",
+    "Gewürze",
+    "Petersilie",
+    "Fruktose",
+    "Sojasauce",
+    "Aromen",
+    "Gemüsesaftkonzentrat",
+    "Karamellzuckersirup",
+    "Sonnenblumenöl."
+  ],
+  "nutrition": {
+    "energy_kcal": 39,
+    "protein_g": 1.5,
+    "carbohydrates_g": 6.9,
+    "of_which_sugars_g": 0.5,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.2,
+    "dietary_fiber_g": 0.5,
+    "sodium_mg": 0.336
+  },
+  "allergens": [
+    "Celery",
+    "Gluten",
+    "Soybeans",
+    "De:Hartweizengriessteigwaren",
+    "De:Soja   Bohnen"
+  ],
+  "description": "",
+  "country_of_origin": "France, Germany",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

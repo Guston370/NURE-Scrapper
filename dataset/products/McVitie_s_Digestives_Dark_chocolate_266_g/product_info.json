@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Flour 39%",
+    "Plain Chocolate 30%",
+    "Butter Oil",
+    "Cocoa Butter",
+    "Emulsifiers",
+    "Natural Flavouring)",
+    "Vegetable Oil",
+    "Wholemeal _Wheat_ Flour 9%",
+    "Sugar",
+    "Glucose-Fructose Syrup",
+    "Raising Agents",
+    "Salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 495,
+    "protein_g": 6,
+    "carbohydrates_g": 60.8,
+    "of_which_sugars_g": 27.6,
+    "fat_g": 24.2,
+    "of_which_saturated_fat_g": 12.8,
+    "dietary_fiber_g": 4.2,
+    "sodium_mg": 0.352
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

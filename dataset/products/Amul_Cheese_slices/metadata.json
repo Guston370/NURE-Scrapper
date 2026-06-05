@@ -1,0 +1,16 @@
+{
+  "product_id": "7873d568776e",
+  "product_name": "Cheese slices",
+  "brand": "Amul",
+  "barcode": "0656846570490",
+  "category": "Dairy",
+  "subcategory": "",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/0656846570490",
+  "image_count": 0,
+  "folder_name": "Amul_Cheese_slices",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.313584Z"
+}

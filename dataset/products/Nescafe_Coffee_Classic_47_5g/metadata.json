@@ -1,0 +1,16 @@
+{
+  "product_id": "935eb0015dd2",
+  "product_name": "Coffee Classic",
+  "brand": "Nescafe",
+  "barcode": "7891000361252",
+  "category": "Beverages",
+  "subcategory": "Plant Based Foods And Beverages",
+  "weight": "47.5g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/7891000361252",
+  "image_count": 0,
+  "folder_name": "Nescafe_Coffee_Classic_47_5g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.846156Z"
+}

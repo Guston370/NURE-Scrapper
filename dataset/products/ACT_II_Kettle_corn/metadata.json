@@ -1,0 +1,16 @@
+{
+  "product_id": "53c31aae5bdb",
+  "product_name": "Kettle corn",
+  "brand": "ACT II",
+  "barcode": "0076150232820",
+  "category": "Snacks & Namkeen",
+  "subcategory": "Popcorn",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/0076150232820",
+  "image_count": 0,
+  "folder_name": "ACT_II_Kettle_corn",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.386379Z"
+}

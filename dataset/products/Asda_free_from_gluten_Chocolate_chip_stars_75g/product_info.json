@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Gluten Free Oat Flour",
+    "Salted Butter  [Butter",
+    "Salt]",
+    "Sugar",
+    "Dark Chocolate Chips  [Sugar",
+    "Cocoa Mass*",
+    "Cocoa Butter*",
+    "Flavouring",
+    "Emulsifier ]",
+    "Cornflour",
+    "Rice Flour",
+    "Raising Agent",
+    "Cane Molasses."
+  ],
+  "nutrition": {
+    "energy_kcal": 477,
+    "protein_g": 5.9,
+    "carbohydrates_g": 62,
+    "of_which_sugars_g": 27,
+    "fat_g": 22,
+    "of_which_saturated_fat_g": 13,
+    "dietary_fiber_g": 3.4,
+    "sodium_mg": 0.272
+  },
+  "allergens": [
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

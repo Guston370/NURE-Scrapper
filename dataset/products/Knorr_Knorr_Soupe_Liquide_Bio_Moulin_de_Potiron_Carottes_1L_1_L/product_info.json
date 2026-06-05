@@ -1,0 +1,46 @@
+{
+  "ingredients": [
+    "Eau",
+    "potiron1",
+    "2 : 25%",
+    "carotte1",
+    "2 : 13%",
+    "oignon1",
+    "2",
+    "pomme de terre1",
+    "2",
+    "amidon de maïs1",
+    "CRÈME fraîche1",
+    "sucre de canne1",
+    "tomate1",
+    "2",
+    "sel",
+    "BEURRE1",
+    "extrait de levure. Peut contenir : céleri",
+    "céréales contenant du gluten",
+    "moutarde",
+    "œuf",
+    "soja. 1Ingrédients issus de l'Agriculture Biologique. 2Légumes issus de l'Agriculture Durable. 45",
+    "3% de légumes1",
+    "2 ."
+  ],
+  "nutrition": {
+    "energy_kcal": 26,
+    "protein_g": 0.5,
+    "carbohydrates_g": 3.9,
+    "of_which_sugars_g": 1.8,
+    "fat_g": 0.8,
+    "of_which_saturated_fat_g": 0.5,
+    "dietary_fiber_g": 0.7,
+    "sodium_mg": 0.24
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "Soupe.",
+  "country_of_origin": "France",
+  "storage_information": "Le mode de préparation et d'emballage de cette soupe sont la garantie de sa conservation. Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": ""
+}

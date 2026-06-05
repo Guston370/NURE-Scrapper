@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Apple",
+    "Strawberries",
+    "Banana",
+    "Raspberries",
+    "Concentrated Lemon Juice",
+    "Vitamin C."
+  ],
+  "nutrition": {
+    "energy_kcal": 61,
+    "protein_g": 0.4,
+    "carbohydrates_g": 12.9,
+    "of_which_sugars_g": 11.6,
+    "fat_g": 0.3,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": 2.3,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Apple",
+    "Banana"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1
+}

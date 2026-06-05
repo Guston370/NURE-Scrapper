@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 96.4761904761905,
+    "protein_g": 0.180952380952381,
+    "carbohydrates_g": 22.247619047619,
+    "of_which_sugars_g": 11.6285714285714,
+    "fat_g": 0.10952380952381,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.00724761904761905
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Costa Rica",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Wasser",
+    "rote Bohnen",
+    "Zwiebeln",
+    "Sonnenblumenöl",
+    "Tomatenmark",
+    "Ingwer",
+    "Knoblauch",
+    "Salz",
+    "Gewürze",
+    "Chilipulver",
+    "Kreuzkümmel."
+  ],
+  "nutrition": {
+    "energy_kcal": 142,
+    "protein_g": 5.5,
+    "carbohydrates_g": 17,
+    "of_which_sugars_g": 0.5,
+    "fat_g": 6.2,
+    "of_which_saturated_fat_g": 0.6,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.48
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

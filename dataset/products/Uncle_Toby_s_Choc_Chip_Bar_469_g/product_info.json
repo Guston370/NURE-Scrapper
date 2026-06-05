@@ -1,0 +1,51 @@
+{
+  "ingredients": [
+    "Choc Chip: Muesli blend: [UNCLE TOBYS Rolled Oats",
+    "wheat",
+    "breakfast cereal",
+    "wheat flour",
+    "wheat bran",
+    "sugar",
+    "vitamin E)",
+    "coconut",
+    "milk powder)",
+    "glucose",
+    "choc chips  [sugar",
+    "vegetable oil",
+    "milk solids",
+    "cocoa",
+    "cocoa mass",
+    "emulsifiers",
+    "salt)",
+    "chicory root fibre",
+    "vegetable oil",
+    "sugar",
+    "humectant",
+    "modified starch . invert sugar",
+    "honey",
+    "emulsifier",
+    "natural flavour",
+    "salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 389.434266488818,
+    "protein_g": 7.02875399361022,
+    "carbohydrates_g": 59.7444089456869,
+    "of_which_sugars_g": 17.2523961661342,
+    "fat_g": 11.5015974440895,
+    "of_which_saturated_fat_g": 4.15335463258786,
+    "dietary_fiber_g": 10.8626198083067,
+    "sodium_mg": 0.0415335463258786
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Australia",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "popping corn",
+    "palm oil",
+    "salt",
+    "color added",
+    "natural flavor",
+    "TBHQ",
+    "citric acid"
+  ],
+  "nutrition": {
+    "energy_kcal": 441.176470588235,
+    "protein_g": 8.82352941176471,
+    "carbohydrates_g": 55.8823529411765,
+    "of_which_sugars_g": null,
+    "fat_g": 23.5294117647059,
+    "of_which_saturated_fat_g": 11.7647058823529,
+    "dietary_fiber_g": 8.82352941176471,
+    "sodium_mg": 0.970588235294118
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

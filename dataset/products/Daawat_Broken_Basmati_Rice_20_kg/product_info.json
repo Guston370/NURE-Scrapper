@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Basmati Reis 100%"
+  ],
+  "nutrition": {
+    "energy_kcal": 353,
+    "protein_g": 8.2,
+    "carbohydrates_g": 78,
+    "of_which_sugars_g": 0,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": 0.05,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 1
+}

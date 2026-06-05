@@ -1,0 +1,38 @@
+{
+  "ingredients": [
+    "POTATO",
+    "EDIBLE VEGETABLE OIL",
+    "**SEASONING [SUGAR",
+    "MALTODEXTRIN",
+    "SALT",
+    "SPICES & CONDIMENTS",
+    "PEPPER)",
+    "DEHYDRATED VEGETABLE POWDER",
+    "BLACK SALT",
+    "ACIDITY REGULATOR",
+    "MILK SOLIDS",
+    "HYDROLYZED VEGETABLE PROTEIN SOYA)",
+    "ANTICAKING AGENT",
+    "FLAVOUR ENHANCER  FLAVOUR",
+    "PAPRIKA EXTRACT",
+    "STABILIZER",
+    "EMULSIFIER ]"
+  ],
+  "nutrition": {
+    "energy_kcal": 545,
+    "protein_g": 7.5,
+    "carbohydrates_g": 55,
+    "of_which_sugars_g": 3.8,
+    "fat_g": 30.7,
+    "of_which_saturated_fat_g": 14.4,
+    "dietary_fiber_g": 9.3,
+    "sodium_mg": 0.000967
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

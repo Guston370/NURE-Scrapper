@@ -1,0 +1,202 @@
+Product Name,Brand,Original Image Count,Valid Images,Duplicates Removed,Blurry Images Removed,Corrupt Images Removed,Too Small Removed,Final Image Count,Meets Minimum Threshold
+aashirwad atta 10kg,Aashirvaad,12,12,0,0,0,0,12,Yes
+Atta with Multigrains,Aashirvaad,12,12,0,0,0,0,12,Yes
+Atta Whole Wheat Flour With Multigrains,Aashirvaad,14,14,0,0,0,0,14,Yes
+Atta with Millets,Aashirvaad,2,2,0,0,0,0,2,No
+Chakki atta,Pillsbury,10,10,0,0,0,0,10,Yes
+Pilsbry chakki fresh atta 2kg,Pillsbury,14,14,0,0,0,0,14,Yes
+Chakki Fresh Atta,Pillsbury,15,15,0,0,0,0,15,Yes
+Multigrain Atta,Pillsbury,9,9,0,0,0,0,9,No
+Gold Atta,Pillsbury,11,11,0,0,0,0,11,Yes
+Pillsbury gold atta 5kg,Pillsbury,13,13,0,0,0,0,13,Yes
+Fortune Atta,Fortune,13,13,0,0,0,0,13,Yes
+Basmati Aged 1kg (India Gate),India Gate,12,12,0,0,0,0,12,Yes
+Basmati rice,India Gate,9,9,0,0,0,0,9,No
+Rice India Gate uncooked,India Gate,12,12,0,0,0,0,12,Yes
+Riz basmati - Rosana,India Gate,11,11,0,0,0,0,11,Yes
+White basmati rice excel,India Gate,15,15,0,0,0,0,15,Yes
+Basmati rice 10kg,India Gate,11,11,0,0,0,0,11,Yes
+India Gate Classic Rice,India Gate,15,15,0,0,0,0,15,Yes
+Sprouted Brown Basmati Rice,India Gate,16,16,0,0,0,0,16,Yes
+Sella Basmati Rice,India Gate,14,14,0,0,0,0,14,Yes
+Basmati Rice Classic,India Gate,14,14,0,0,0,0,14,Yes
+Extra Long Basmati Rice Premium,India Gate,16,16,0,0,0,0,16,Yes
+Parboiled Basmati Rice,India Gate,16,16,0,0,0,0,16,Yes
+Basmati,Daawat,7,7,0,0,0,0,7,No
+Original Basmati Rice,Daawat,7,7,0,0,0,0,7,No
+Rozana Gold  basmati rice,Daawat,14,14,0,0,0,0,14,Yes
+Daawat Indian Basmati Rice White,Daawat,10,10,0,0,0,0,10,Yes
+daawat super basmati rice,Daawat,7,7,0,0,0,0,7,No
+Extra Long Basmati Rice,Daawat,10,10,0,0,0,0,10,Yes
+Basmati Rice,Daawat,7,7,0,0,0,0,7,No
+Super Basmati Rice,Daawat,8,8,0,0,0,0,8,No
+Broken Basmati Rice,Daawat,8,8,0,0,0,0,8,No
+Brown Basmati Rice,Daawat,12,12,0,0,0,0,12,Yes
+Chefs Secretz Basmati Rice,Daawat,13,13,0,0,0,0,13,Yes
+Extra Long Basmati Reis,Daawat,13,13,0,0,0,0,13,Yes
+Rice raw,Daawat,7,7,0,0,0,0,7,No
+Daawat Basmati Blue 500g,Daawat,12,12,0,0,0,0,12,Yes
+EVERYDAY BASMATI RICE,Daawat,12,12,0,0,0,0,12,Yes
+Everyday Basmati Rice,Kohinoor,17,17,0,0,0,0,17,Yes
+Basmati,Kohinoor,10,10,0,0,0,0,10,Yes
+"Kohinoor's Exclusive, Brown Basmati Rice",Kohinoor,16,16,0,0,0,0,16,Yes
+Finest Indian Basmati Rice,Kohinoor,16,16,0,0,0,0,16,Yes
+Basmati rice,Kohinoor,15,15,0,0,0,0,15,Yes
+Basmati Gold,Kohinoor,12,12,0,0,0,0,12,Yes
+Extra Long Basmati Rice,Kohinoor,16,16,0,0,0,0,16,Yes
+Basmati rice extra long 64oz.,Kohinoor,16,16,0,0,0,0,16,Yes
+Extra Long Grain Basmati Rice,Kohinoor,17,17,0,0,0,0,17,Yes
+Brown basmati rice,Kohinoor,14,14,0,0,0,0,14,Yes
+Toor Dal,Kazan’s Organic,12,12,0,0,0,0,12,Yes
+Toor dal (split pigeon peas),Swad,13,13,0,0,0,0,13,Yes
+Toor Dal,Real,10,10,0,0,0,0,10,Yes
+Toor Dal,Annam,11,11,0,0,0,0,11,Yes
+Toor Dal,Laxmi,11,11,0,0,0,0,11,Yes
+Uncooked Toor Dal,Devi,15,15,0,0,0,0,15,Yes
+Toor Dal (Vasad Madhi) Split Pigeon Peas,Laxmi,11,11,0,0,0,0,11,Yes
+Toor Dal,Shani,12,12,0,0,0,0,12,Yes
+Bikaji (moong Dal) 400GM,Bikaji,13,13,0,0,0,0,13,Yes
+Moong Dal,Bikano,13,13,0,0,0,0,13,Yes
+Bikaji Moong Dal 200gm,Moong Dal,14,14,0,0,0,0,14,Yes
+Moong Dal,Haldiram's,12,12,0,0,0,0,12,Yes
+Moong Dal,Deep,11,11,0,0,0,0,11,Yes
+Moong Dal,Royal,13,13,0,0,0,0,13,Yes
+"Moong dal, split moong beans (without skin)",Diya,13,13,0,0,0,0,13,Yes
+Parle Namkeen &quot;Moong Dal&quot; 400GM,Parle,14,14,0,0,0,0,14,Yes
+Moong Dal Indian Snacks,Haldiram's,13,13,0,0,0,0,13,Yes
+Dal Moong,Rehmat-e-Sheren,12,12,0,0,0,0,12,Yes
+Namkeen - Moong dal,Parle,13,13,0,0,0,0,13,Yes
+Ashoka Moong Dal Kachori,Ashoka,14,14,0,0,0,0,14,Yes
+Moong dal,Shama,12,12,0,0,0,0,12,Yes
+Moong Dal,Laxmi,10,10,0,0,0,0,10,Yes
+Organic Moong Dal,24 Mantra Organic,13,13,0,0,0,0,13,Yes
+"Organic Moong Dal, Dry",Laxmi,14,14,0,0,0,0,14,Yes
+Moong Dal (Spit Mung Beans w/o Husk),Laxmi,13,13,0,0,0,0,13,Yes
+Moong Dal Lentils,Shan,11,11,0,0,0,0,11,Yes
+Moong Dal Chilka,Deep,13,13,0,0,0,0,13,Yes
+Moong Dal Split,Laxmi,11,11,0,0,0,0,11,Yes
+Moong Dal,Noor Gazal,12,12,0,0,0,0,12,Yes
+Moong Dal,Patidar,14,14,0,0,0,0,14,Yes
+Yellow Split Moong dal,Devi,13,13,0,0,0,0,13,Yes
+Moong Dal Washed,Sundar,12,12,0,0,0,0,12,Yes
+Moong Dal,Swad,14,14,0,0,0,0,14,Yes
+Moong Dal,Angur,11,11,0,0,0,0,11,Yes
+Moong Dal,Ravi,14,14,0,0,0,0,14,Yes
+Moong Dal,Asli,13,13,0,0,0,0,13,Yes
+Split Moong Dal,Roomy,13,13,0,0,0,0,13,Yes
+Moong Dal (Petite Yellow Lentil),Mahraba,9,9,0,0,0,0,9,No
+Moong Dal,Bayara,10,10,0,0,0,0,10,Yes
+Moong Dal,Rani Brand,15,15,0,0,0,0,15,Yes
+Moong Dal,SpiceBox,16,16,0,0,0,0,16,Yes
+moong dal,Bikaji,14,14,0,0,0,0,14,Yes
+Moong Dal,Real Bites,14,14,0,0,0,0,14,Yes
+Moong Dal,Kesar Grocery,11,11,0,0,0,0,11,Yes
+CHANA DAL,Haldiram's,11,11,0,0,0,0,11,Yes
+Chana dal (savoury Indian snack),cofresh,14,14,0,0,0,0,14,Yes
+Chana Dal,Indus,14,14,0,0,0,0,14,Yes
+Chana dal,Raju,13,13,0,0,0,0,13,Yes
+Chana Dal,samrat,13,13,0,0,0,0,13,Yes
+Chana Dal,Balaji,14,14,0,0,0,0,14,Yes
+"Bombay Kitchen, Chana Dal",Bombay Kitchen Foods  Inc.,13,13,0,0,0,0,13,Yes
+Chana Dal Masala,R-Pure Agro Specialities,14,14,0,0,0,0,14,Yes
+MDH Chana Dal Masala 100G,MDH,12,12,0,0,0,0,12,Yes
+Ashoka Chana Dal Tikki,Ashoka,14,14,0,0,0,0,14,Yes
+Chana Dal,Laxmi,13,13,0,0,0,0,13,Yes
+Salade de Chana Dal,Hero,14,14,0,0,0,0,14,Yes
+chana dal,Heera,14,14,0,0,0,0,14,Yes
+Roasted Chana Dal,Ammaas,15,15,0,0,0,0,15,Yes
+Chana dal Namkeen,Swad,14,14,0,0,0,0,14,Yes
+Chana Dal,Stocked,16,16,0,0,0,0,16,Yes
+Chana Dal,Ramdev,14,14,0,0,0,0,14,Yes
+Chana Dal,Noor Gazal,14,14,0,0,0,0,14,Yes
+Chana Dal (Snack),Bikano,15,15,0,0,0,0,15,Yes
+Split Chana dal,Saurbhi,16,16,0,0,0,0,16,Yes
+Chana Dal Split Chickpea Lentil,Divya,14,14,0,0,0,0,14,Yes
+Chana Dal,Praana,16,16,0,0,0,0,16,Yes
+Chana Dal Split Chickpeas,Laxmi,16,16,0,0,0,0,16,Yes
+CHANA DAL,Saral,14,14,0,0,0,0,14,Yes
+MTR Minute Meals Rajma Chawal,MTR,13,13,0,0,0,0,13,Yes
+"Fazlani foods, rajma masala",Fazlani Foods,17,17,0,0,0,0,17,Yes
+"Kitchens Of India, Red Kidney Beans Curry, Rajma Masala",ITC,17,17,0,0,0,0,17,Yes
+Shashi Rajma,Ashoka,13,13,0,0,0,0,13,Yes
+Rajma Masala Red Kidney Beans Curry,Kitchens of India,13,13,0,0,0,0,13,Yes
+Rajma pulao,ASHOKA,12,12,0,0,0,0,12,Yes
+Rajma masala,MTR,12,12,0,0,0,0,12,Yes
+Rajma Raseela,Haldiram's,11,11,0,0,0,0,11,Yes
+Rajma Masala,Everest,11,11,0,0,0,0,11,Yes
+Red Bean Rajma Masala,Brooklyn Delhi LLC,12,12,0,0,0,0,12,Yes
+Dilli style rajma raseela,Haldiram's,12,12,0,0,0,0,12,Yes
+Shahi Rajma,Ashoka,15,15,0,0,0,0,15,Yes
+Rajma Masala,Kohinoor,15,15,0,0,0,0,15,Yes
+MTR Ready-To-Eat Rajma Masala,MTR,14,14,0,0,0,0,14,Yes
+Shahi rajma,Golden orient,13,13,0,0,0,0,13,Yes
+"Rajma, Raw",24 Mantra,16,16,0,0,0,0,16,Yes
+Raw Rajma,Swad,13,13,0,0,0,0,13,Yes
+Jammu Rajma,Aman’s,11,11,0,0,0,0,11,Yes
+Rajma White,Dmart Premia,11,11,0,0,0,0,11,Yes
+Rajma Masala,Vadilal,15,15,0,0,0,0,15,Yes
+Punjabi Rajma,Tirupati’s,14,14,0,0,0,0,14,Yes
+Rajma,Bowlful,15,15,0,0,0,0,15,Yes
+Rajma,Five Minutes To Delhi,16,16,0,0,0,0,16,Yes
+Kashmiri Rajma,Orchid,13,13,0,0,0,0,13,Yes
+chiken biryani masala Everest,Everest,13,13,0,0,0,0,13,Yes
+Kesari Milk Masala,Everest,16,16,0,0,0,0,16,Yes
+Everest fish curry masala,Everest,1,1,0,0,0,0,1,No
+EVEREST Masala tae,Everest,16,16,0,0,0,0,16,Yes
+Shahi Paneer Masala,Everest,13,13,0,0,0,0,13,Yes
+EVEREST Chhole Masala,Everest,13,13,0,0,0,0,13,Yes
+Everest Chicken Masala,Everest,14,14,0,0,0,0,14,Yes
+Pani Puri Masala,Everest,13,13,0,0,0,0,13,Yes
+Tikka Masala Curry,Everest,12,12,0,0,0,0,12,Yes
+Sambar Masala,Everest,12,12,0,0,0,0,12,Yes
+Everest Tandoori Chicken Masala,Everest,9,9,0,0,0,0,9,No
+Chat Masala,Everest,13,13,0,0,0,0,13,Yes
+Chunky Chat masala,MDH,14,14,0,0,0,0,14,Yes
+Dal Makhani masala,MDH,11,11,0,0,0,0,11,Yes
+Pav Bhaji Masala,MDH,13,13,0,0,0,0,13,Yes
+MDH Chutney Podina Masala 100 Gramm,MDH,14,14,0,0,0,0,14,Yes
+pulao masala,MDH,14,14,0,0,0,0,14,Yes
+MDH Dal Makhani Masala,MDH,12,12,0,0,0,0,12,Yes
+T Plus Masala,MDH,14,14,0,0,0,0,14,Yes
+Butter chicken masala,MDH,14,14,0,0,0,0,14,Yes
+MDH JAL JEERA MASALA,MDH,14,14,0,0,0,0,14,Yes
+Karahi Paneer Masala,MDH,12,12,0,0,0,0,12,Yes
+Stuffed Parantha Masala Spice Blend,MDH,14,14,0,0,0,0,14,Yes
+Curry Masala for Karahi Gosht,MDH,17,17,0,0,0,0,17,Yes
+Sindhi Biryani masala,MDH,15,15,0,0,0,0,15,Yes
+"Whole Catch, Hot Smoked Sockeye Wild Alaskan Slamon, Cajun Spice",Whole Foods Market  Inc.,6,6,0,0,0,0,6,No
+Chhole Masala,Catch,13,13,0,0,0,0,13,Yes
+catch chat masala,Catch,14,14,0,0,0,0,14,Yes
+Sprinkler Black Pepper,Catch,12,12,0,0,0,0,12,Yes
+CHICKEN MASALA,Catch,11,11,0,0,0,0,11,Yes
+SAMBHAR MASALA,Catch,11,11,0,0,0,0,11,Yes
+Catch Chatpata Chat Masala,Catch,14,14,0,0,0,0,14,Yes
+KITCHEN KING,Catch,13,13,0,0,0,0,13,Yes
+Catch sabzi masala,Catch,13,13,0,0,0,0,13,Yes
+MEAT MASALA,Catch,12,12,0,0,0,0,12,Yes
+Garam masala,Catch,10,10,0,0,0,0,10,Yes
+catch Rajma masala,Catch,13,13,0,0,0,0,13,Yes
+Amchur power,Catch,11,11,0,0,0,0,11,Yes
+Kashmiri mirch power,Catch,12,12,0,0,0,0,12,Yes
+catch chana masala,Catch,14,14,0,0,0,0,14,Yes
+catch biryani masala,Catch,12,12,0,0,0,0,12,Yes
+pav bhaji masala,Catch,10,10,0,0,0,0,10,Yes
+100% Sanfflower Oil,Saffola,14,14,0,0,0,0,14,Yes
+100% Safflower Oil,Saffola,8,8,0,0,0,0,8,No
+Water buffalo butter,Amul,13,13,0,0,0,0,13,Yes
+Butter Unsalted,Amul,11,11,0,0,0,0,11,Yes
+Badam Flavoured Milk,Nandini,12,12,0,0,0,0,12,Yes
+GoodLife Pista Flavoured Milk,Nandini,11,11,0,0,0,0,11,Yes
+Munchies Cheese Fix,Munchies,14,14,0,0,0,0,14,Yes
+Glace Vanille Bourbon,Nestlé,14,14,0,0,0,0,14,Yes
+Crème glacée Vanille,La Manufacture des Belles Glaces,14,14,0,0,0,0,14,Yes
+Saucy Noodles Teriyaki,Maggi,12,12,0,0,0,0,12,Yes
+Loose Leaf Black Tea,Red Label,13,13,0,0,0,0,13,Yes
+Black Tea,Wagh Bakri,14,14,0,0,0,0,14,Yes
+BournVita,Cadbury,7,7,0,0,0,0,7,No
+Complan,Complan,13,13,0,0,0,0,13,Yes
+Strawberry,Complan,14,14,0,0,0,0,14,Yes
+PediaSure sabor vainilla,Abbott,13,13,0,0,0,0,13,Yes
+Pedia Sure,Abbott,13,13,0,0,0,0,13,Yes
+"Strawberry, Banana, Raspberry and Apple",Heinz,11,11,0,0,0,0,11,Yes
+Pollo Plasmon,Kraft Heinz,13,13,0,0,0,0,13,Yes

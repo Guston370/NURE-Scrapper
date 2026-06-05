@@ -1,0 +1,41 @@
+{
+  "ingredients": [
+    "ENRICHED WHEAT FLOUR",
+    "PEANUT BUTTER",
+    "VEGETABLE SHORTENING",
+    "SUGAR",
+    "MODIFIED CORN STARCH",
+    "AND LESS THAN 2% OF THE FOLLOWING: SALT",
+    "LEAVENING",
+    "DEXTROSE",
+    "CHEDDAR CHEESE",
+    "MOLASSES HYDROLYZED SOY PROTEIN",
+    "SOY LECITHIN",
+    "ARTIFICIAL COLOR",
+    "SODIUM METABISULFITE",
+    "SPICES",
+    "AND WHEAT FLOUR."
+  ],
+  "nutrition": {
+    "energy_kcal": 497.512437810945,
+    "protein_g": 4.54545454545455,
+    "carbohydrates_g": 54.5454545454545,
+    "of_which_sugars_g": 11.3636363636364,
+    "fat_g": 22.7272727272727,
+    "of_which_saturated_fat_g": 6.81818181818182,
+    "dietary_fiber_g": 4.54545454545455,
+    "sodium_mg": 0.704545454545455
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Peanuts",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

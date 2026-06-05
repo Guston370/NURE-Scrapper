@@ -1,0 +1,16 @@
+{
+  "product_id": "9d15294bbd38",
+  "product_name": "Sweet and Sour chicken",
+  "brand": "Heinz",
+  "barcode": "5000157152633",
+  "category": "Baby Food",
+  "subcategory": "From 12 Months Old",
+  "weight": "200g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5000157152633",
+  "image_count": 0,
+  "folder_name": "Heinz_Sweet_and_Sour_chicken_200g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:13.002898Z"
+}

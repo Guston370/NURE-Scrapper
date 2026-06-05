@@ -1,0 +1,16 @@
+{
+  "product_id": "b43f6dbd002e",
+  "product_name": "Noodles chicken",
+  "brand": "Maggi",
+  "barcode": "5201219488800",
+  "category": "Instant Foods & Noodles",
+  "subcategory": "Plant Based Foods",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5201219488800",
+  "image_count": 0,
+  "folder_name": "Maggi_Noodles_chicken",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.557108Z"
+}

@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 342.857142857143,
+    "protein_g": 22.8571428571429,
+    "carbohydrates_g": 62.8571428571429,
+    "of_which_sugars_g": null,
+    "fat_g": 1.42857142857143,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": 11.4285714285714,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

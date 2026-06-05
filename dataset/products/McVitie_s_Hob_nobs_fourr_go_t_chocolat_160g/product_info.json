@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Flocons d'*avoine*",
+    "huile de palme",
+    "sucre",
+    "farine complète bde *blé*",
+    "maltodextrine",
+    "poudre de cacao maigre",
+    "sirop de sucre inverti",
+    "*lactose*",
+    "poudre à lever : carbonates de sodium et d'ammonium",
+    "*lait* écrémé en poudre",
+    "sel",
+    "amidon de *blé*",
+    "arôme naturel."
+  ],
+  "nutrition": {
+    "energy_kcal": 504,
+    "protein_g": 6.3,
+    "carbohydrates_g": 57.1,
+    "of_which_sugars_g": 26.4,
+    "fat_g": 26.5,
+    "of_which_saturated_fat_g": 15.4,
+    "dietary_fiber_g": 5.5,
+    "sodium_mg": 0.4
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

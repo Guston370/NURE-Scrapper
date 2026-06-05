@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Sucre",
+    "eau",
+    "extrait de thé noir **",
+    "acidifiants",
+    "antioxydant",
+    "correcteur d'acidité",
+    "édulcorant",
+    "anti-moussant ."
+  ],
+  "nutrition": {
+    "energy_kcal": 13,
+    "protein_g": 0,
+    "carbohydrates_g": 3,
+    "of_which_sugars_g": 2.9,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.08
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France, Allemagne",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

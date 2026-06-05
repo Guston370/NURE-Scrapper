@@ -1,0 +1,16 @@
+{
+  "product_id": "0b873ab4ec0d",
+  "product_name": "Biscotto",
+  "brand": "Kraft Heinz",
+  "barcode": "8001040091876",
+  "category": "Snacks & Namkeen",
+  "subcategory": "Sweet Snacks",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8001040091876",
+  "image_count": 0,
+  "folder_name": "Kraft_Heinz_Biscotto",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:13.028374Z"
+}

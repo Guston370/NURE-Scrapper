@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 400,
+    "protein_g": 20,
+    "carbohydrates_g": 60,
+    "of_which_sugars_g": 0,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 40,
+    "sodium_mg": 2.6
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United Arab Emirates",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": ""
+}

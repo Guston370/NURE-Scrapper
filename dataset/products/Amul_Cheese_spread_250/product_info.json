@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    "Butter",
+    "iodized salt",
+    "natural colour \nAllergen information:contains milk"
+  ],
+  "nutrition": {
+    "energy_kcal": 724,
+    "protein_g": 1,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 80,
+    "of_which_saturated_fat_g": 48,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.955
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

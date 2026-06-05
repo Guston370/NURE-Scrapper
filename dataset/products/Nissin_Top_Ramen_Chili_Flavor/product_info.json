@@ -1,0 +1,48 @@
+{
+  "ingredients": [
+    "ENRICHED FLOUR",
+    "PALM ACID",
+    "CRUSHED RED CHILI PEPPER",
+    "DISODIUM GUANYLATE",
+    "DISODIUM NOSINATE",
+    "DISODIUM SUCCINATE",
+    "DRIED LEEK FLAKE",
+    "GARLIC POWDER",
+    "HYDROLYZED CORN PROTEIN",
+    "MALTODEXTRIN",
+    "NATURAL FLAVOR",
+    "ONION POWDER",
+    "POTASSIUM CARBONATE",
+    "SILICON DIOXIDE",
+    "SODIUM ALGINATE",
+    "SODIUM CARBONATE",
+    "SODIUM TRIPOLYPHOSPHATE",
+    "SOYBEAN",
+    "SPICE AND COLOR",
+    "SUGAR",
+    "TBHQ",
+    "TOMATO POWDER",
+    "WHEAT. CONTAINS WHEAT AND SOYBEAN. FOODS  CO.",
+    "INC."
+  ],
+  "nutrition": {
+    "energy_kcal": 447.05882352941,
+    "protein_g": 10.588235294118,
+    "carbohydrates_g": 63.529411764706,
+    "of_which_sugars_g": 1.1764705882353,
+    "fat_g": 16.470588235294,
+    "of_which_saturated_fat_g": 8.2352941176471,
+    "dietary_fiber_g": 2,
+    "sodium_mg": 1.4588235294118
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

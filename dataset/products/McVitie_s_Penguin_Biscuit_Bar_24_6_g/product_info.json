@@ -1,0 +1,41 @@
+{
+  "ingredients": [
+    "Milk Chocolate Flavour Coating  [Sugar",
+    "Vegetable Oils",
+    "Cocoa Mass",
+    "Dried Skimmed Milk",
+    "Dried Whey",
+    "Butter Oil",
+    "Emulsifiers",
+    "Natural Flavouring]",
+    "Flour",
+    "Sugar",
+    "Palm Oil",
+    "Glucose-Fructose Syrup",
+    "Fat Reduced Cocoa Powder",
+    "Raising Agents",
+    "Natural Flavouring",
+    "Salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 528.455284552845,
+    "protein_g": 5.28455284552845,
+    "carbohydrates_g": 63.8211382113821,
+    "of_which_sugars_g": 41.4634146341463,
+    "fat_g": 27.2357723577236,
+    "of_which_saturated_fat_g": 15.4471544715447,
+    "dietary_fiber_g": 2.4390243902439,
+    "sodium_mg": 0.0813008130081301
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Milk chocolate covered biscuit bars filled with chocolate cream",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

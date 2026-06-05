@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "apple puree 90%",
+    "blueberry puree 6.3%",
+    "strawberry puree 3.7%"
+  ],
+  "nutrition": {
+    "energy_kcal": 47.8011472275334,
+    "protein_g": 0.33333,
+    "carbohydrates_g": 12.33333,
+    "of_which_sugars_g": 10.83333,
+    "fat_g": 0.2,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.001
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1
+}

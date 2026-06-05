@@ -1,0 +1,16 @@
+{
+  "product_id": "3cfadef488ca",
+  "product_name": "Lipton peach tea",
+  "brand": "sodastream",
+  "barcode": "8719128117836",
+  "category": "Beverages",
+  "subcategory": "Beverages",
+  "weight": "440ml",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8719128117836",
+  "image_count": 0,
+  "folder_name": "sodastream_Lipton_peach_tea_440ml",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.794889Z"
+}

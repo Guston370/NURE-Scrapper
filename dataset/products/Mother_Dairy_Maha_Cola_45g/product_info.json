@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    "Water",
+    "Sugar",
+    "Liquid Glucose",
+    "Citric Acid",
+    "Stabilizers and Emulsifiers",
+    "Ascorbic Acid",
+    "Nature-Identical Flavouring Substances and Food Colors ."
+  ],
+  "nutrition": {
+    "energy_kcal": 84,
+    "protein_g": 0,
+    "carbohydrates_g": 21.1,
+    "of_which_sugars_g": 20,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": 65
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

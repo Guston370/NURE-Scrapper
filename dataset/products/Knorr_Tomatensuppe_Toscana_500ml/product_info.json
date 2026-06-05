@@ -1,0 +1,45 @@
+{
+  "ingredients": [
+    "Tomatenpulver 36%",
+    "Stärke",
+    "Palmöl",
+    "_Weizenmehl_",
+    "Zucker",
+    "jodiertes Speisesalz",
+    "geröstete Zwiebeln 2",
+    "5%",
+    "_Molkenerzeugnis_",
+    "Maltodextrin",
+    "Kochsalzersatz",
+    "_Milchzucker_",
+    "Speisesalz",
+    "Rote-Beete-Pulver",
+    "Kräuter",
+    "_Sellerie_",
+    "Knoblauch",
+    "Petersilienwurzel",
+    "Aromen",
+    "Hefeextrakt"
+  ],
+  "nutrition": {
+    "energy_kcal": 45,
+    "protein_g": 0.9,
+    "carbohydrates_g": 6.6,
+    "of_which_sugars_g": 3.3,
+    "fat_g": 1.5,
+    "of_which_saturated_fat_g": 1,
+    "dietary_fiber_g": 0.8,
+    "sodium_mg": 0.304
+  },
+  "allergens": [
+    "Celery",
+    "Gluten",
+    "Milk"
+  ],
+  "description": "Tomatensuppe",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

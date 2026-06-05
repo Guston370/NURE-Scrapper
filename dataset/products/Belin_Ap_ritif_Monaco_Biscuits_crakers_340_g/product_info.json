@@ -1,0 +1,46 @@
+{
+  "ingredients": [
+    "Farine de blé",
+    "huiles végétales",
+    "emmental râpé séché 10",
+    "5 %",
+    "sucre",
+    "sirop de glucose-fructose",
+    "sel",
+    "poudre à lever",
+    "farine d'orge malté",
+    "lactosérum en poudre",
+    "levure sèche",
+    "graines de sésame 0",
+    "6 %",
+    "graines de pavot 0",
+    "2 %",
+    "émulsifiant",
+    "gluten de blé",
+    "arôme",
+    "aromates et épices."
+  ],
+  "nutrition": {
+    "energy_kcal": 525,
+    "protein_g": 11,
+    "carbohydrates_g": 50,
+    "of_which_sugars_g": 6.1,
+    "fat_g": 31,
+    "of_which_saturated_fat_g": 15,
+    "dietary_fiber_g": 2.8,
+    "sodium_mg": 0.796
+  },
+  "allergens": [
+    "Celery",
+    "Gluten",
+    "Milk",
+    "Sesame Seeds",
+    "Soybeans"
+  ],
+  "description": "Biscuits crackers",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

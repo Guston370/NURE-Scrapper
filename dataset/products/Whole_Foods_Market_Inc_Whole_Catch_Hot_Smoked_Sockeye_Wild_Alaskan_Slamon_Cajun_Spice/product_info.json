@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Sockeye salmon",
+    "salt",
+    "brown sugar",
+    "cajun seasoning",
+    "garlic powder",
+    "cayenne pepper",
+    "spices",
+    "natural hardwood smoke."
+  ],
+  "nutrition": {
+    "energy_kcal": 211,
+    "protein_g": 24.56,
+    "carbohydrates_g": 1.75,
+    "of_which_sugars_g": 1.75,
+    "fat_g": 10.53,
+    "of_which_saturated_fat_g": 1.75,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 1.088
+  },
+  "allergens": [
+    "Fish"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 3
+}

@@ -1,0 +1,49 @@
+{
+  "ingredients": [
+    "Eau",
+    "pomme de terre : 16%",
+    "céleri-rave : 6",
+    "7%",
+    "oignon : 5",
+    "5%",
+    "haricot vert : 4",
+    "7%",
+    "brocoli : 4",
+    "3%",
+    "poireau : 3",
+    "9%",
+    "épinard : 2",
+    "4%",
+    "cresson : 2%",
+    "carotte : 1",
+    "5%",
+    "amidon de maïs",
+    "sel",
+    "sucre de canne",
+    "aromates",
+    "arôme naturel",
+    "oseille : 0",
+    "1%",
+    "crème fraîche."
+  ],
+  "nutrition": {
+    "energy_kcal": 28,
+    "protein_g": 1.1,
+    "carbohydrates_g": 4.9,
+    "of_which_sugars_g": 1.4,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": 1.1,
+    "sodium_mg": 0.268
+  },
+  "allergens": [
+    "Celery",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

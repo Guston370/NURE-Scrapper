@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Safflower oil."
+  ],
+  "nutrition": {
+    "energy_kcal": 857,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": null,
+    "fat_g": 100,
+    "of_which_saturated_fat_g": 7.14,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": 2
+}

@@ -1,0 +1,50 @@
+{
+  "ingredients": [
+    "water",
+    "potato1: 16%",
+    "carrot1: 13%",
+    "ceer-rave1: 8",
+    "5%",
+    "onion1: 3",
+    "2%",
+    "leek1: 2",
+    "8%",
+    "broccoli1: 2",
+    "4%",
+    "green bean1: 2",
+    "4%",
+    "crème fraîche",
+    "modified corn starch",
+    "salt",
+    "sunflower oil",
+    "yeast extract",
+    "whey",
+    "may contain: gluten",
+    "mustard",
+    "egg",
+    "soy",
+    "1lurate from sustainable agriculture",
+    "vegetable content1: 48",
+    "3%"
+  ],
+  "nutrition": {
+    "energy_kcal": 26,
+    "protein_g": 0.8,
+    "carbohydrates_g": 4,
+    "of_which_sugars_g": 1.3,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.2,
+    "dietary_fiber_g": 1,
+    "sodium_mg": 0.268
+  },
+  "allergens": [
+    "Celery",
+    "Milk"
+  ],
+  "description": "Soupe.",
+  "country_of_origin": "France, Luxembourg",
+  "storage_information": "Le mode de préparation et d'emballage de cette soupe sont la garantie de sa conservation. Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

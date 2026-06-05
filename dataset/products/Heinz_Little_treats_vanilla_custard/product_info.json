@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "water  \nfull Scream milk \nsugar \ncornflour \nunsalted Butter\nNatural Vanilla Flavour"
+  ],
+  "nutrition": {
+    "energy_kcal": 154.18181818182,
+    "protein_g": 2.3636363636364,
+    "carbohydrates_g": 24.181818181818,
+    "of_which_sugars_g": 14.363636363636,
+    "fat_g": 5.2727272727273,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "Australia",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4
+}

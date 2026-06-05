@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Mehl",
+    "pflanzliches Öl",
+    "Vollkornweizenmehl",
+    "Zucker",
+    "Invertzuckersirup",
+    "Backtriebmittel . Salz. Kann enthalten: _Milch_"
+  ],
+  "nutrition": {
+    "energy_kcal": 483,
+    "protein_g": 6.9,
+    "carbohydrates_g": 62.7,
+    "of_which_sugars_g": 16.8,
+    "fat_g": 21.3,
+    "of_which_saturated_fat_g": 10.3,
+    "dietary_fiber_g": 3.4,
+    "sodium_mg": 0.592
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "Weizenkekse",
+  "country_of_origin": "Belgien, Frankreich, Deutschland, Schweiz",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

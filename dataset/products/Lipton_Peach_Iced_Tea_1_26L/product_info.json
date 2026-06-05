@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Water",
+    "Sugars",
+    "Acids",
+    "Black Tea Extract",
+    "Peach Juice from Concentrate",
+    "Acidity Regulator",
+    "Flavourings",
+    "Antioxidant",
+    "Sweetener ."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

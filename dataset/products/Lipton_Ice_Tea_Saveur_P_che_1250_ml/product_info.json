@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Eau",
+    "acidifiants",
+    "extrait de thé noir⁽¹⁾",
+    "jus de pêche à base de concentré",
+    "arômes",
+    "correcteur d'acidité",
+    "édulcorants",
+    "antioxydant",
+    "⁽¹⁾ Certifié Rainforest Alliance.",
+    "Plus d'informations sur ra.org.",
+    "People and nature = l'humain et la nature."
+  ],
+  "nutrition": {
+    "energy_kcal": 1,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.004
+  },
+  "allergens": [],
+  "description": "Boisson rafraîchissante aux extraits de thé goût pêche, avec édulcorants.",
+  "country_of_origin": "Inde, Sri Lanka, Thé hors UE",
+  "storage_information": "Après ouverture, à conserver au frais et à consommer dans les 3 jours. Les extraits de thé peuvent former un léger dépôt naturel, sans incidence sur la qualité du produit. À consommer de préférence avant le: voir bouteille.",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

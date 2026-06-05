@@ -1,0 +1,52 @@
+{
+  "ingredients": [
+    "water",
+    "carrot¹: 8.9%",
+    "potato¹: 6.9%",
+    "tomato¹: 6.6%",
+    "squash¹: 4.8%",
+    "fresh cheese: 2.9%",
+    "onion¹: 2.8%",
+    "celery root¹: 2.1%",
+    "pea¹: 2.1%",
+    "green bean¹: 2.1%",
+    "leek¹: 2%",
+    "modified corn starch",
+    "sugar",
+    "parsnips¹: 1.1%",
+    "zucchini¹: 1.1%",
+    "turnip¹: 1.1%",
+    "sunflower oil",
+    "flavourings",
+    "salt",
+    "whey",
+    "skim milk powder",
+    "garlic",
+    "may contain: cereals containing gluten",
+    "mustard",
+    "egg",
+    "soy",
+    "¹vegetables from sustainable agriculture",
+    "41.6% vegetables¹"
+  ],
+  "nutrition": {
+    "energy_kcal": 44,
+    "protein_g": 1.2,
+    "carbohydrates_g": 6.7,
+    "of_which_sugars_g": 3.2,
+    "fat_g": 1.2,
+    "of_which_saturated_fat_g": 0.3,
+    "dietary_fiber_g": 0.9,
+    "sodium_mg": 0.26
+  },
+  "allergens": [
+    "Celery",
+    "Milk"
+  ],
+  "description": "Soupe.",
+  "country_of_origin": "France",
+  "storage_information": "Le mode de préparation et d'emballage de cette soupe sont la garantie de sa conservation. Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

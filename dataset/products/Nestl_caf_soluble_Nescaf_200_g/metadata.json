@@ -1,0 +1,16 @@
+{
+  "product_id": "87893e876ecc",
+  "product_name": "café soluble Nescafé",
+  "brand": "Nestlé",
+  "barcode": "8410100020549",
+  "category": "Beverages",
+  "subcategory": "Plant Based Foods And Beverages",
+  "weight": "200 g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8410100020549",
+  "image_count": 0,
+  "folder_name": "Nestl_caf_soluble_Nescaf_200_g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.816521Z"
+}

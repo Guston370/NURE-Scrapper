@@ -1,0 +1,46 @@
+{
+  "ingredients": [
+    "légumes )",
+    "sucre",
+    "farine de BLÉ",
+    "graisse de palme",
+    "mozzarella: 5",
+    "9%",
+    "fécule de pomme de terre",
+    "FROMAGES",
+    "sel",
+    "lactosérum",
+    "protéines végétales hydrolysées",
+    "maltodextrine",
+    "chlorure de potassium",
+    "extrait de levure",
+    "lactose",
+    "jus de légumes concentrés",
+    "aromates",
+    "arômes. Peut contenir: œuf. Tomate issue de l'agriculture durable."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Céleri",
+    "Lait",
+    "Moutarde",
+    "Œufs"
+  ],
+  "description": "",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

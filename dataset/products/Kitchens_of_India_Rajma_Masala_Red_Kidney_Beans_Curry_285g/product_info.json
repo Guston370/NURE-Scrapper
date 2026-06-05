@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    "Water",
+    "tomatoes",
+    "onions",
+    "red Kidney Beans",
+    "sunflower Oil",
+    "garlic",
+    "Spices",
+    "Salt and Ginger. Allergy Information: Manufactured In A Facility That Processes Milk",
+    "Peanuts and Tree Nuts."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": 5.9,
+    "carbohydrates_g": 12.5,
+    "of_which_sugars_g": 2.5,
+    "fat_g": 6.2,
+    "of_which_saturated_fat_g": 0.7,
+    "dietary_fiber_g": null,
+    "sodium_mg": 2.54
+  },
+  "allergens": [
+    "Nuts",
+    "Peanuts"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

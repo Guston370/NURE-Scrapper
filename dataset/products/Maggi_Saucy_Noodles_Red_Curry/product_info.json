@@ -1,0 +1,48 @@
+{
+  "ingredients": [
+    "73",
+    "3% frittierte Nudeln [WEIZENMEHL",
+    "Sonnenblumenöl",
+    "Salz",
+    "Bactrimittel ]",
+    "Stärke",
+    "Zucker",
+    "Aromen",
+    "Sonnenblumenöl",
+    "Gewürze",
+    "SOJASAUCENPULVER",
+    "Paprika",
+    "Lauch",
+    "Salz",
+    "0",
+    "1% Curry",
+    "Hefeextrakt",
+    "MILCHZUCKER MILCHEIWEISS",
+    "Maltose",
+    "Farbstoff Paprikaextrakt. Kann enthalten: SELLERIE",
+    "EIER",
+    "SENF",
+    "SESAM. Trocken lagern und vor Wärme schützen."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 4
+}

@@ -1,0 +1,45 @@
+{
+  "ingredients": [
+    "Potato starch",
+    "maltodextrin",
+    "potatoes",
+    "palm fat",
+    "salt",
+    "yeast extract",
+    "glucose syrup",
+    "tomato puree powder",
+    "leek",
+    "carrots",
+    "pumpkin powder",
+    "onion powder",
+    "CELERIAC powder",
+    "sugar",
+    "spices",
+    "CREAM powder",
+    "green beans",
+    "MILK proteins",
+    "vegetable juice concentrates",
+    "parsley. May contain gluten",
+    "egg and mustard."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Celery",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Sugar\r\nGlucose Syrup\r\nCocoa Butter\r\nVegetable Fats \r\nInvert Sugar Syrup\r\nMilk Powders \r\nSweetened Condensed Skimmed Milk \r\nCocoa Mass\r\nLactose and Proteins from Whey \r\nWhey Powder \r\nWheat Flour \r\nButterfat \r\nEmulsifier \r\nBarley Malt Extract\r\nRaising Agents \r\nSalt"
+  ],
+  "nutrition": {
+    "energy_kcal": 488,
+    "protein_g": 4,
+    "carbohydrates_g": 65.2,
+    "of_which_sugars_g": 57.6,
+    "fat_g": 23.1,
+    "of_which_saturated_fat_g": 13,
+    "dietary_fiber_g": 1.1,
+    "sodium_mg": 0.12
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

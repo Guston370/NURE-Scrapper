@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "SKIM MILK POWDER",
+    "MALTODEXTRIN",
+    "SUCROSE",
+    "EDIBLE VEGETABLE OIL",
+    "LACTOSE",
+    "FRUCTO-OLIGOSACCHARIDE",
+    "MEDIUM CHAIN TRIGLYCERIDE  OIL",
+    "FLAVORING",
+    "L-ARGININE HCL",
+    "MINERALS VITAMINS",
+    "M-INOSITOL",
+    "TAURINE",
+    "L-CARNITINE LACTOBACILLUS ACIDOPHILUS  CONTAINS MILK"
+  ],
+  "nutrition": {
+    "energy_kcal": 454,
+    "protein_g": 14.1,
+    "carbohydrates_g": 64.74,
+    "of_which_sugars_g": 37,
+    "fat_g": 15,
+    "of_which_saturated_fat_g": 4.14,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.181
+  },
+  "allergens": [
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4
+}

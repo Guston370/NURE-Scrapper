@@ -1,0 +1,51 @@
+{
+  "ingredients": [
+    "Glucose-Fructose Syrup",
+    "Dark Chocolate  [Sugar",
+    "Cocoa Mass",
+    "Vegetable Fats",
+    "Butter Oil",
+    "Cocoa Butter",
+    "Emulsifiers",
+    "Natural Flavouring]",
+    "Sugar",
+    "Flour",
+    "Whole Egg",
+    "Water",
+    "Dextrose",
+    "Concentrated Orange Juice",
+    "Glucose Syrup",
+    "Vegetable Oils",
+    "Humectant",
+    "Acid",
+    "Gelling Agent",
+    "Raising Agents",
+    "Dried Whole Egg",
+    "Acidity Regulator",
+    "Natural Orange Flavouring",
+    "Colour",
+    "Emulsifier ."
+  ],
+  "nutrition": {
+    "energy_kcal": 386.792452830189,
+    "protein_g": 4.71698113207547,
+    "carbohydrates_g": 71.6981132075472,
+    "of_which_sugars_g": 50.9433962264151,
+    "fat_g": 8.49056603773585,
+    "of_which_saturated_fat_g": 3.77358490566038,
+    "dietary_fiber_g": 1.88679245283019,
+    "sodium_mg": 0.113207547169811
+  },
+  "allergens": [
+    "Eggs",
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

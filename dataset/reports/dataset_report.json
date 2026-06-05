@@ -1,0 +1,21 @@
+{
+  "phase": 5,
+  "generated_at": "2026-06-05T07:16:29.955946Z",
+  "total_products": 874,
+  "enriched_products": 626,
+  "products_with_barcode": 874,
+  "products_without_barcode": 0,
+  "barcode_coverage_pct": 100.0,
+  "products_with_nutrition": 464,
+  "products_without_nutrition": 410,
+  "nutrition_coverage_pct": 53.1,
+  "products_with_ingredients": 340,
+  "products_without_ingredients": 534,
+  "ingredients_coverage_pct": 38.9,
+  "images_collected": true,
+  "metadata_enriched": true,
+  "test_run": true,
+  "total_images": 467,
+  "min_images_threshold": 10,
+  "target_images": 20
+}

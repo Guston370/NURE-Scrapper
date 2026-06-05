@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Water",
+    "tomatoes",
+    "onions",
+    "red kidney beans",
+    "sunflower oil",
+    "garlic",
+    "spices",
+    "salt and ginger"
+  ],
+  "nutrition": {
+    "energy_kcal": 132,
+    "protein_g": 4.8,
+    "carbohydrates_g": 16,
+    "of_which_sugars_g": 3.1,
+    "fat_g": 5.4,
+    "of_which_saturated_fat_g": 1.7,
+    "dietary_fiber_g": 0.8,
+    "sodium_mg": 0.488
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

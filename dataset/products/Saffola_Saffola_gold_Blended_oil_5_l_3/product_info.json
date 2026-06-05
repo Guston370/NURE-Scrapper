@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 900,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": null,
+    "fat_g": 100,
+    "of_which_saturated_fat_g": 21,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

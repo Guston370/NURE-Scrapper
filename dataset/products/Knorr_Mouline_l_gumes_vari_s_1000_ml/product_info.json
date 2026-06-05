@@ -1,0 +1,53 @@
+{
+  "ingredients": [
+    "Eau",
+    "pomme de terre1",
+    "2 : 16%",
+    "carotte1",
+    "2 : 12%",
+    "CÉLERI-RAVE1",
+    "2 : 8",
+    "8%",
+    "oignon1",
+    "2 : 2",
+    "9%",
+    "haricot vert1",
+    "2 : 2",
+    "8%",
+    "brocoli1",
+    "2 : 2",
+    "7%",
+    "poireau1",
+    "2 : 2",
+    "6%",
+    "CRÈME fraîche1",
+    "amidon de maïs1",
+    "sel",
+    "arôme naturel de livèche. Peut contenir : céréales contenant du gluten",
+    "moutarde",
+    "œuf",
+    "soja. 1Ingrédients issus de l'Agriculture Biologique. 2Légumes issus de l'Agriculture Durable. 47",
+    "8% de légumes1",
+    "2 ."
+  ],
+  "nutrition": {
+    "energy_kcal": 27,
+    "protein_g": 0.9,
+    "carbohydrates_g": 4.2,
+    "of_which_sugars_g": 1,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.3,
+    "dietary_fiber_g": 1,
+    "sodium_mg": 0.248
+  },
+  "allergens": [
+    "Celery",
+    "Milk"
+  ],
+  "description": "Soupe.",
+  "country_of_origin": "",
+  "storage_information": "Le mode de préparation et d'emballage de cette soupe sont la garantie de sa conservation. Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

@@ -1,0 +1,41 @@
+{
+  "ingredients": [
+    "Wasser",
+    "Rote Kidneybohne",
+    "Zwiebel",
+    "Tomate",
+    "Sonnenblumenöl",
+    "Meersalz",
+    "Ingwer",
+    "Knoblauch",
+    "Koriander - pulver",
+    "Kreuzkümmel",
+    "rotes Chilipulver",
+    "Mangopulver",
+    "Gewürze",
+    "Kurkuma",
+    "Bockshornkleeblätter",
+    "Fenchelpulver",
+    "Lorbeerblätter",
+    "Kardamom",
+    "Zimt",
+    "Nelken."
+  ],
+  "nutrition": {
+    "energy_kcal": 132,
+    "protein_g": 5,
+    "carbohydrates_g": 19,
+    "of_which_sugars_g": 1,
+    "fat_g": 3.7,
+    "of_which_saturated_fat_g": 0.5,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.44
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

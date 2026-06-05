@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "Farine de BLÉ 56 %",
+    "huiles végétales",
+    "EMMENTAL râpé séché 17 %",
+    "sucre",
+    "sel",
+    "sirop de glucose-fructose",
+    "poudres à lever",
+    "farine d'ORGE malté",
+    "lactosérum en poudre",
+    "levure sèche",
+    "émulsifiant .\r\n\r\nPEUT CONTENIR ŒUF",
+    "CÉLERI",
+    "SÉSAME"
+  ],
+  "nutrition": {
+    "energy_kcal": 553,
+    "protein_g": 12,
+    "carbohydrates_g": 45,
+    "of_which_sugars_g": 5.6,
+    "fat_g": 36,
+    "of_which_saturated_fat_g": 18,
+    "dietary_fiber_g": 2.4,
+    "sodium_mg": 0.84
+  },
+  "allergens": [
+    "Eggs",
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Snacks salées",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

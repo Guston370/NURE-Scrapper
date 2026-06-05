@@ -1,0 +1,43 @@
+{
+  "ingredients": [
+    "hosphate)",
+    "seasoning sachet: sugar",
+    "corn starch",
+    "herbs and spices",
+    "coriander",
+    "cumin",
+    "fennel",
+    "fenugreek",
+    "black pepper",
+    "ginger",
+    "red cayenne pepper",
+    "cinnamon",
+    "parsley aniseed",
+    "cardamom)",
+    "salt",
+    "flavourings",
+    "garlic",
+    "yeast extract",
+    "vegetables",
+    "sunflower oil"
+  ],
+  "nutrition": {
+    "energy_kcal": 87,
+    "protein_g": 2,
+    "carbohydrates_g": 11.6,
+    "of_which_sugars_g": 0.4,
+    "fat_g": 3.4,
+    "of_which_saturated_fat_g": 1.9,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.16
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "Spain, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

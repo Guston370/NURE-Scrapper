@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "water",
+    "yellow carrot 22%",
+    "carrot 18%",
+    "potato",
+    "coconut milk 5%",
+    "onion",
+    "rice starch",
+    "salt",
+    "spices and aromas",
+    "curry"
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "Soupe",
+  "country_of_origin": "France",
+  "storage_information": "Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 3
+}

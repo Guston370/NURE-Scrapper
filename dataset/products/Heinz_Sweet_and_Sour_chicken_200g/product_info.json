@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    "Vegetables",
+    "Tomato",
+    "Onion",
+    "Red Pepper )",
+    "Rice",
+    "Chicken",
+    "Water",
+    "Pineapple",
+    "Cornflour",
+    "Raisins",
+    "Extra Virgin Olive Oil"
+  ],
+  "nutrition": {
+    "energy_kcal": 72,
+    "protein_g": 2.9,
+    "carbohydrates_g": 11,
+    "of_which_sugars_g": 4,
+    "fat_g": 1.5,
+    "of_which_saturated_fat_g": 0.3,
+    "dietary_fiber_g": 1.2,
+    "sodium_mg": 0.04
+  },
+  "allergens": [
+    "Chicken"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3
+}

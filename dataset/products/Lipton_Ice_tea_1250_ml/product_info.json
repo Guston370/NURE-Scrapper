@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    "water",
+    "sugar frictose",
+    "acidity regulators",
+    "extract of the black",
+    "peach juice based on concentrate",
+    "an acidity regulator",
+    "sweetener"
+  ],
+  "nutrition": {
+    "energy_kcal": 13,
+    "protein_g": 0,
+    "carbohydrates_g": 3.1,
+    "of_which_sugars_g": 3,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.012
+  },
+  "allergens": [],
+  "description": "Boisson rafraîchissante aux extraits de thé goût pêche, avec sucres et édulcorant.",
+  "country_of_origin": "",
+  "storage_information": "Après ouverture, à conserver au frais et à consommer dans les 3 jours. Les extraits de thé peuvent former un léger dépôt naturel, sans incidence sur la qualité du produit. À consommer de préférence avant le: voir fond de la canette.",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

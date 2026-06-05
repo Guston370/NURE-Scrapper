@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "Concentrated FISH stock  )",
+    "salt",
+    "onion powder",
+    "leek",
+    "am fat",
+    "potassium chloride",
+    "garlic powder",
+    "yeast extract",
+    "surar",
+    "tomato powder",
+    "spices lovage root",
+    "pepper)",
+    "flavourings",
+    "geling agents",
+    "sunflower oil",
+    "bay leaves"
+  ],
+  "nutrition": {
+    "energy_kcal": 75,
+    "protein_g": 3.6,
+    "carbohydrates_g": 9,
+    "of_which_sugars_g": 2.7,
+    "fat_g": 2.3,
+    "of_which_saturated_fat_g": 1.4,
+    "dietary_fiber_g": 1.7,
+    "sodium_mg": 6.04
+  },
+  "allergens": [
+    "Fish"
+  ],
+  "description": "",
+  "country_of_origin": "France, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    "Split gram peas",
+    "corn oil",
+    "chilly powder",
+    "salt",
+    "and spices."
+  ],
+  "nutrition": {
+    "energy_kcal": 357.142857142857,
+    "protein_g": 25,
+    "carbohydrates_g": 57.1428571428571,
+    "of_which_sugars_g": 3.57142857142857,
+    "fat_g": 3.57142857142857,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 28.5714285714286,
+    "sodium_mg": 0.535714285714286
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

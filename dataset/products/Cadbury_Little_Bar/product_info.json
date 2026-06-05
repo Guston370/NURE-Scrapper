@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Milk chocolate. ents: Milk",
+    "sugar",
+    "cocoa butter",
+    "cocoa mass",
+    "vegetable fats",
+    "emulsifiers",
+    "flavourings. May contain nuts",
+    "wheat"
+  ],
+  "nutrition": {
+    "energy_kcal": 533.333333333333,
+    "protein_g": 7.3,
+    "carbohydrates_g": 57,
+    "of_which_sugars_g": 56,
+    "fat_g": 30,
+    "of_which_saturated_fat_g": 18,
+    "dietary_fiber_g": 2.1,
+    "sodium_mg": 0.096
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "France, United Kingdom, United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

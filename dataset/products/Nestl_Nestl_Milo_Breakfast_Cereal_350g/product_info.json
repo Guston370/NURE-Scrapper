@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "i V Contains gluten containing ingredients milk and soy as indicated in bold type. Wholeqrain Cereals  [Wheat ) Sugar",
+    "Formulated Supplementary Food Base: MILO  [Malt Extract",
+    "Milk Powder",
+    "Sugar",
+    "Cocoal Emulsitier",
+    "Minerals Vitamins",
+    "Flavours",
+    "Salt. Vitamins and Minerals Minerals  Vitamins (C/ Niacin",
+    "E",
+    "Bli B6 and folic. May contain Other gluten containing ingredients."
+  ],
+  "nutrition": {
+    "energy_kcal": 382.409177820267,
+    "protein_g": 8.33333333333333,
+    "carbohydrates_g": 71.6666666666667,
+    "of_which_sugars_g": 24,
+    "fat_g": 4.66666666666667,
+    "of_which_saturated_fat_g": 1.66666666666667,
+    "dietary_fiber_g": 8.66666666666667,
+    "sodium_mg": 0.12
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

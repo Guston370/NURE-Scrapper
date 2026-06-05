@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    "POPPING CORN",
+    "PALM OIL",
+    "LESS THAN 2% OF: SALT",
+    "SUCRALOSE",
+    "TBHQ AND CITRIC ACID ."
+  ],
+  "nutrition": {
+    "energy_kcal": 441.176470588235,
+    "protein_g": 5.88235294117647,
+    "carbohydrates_g": 55.8823529411765,
+    "of_which_sugars_g": 0,
+    "fat_g": 26.4705882352941,
+    "of_which_saturated_fat_g": 11.7647058823529,
+    "dietary_fiber_g": 8.82352941176471,
+    "sodium_mg": 0.5
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

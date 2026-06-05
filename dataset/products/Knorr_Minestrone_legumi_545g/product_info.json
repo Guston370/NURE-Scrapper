@@ -1,0 +1,53 @@
+{
+  "ingredients": [
+    "Acqua",
+    "legumi 21",
+    "1%",
+    "carote 3",
+    "5%",
+    "pomodori",
+    "cipolle",
+    "patate 2%",
+    "SEDANO 1",
+    "5%",
+    "amido di patata",
+    "olio extra vergine di oliva",
+    "purea di pomodoro",
+    "sale",
+    "basilico",
+    "estratto di lievito",
+    "aglio",
+    "zucchero",
+    "fruttosio",
+    "maltodestrine",
+    "aromi",
+    "aceto",
+    "estratto di vino bianco. Può contenere cereali contenenti glutine",
+    "latte",
+    "senape",
+    "soia e uova."
+  ],
+  "nutrition": {
+    "energy_kcal": 70,
+    "protein_g": 4,
+    "carbohydrates_g": 9.7,
+    "of_which_sugars_g": 1.7,
+    "fat_g": 1.4,
+    "of_which_saturated_fat_g": 0.2,
+    "dietary_fiber_g": 3,
+    "sodium_mg": 0.272
+  },
+  "allergens": [
+    "Celery",
+    "Eggs",
+    "Gluten",
+    "Milk",
+    "Mustard"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": 4
+}

@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Flocons d'avoine",
+    "chocolat au lait",
+    "huile de beurre",
+    "graisses végétales",
+    "émulsifiants",
+    "arôme naturel",
+    "Farine de blé complète",
+    "sucre",
+    "huile de palme",
+    "sirop de glucose-fructose",
+    "poudres à lever",
+    "sel."
+  ],
+  "nutrition": {
+    "energy_kcal": 494,
+    "protein_g": 7,
+    "carbohydrates_g": 61.4,
+    "of_which_sugars_g": 32.3,
+    "fat_g": 23.3,
+    "of_which_saturated_fat_g": 11.5,
+    "dietary_fiber_g": 5.2,
+    "sodium_mg": 0.3
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

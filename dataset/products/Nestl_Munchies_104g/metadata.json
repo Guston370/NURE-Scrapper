@@ -1,0 +1,16 @@
+{
+  "product_id": "22779098b4d0",
+  "product_name": "Munchies",
+  "brand": "Nestlé",
+  "barcode": "7613036241755",
+  "category": "Snacks & Namkeen",
+  "subcategory": "Sweet Snacks",
+  "weight": "104g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/7613036241755",
+  "image_count": 0,
+  "folder_name": "Nestl_Munchies_104g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.396799Z"
+}

@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 529,
+    "protein_g": 10,
+    "carbohydrates_g": 52,
+    "of_which_sugars_g": 0,
+    "fat_g": 33,
+    "of_which_saturated_fat_g": 18,
+    "dietary_fiber_g": 8,
+    "sodium_mg": 0.5
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Bangladesh",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": ""
+}

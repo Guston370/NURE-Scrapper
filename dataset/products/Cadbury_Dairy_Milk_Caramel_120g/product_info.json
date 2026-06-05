@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "milk**",
+    "sugar",
+    "glucose syrup",
+    "cocoa butter",
+    "vegetable fats",
+    "glucose-fructose syrup",
+    "cocoa mass",
+    "whey powder",
+    "emulsifiers",
+    "salt",
+    "sodium carbonate",
+    "flavourings",
+    "**the equivalent of 426ml of fresh liquid milk in every 227g of milk chocolatemilk chocolate: milk solids 20% minimum",
+    "actual 23%",
+    "contains vegetable fats in addition to cocoa butter",
+    "may contain nuts",
+    "wheat"
+  ],
+  "nutrition": {
+    "energy_kcal": 485,
+    "protein_g": 4.8,
+    "carbohydrates_g": 62,
+    "of_which_sugars_g": 48,
+    "fat_g": 24,
+    "of_which_saturated_fat_g": 14,
+    "dietary_fiber_g": 1.3,
+    "sodium_mg": 0.157
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

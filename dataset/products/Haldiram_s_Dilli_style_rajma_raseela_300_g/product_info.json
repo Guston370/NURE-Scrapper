@@ -1,0 +1,38 @@
+{
+  "ingredients": [
+    "Water",
+    "tomato",
+    "red kidney beans",
+    "clarified butter",
+    "onion",
+    "butter",
+    "yogurt",
+    "salt",
+    "garlic",
+    "ginger",
+    "cinnamon",
+    "large cardamon",
+    "small cardamom",
+    "red chilli powder",
+    "nutmeg and mace."
+  ],
+  "nutrition": {
+    "energy_kcal": 118,
+    "protein_g": 5,
+    "carbohydrates_g": 14,
+    "of_which_sugars_g": 0.1,
+    "fat_g": 4,
+    "of_which_saturated_fat_g": 1.81,
+    "dietary_fiber_g": 2,
+    "sodium_mg": 0.467
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

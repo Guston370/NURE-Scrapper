@@ -1,0 +1,46 @@
+{
+  "ingredients": [
+    "nutritional compass® our chosen ingredients nodle cake:wheat flour",
+    "vegetable oil",
+    "salt",
+    "mineral salts  flavour mix sachet lodised salt",
+    "flavour enhancers",
+    "mineral salt",
+    "matodextrin ravours",
+    "sugar onion powder",
+    "vegetable fat  parsiley flakes",
+    "colours iturmeric",
+    "caramel )",
+    "spice dsriander",
+    "cumin",
+    "cardamom",
+    "chilli powder",
+    "ginge con wheat",
+    "soy and celery maycotain crustacea",
+    "fish",
+    "milk and mus"
+  ],
+  "nutrition": {
+    "energy_kcal": 78.620307940022,
+    "protein_g": 1.89473684210526,
+    "carbohydrates_g": 10.5263157894737,
+    "of_which_sugars_g": 0.0692105263157895,
+    "fat_g": 3,
+    "of_which_saturated_fat_g": 0.36,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.0647507894736842
+  },
+  "allergens": [
+    "Celery",
+    "Fish",
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

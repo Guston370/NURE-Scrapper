@@ -1,0 +1,16 @@
+{
+  "product_id": "5f76d9ec27f0",
+  "product_name": "Guava Baby Food",
+  "brand": "Heinz",
+  "barcode": "0735051000647",
+  "category": "Baby Food",
+  "subcategory": "",
+  "weight": "105g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/0735051000647",
+  "image_count": 0,
+  "folder_name": "Heinz_Guava_Baby_Food_105g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:13.050122Z"
+}

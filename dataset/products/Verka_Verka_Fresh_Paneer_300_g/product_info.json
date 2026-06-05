@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Ultrafiltered Milk",
+    "Vinegar. Contains: Milk"
+  ],
+  "nutrition": {
+    "energy_kcal": 266.666666666667,
+    "protein_g": 20,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": 0,
+    "fat_g": 20,
+    "of_which_saturated_fat_g": 13.3333333333333,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.05
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "Canada",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

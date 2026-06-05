@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Milk Solids",
+    "Vitamin A & Vitamin D Milk Fat: 3.0%  & SNF: 8.5%"
+  ],
+  "nutrition": {
+    "energy_kcal": 60,
+    "protein_g": 3.3,
+    "carbohydrates_g": 4.8,
+    "of_which_sugars_g": 4.8,
+    "fat_g": 3.1,
+    "of_which_saturated_fat_g": 2,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.05
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": ""
+}

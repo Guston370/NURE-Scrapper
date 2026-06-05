@@ -1,0 +1,41 @@
+{
+  "ingredients": [
+    "Salt",
+    "Dry Mango",
+    "Cucumis",
+    "Black Salt",
+    "Edible Common Salt",
+    "Capsicum",
+    "Cumin",
+    "Bishop's Weed",
+    "Mint",
+    "Long Pepper",
+    "Sugar",
+    "Black Pepper",
+    "Big Cardamom",
+    "Red Chilli",
+    "Clove",
+    "Cinnamon",
+    "Coriander",
+    "Asafoetida",
+    "Ammonium Chloride",
+    "Citric Acid."
+  ],
+  "nutrition": {
+    "energy_kcal": 202,
+    "protein_g": 6.8,
+    "carbohydrates_g": 30,
+    "of_which_sugars_g": 9.9,
+    "fat_g": 6.1,
+    "of_which_saturated_fat_g": 0.5,
+    "dietary_fiber_g": null,
+    "sodium_mg": 17.95
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

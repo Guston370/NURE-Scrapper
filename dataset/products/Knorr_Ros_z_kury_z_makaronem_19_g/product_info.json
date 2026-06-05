@@ -1,0 +1,41 @@
+{
+  "ingredients": [
+    "pasta",
+    "glucose syrup",
+    "salt",
+    "starch",
+    "sugar",
+    "yeast extract",
+    "flavourings",
+    "palm fat",
+    "carrots",
+    "chicken fat",
+    "turmeric",
+    "pepper",
+    "parsley root",
+    "onion",
+    "parsley",
+    "chicken meat",
+    "leek",
+    "antioxidant: rosemary extracts"
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "Germany, Poland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

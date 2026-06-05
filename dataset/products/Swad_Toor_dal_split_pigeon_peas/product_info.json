@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Split pigeon peas"
+  ],
+  "nutrition": {
+    "energy_kcal": 342.857142857143,
+    "protein_g": 22.8571428571429,
+    "carbohydrates_g": 62.8571428571429,
+    "of_which_sugars_g": 2.85714285714286,
+    "fat_g": 1.42857142857143,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 17.1428571428571,
+    "sodium_mg": 0.0857142857142857
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": ""
+}

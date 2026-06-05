@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "REFINED WHEAT FLOUR  - 68%",
+    "SUGAR",
+    "REFINED PALM OIL",
+    "INVERT SUGAR SYRUP# [SUGAR",
+    "CITRIC ACID]",
+    "IODISED SALT",
+    "RAISING AGENTS [503",
+    "500 ]",
+    "MILK SOLIDS",
+    "FLOUR TREATMENT AGENT [1101 ] AND EMULSIFIER OF VEGETABLE ORIGIN [472e]",
+    "CONTAINS ADDED FLAVOUR"
+  ],
+  "nutrition": {
+    "energy_kcal": 454,
+    "protein_g": 6.9,
+    "carbohydrates_g": 77.3,
+    "of_which_sugars_g": 25.5,
+    "fat_g": 13,
+    "of_which_saturated_fat_g": 6,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.296
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "Glucose biscuits",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "pear puree"
+  ],
+  "nutrition": {
+    "energy_kcal": 60.83783,
+    "protein_g": 0.4,
+    "carbohydrates_g": 12.3,
+    "of_which_sugars_g": 9.3,
+    "fat_g": 0.3,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.0008
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Australia",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1
+}

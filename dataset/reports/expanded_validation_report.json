@@ -1,0 +1,20 @@
+{
+    "Products Processed": 2,
+    "Average Images Per Product": 12.5,
+    "Median Images Per Product": 13,
+    "Lowest Image Count": 12,
+    "Highest Image Count": 13,
+    "Products Below 10 Images": 0,
+    "Products Below 5 Images": 0,
+    "Source Contribution Breakdown": {
+        "blinkit": "96.0%",
+        "amazon": "4.0%"
+    },
+    "Storage Consumed": "0.48 MB",
+    "Evaluation Conditions": {
+        "Average >= 10": true,
+        "Below 10 Threshold < 15%": true,
+        "No Severe Category Shortages": true,
+        "RECOMMEND_APPROVAL": true
+    }
+}

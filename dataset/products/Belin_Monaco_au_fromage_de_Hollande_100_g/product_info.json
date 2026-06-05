@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    "Farine de blé - matière grasse végétale - fromage de Hollande 5% - protéines de lait et lactose - sucre - sel - sirop de glucose-fructose - poudre à lever : carbonate acide d'ammonium",
+    "carbonate acide de sodium - farine d'orge malté - extrait de levure - arômes - amidon transformé - émulsifiants : citrates de sodium",
+    "lécithine de soja - colorant E 160b."
+  ],
+  "nutrition": {
+    "energy_kcal": 540,
+    "protein_g": 10,
+    "carbohydrates_g": 45,
+    "of_which_sugars_g": 5.2,
+    "fat_g": 35,
+    "of_which_saturated_fat_g": 14,
+    "dietary_fiber_g": 2.4,
+    "sodium_mg": 0.758952
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Biscuits crackers",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

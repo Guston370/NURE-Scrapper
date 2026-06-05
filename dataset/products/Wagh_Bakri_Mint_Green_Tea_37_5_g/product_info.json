@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Green tea and natural mint flavour"
+  ],
+  "nutrition": {
+    "energy_kcal": 0,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.0306666666666668
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": 4
+}

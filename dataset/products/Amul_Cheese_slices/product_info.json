@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Cheddar Cheese",
+    "Sodium Citrate",
+    "Sodium Phosphate",
+    "Milk Solids",
+    "Salt",
+    "Citric Acid",
+    "Water",
+    "Sorbic Acid",
+    "Nisin"
+  ],
+  "nutrition": {
+    "energy_kcal": 300,
+    "protein_g": 20,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 25,
+    "of_which_saturated_fat_g": 16,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 1.2
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

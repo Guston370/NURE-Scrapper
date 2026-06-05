@@ -1,0 +1,16 @@
+{
+  "product_id": "68ca19083e4f",
+  "product_name": "Cheese Cube",
+  "brand": "Amul",
+  "barcode": "3948262020039",
+  "category": "Dairy",
+  "subcategory": "",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/3948262020039",
+  "image_count": 0,
+  "folder_name": "Amul_Cheese_Cube",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.312577Z"
+}

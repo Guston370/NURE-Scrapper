@@ -1,0 +1,45 @@
+{
+  "ingredients": [
+    "73",
+    "3% noedels [TARWEbloem",
+    "zonnebloemolie",
+    "zout",
+    "rijsmiddel",
+    "zonnebloemolie",
+    "zetmeel",
+    "specerijen",
+    "SOJAsauspoeder",
+    "0",
+    "5% paprika",
+    "suiker",
+    "zout",
+    "gistextract",
+    "lactose",
+    "melkeiwit",
+    "gekarameliseerde suiker",
+    "aroma's",
+    "maltose",
+    "extract van paprika."
+  ],
+  "nutrition": {
+    "energy_kcal": 121,
+    "protein_g": 2.26666666666667,
+    "carbohydrates_g": 13.7,
+    "of_which_sugars_g": 1.26666666666667,
+    "fat_g": 6.33333333333333,
+    "of_which_saturated_fat_g": 0.666666666666667,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.28
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

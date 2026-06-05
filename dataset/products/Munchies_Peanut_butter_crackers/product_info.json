@@ -1,0 +1,44 @@
+{
+  "ingredients": [
+    "ENRICHED WHEAT FLOUR",
+    "PEANUT BUTTER",
+    "VEGETABLE OIL",
+    "SUGAR",
+    "MODIFIED FOOD STARCH",
+    "CORN STARCH AND LESS THAN 2% OF DEXTROSE",
+    "SALT",
+    "CORN SYRUP",
+    "SOY LECITHIN",
+    "LEAVENING",
+    "MOLASSES",
+    "SODIUM METABISULFITE",
+    "AND WHEAT FLOUR. CONTAINS PEANUT",
+    "SOY",
+    "AND WHEAT INGREDIENTS. ALLERGY INFORMATION: MADE IN A FACILITY THAT MAKES PRODUCTS CONTAINING TREE NUTS. FRITO-LAY",
+    "INC.",
+    "PLANO",
+    "TX 75024-4099 Frito Lay © 2023 FRITO-LAY NORTH AMERICA",
+    "INC. CONTAINS BIOENGINEERED FOOD INGREDIENTS"
+  ],
+  "nutrition": {
+    "energy_kcal": 100,
+    "protein_g": 4,
+    "carbohydrates_g": 23,
+    "of_which_sugars_g": 6,
+    "fat_g": 11,
+    "of_which_saturated_fat_g": 3,
+    "dietary_fiber_g": 2,
+    "sodium_mg": 0.26
+  },
+  "allergens": [
+    "Gluten",
+    "Peanuts",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

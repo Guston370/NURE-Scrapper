@@ -1,0 +1,129 @@
+2026-06-03 20:38:11.077 | INFO     | __main__:main:508 - OFF cat 'flours': 0 fetched, 0 new
+2026-06-03 20:38:14.519 | INFO     | __main__:main:508 - OFF cat 'rice': 0 fetched, 0 new
+2026-06-03 20:38:17.986 | INFO     | __main__:main:508 - OFF cat 'pulses': 0 fetched, 0 new
+2026-06-03 20:38:21.426 | INFO     | __main__:main:508 - OFF cat 'lentils': 0 fetched, 0 new
+2026-06-03 20:38:24.859 | INFO     | __main__:main:508 - OFF cat 'spices': 0 fetched, 0 new
+2026-06-03 20:38:28.860 | INFO     | __main__:main:508 - OFF cat 'condiments': 0 fetched, 0 new
+2026-06-03 20:38:32.826 | INFO     | __main__:main:508 - OFF cat 'oils': 0 fetched, 0 new
+2026-06-03 20:38:36.657 | INFO     | __main__:main:508 - OFF cat 'butters': 0 fetched, 0 new
+2026-06-03 20:38:40.510 | INFO     | __main__:main:508 - OFF cat 'cheeses': 0 fetched, 0 new
+2026-06-03 20:38:44.226 | INFO     | __main__:main:508 - OFF cat 'biscuits-and-cakes': 0 fetched, 0 new
+2026-06-03 20:38:47.942 | INFO     | __main__:main:508 - OFF cat 'snacks': 0 fetched, 0 new
+2026-06-03 20:38:51.557 | INFO     | __main__:main:508 - OFF cat 'chips-and-crisps': 0 fetched, 0 new
+2026-06-03 20:38:55.123 | INFO     | __main__:main:508 - OFF cat 'instant-meals': 0 fetched, 0 new
+2026-06-03 20:38:58.691 | INFO     | __main__:main:508 - OFF cat 'instant-soups': 0 fetched, 0 new
+2026-06-03 20:39:02.487 | INFO     | __main__:main:508 - OFF cat 'ketchup': 0 fetched, 0 new
+2026-06-03 20:39:06.068 | INFO     | __main__:main:508 - OFF cat 'teas': 0 fetched, 0 new
+2026-06-03 20:39:09.795 | INFO     | __main__:main:508 - OFF cat 'coffees': 0 fetched, 0 new
+2026-06-03 20:39:13.721 | INFO     | __main__:main:508 - OFF cat 'nutritional-supplements': 0 fetched, 0 new
+2026-06-03 20:39:17.716 | INFO     | __main__:main:508 - OFF cat 'baby-foods': 0 fetched, 0 new
+2026-06-03 20:39:21.607 | INFO     | __main__:main:508 - OFF cat 'sugars': 0 fetched, 0 new
+2026-06-03 20:39:25.331 | INFO     | __main__:main:508 - OFF cat 'breads': 0 fetched, 0 new
+2026-06-03 20:39:29.216 | INFO     | __main__:main:508 - OFF cat 'breakfast-cereals': 0 fetched, 0 new
+2026-06-03 20:39:33.062 | INFO     | __main__:main:508 - OFF cat 'pasta': 0 fetched, 0 new
+2026-06-03 20:39:37.044 | INFO     | __main__:main:508 - OFF cat 'salts': 0 fetched, 0 new
+2026-06-03 20:39:40.832 | INFO     | __main__:main:508 - OFF cat 'ghee': 0 fetched, 0 new
+2026-06-03 20:39:44.598 | INFO     | __main__:main:508 - OFF cat 'chocolates': 0 fetched, 0 new
+2026-06-03 20:39:48.700 | INFO     | __main__:main:508 - OFF cat 'ice-creams': 0 fetched, 0 new
+2026-06-03 20:39:52.612 | INFO     | __main__:main:508 - OFF cat 'jams': 0 fetched, 0 new
+2026-06-03 20:39:59.912 | INFO     | __main__:main:528 - OFF query 'aashirvaad atta': 4 fetched, 4 new
+2026-06-03 20:40:18.501 | INFO     | __main__:main:528 - OFF query 'shaktibhog atta': 0 fetched, 0 new
+2026-06-03 20:40:20.974 | INFO     | __main__:main:528 - OFF query 'pillsbury atta': 2 fetched, 2 new
+2026-06-03 20:40:46.224 | INFO     | __main__:main:528 - OFF query 'fortune atta': 0 fetched, 0 new
+2026-06-03 20:41:00.007 | INFO     | __main__:main:528 - OFF query 'india gate basmati': 16 fetched, 12 new
+2026-06-03 20:41:06.683 | INFO     | __main__:main:528 - OFF query 'daawat basmati': 17 fetched, 16 new
+2026-06-03 20:41:18.432 | INFO     | __main__:main:528 - OFF query 'kohinoor basmati': 11 fetched, 10 new
+2026-06-03 20:41:19.497 | INFO     | __main__:main:528 - OFF query 'toor dal': 20 fetched, 20 new
+2026-06-03 20:41:40.105 | INFO     | __main__:main:528 - OFF query 'moong dal': 50 fetched, 45 new
+2026-06-03 20:42:12.108 | INFO     | __main__:main:528 - OFF query 'chana dal': 50 fetched, 44 new
+2026-06-03 20:42:19.070 | INFO     | __main__:main:528 - OFF query 'rajma': 30 fetched, 30 new
+2026-06-03 20:42:19.636 | INFO     | __main__:main:528 - OFF query 'kabuli chana': 9 fetched, 9 new
+2026-06-03 20:42:44.842 | INFO     | __main__:main:528 - OFF query 'everest masala': 20 fetched, 16 new
+2026-06-03 20:42:51.809 | INFO     | __main__:main:528 - OFF query 'mdh masala': 18 fetched, 13 new
+2026-06-03 20:42:52.642 | INFO     | __main__:main:528 - OFF query 'catch spices': 2 fetched, 2 new
+2026-06-03 20:42:55.235 | INFO     | __main__:main:528 - OFF query 'badshah masala': 3 fetched, 3 new
+2026-06-03 20:43:20.026 | INFO     | __main__:main:528 - OFF query 'sakthi masala': 1 fetched, 1 new
+2026-06-03 20:43:33.257 | INFO     | __main__:main:528 - OFF query 'eastern masala': 10 fetched, 10 new
+2026-06-03 20:43:35.353 | INFO     | __main__:main:528 - OFF query 'fortune sunflower oil': 0 fetched, 0 new
+2026-06-03 20:43:48.978 | INFO     | __main__:main:528 - OFF query 'saffola oil': 2 fetched, 2 new
+2026-06-03 20:43:52.236 | INFO     | __main__:main:528 - OFF query 'dhara oil': 2 fetched, 2 new
+2026-06-03 20:44:22.252 | INFO     | __main__:main:528 - OFF query 'goldwinner oil': 0 fetched, 0 new
+2026-06-03 20:44:35.843 | INFO     | __main__:main:528 - OFF query 'sundrop oil': 0 fetched, 0 new
+2026-06-03 20:44:38.531 | INFO     | __main__:main:528 - OFF query 'emami healthy cooking oil': 0 fetched, 0 new
+2026-06-03 20:44:41.046 | INFO     | __main__:main:528 - OFF query 'amul butter': 7 fetched, 6 new
+2026-06-03 20:44:47.391 | INFO     | __main__:main:528 - OFF query 'amul cheese': 7 fetched, 6 new
+2026-06-03 20:44:48.877 | INFO     | __main__:main:528 - OFF query 'mother dairy': 3 fetched, 3 new
+2026-06-03 20:45:07.596 | INFO     | __main__:main:528 - OFF query 'nandini milk': 1 fetched, 1 new
+2026-06-03 20:45:34.885 | INFO     | __main__:main:528 - OFF query 'kwality dairy': 0 fetched, 0 new
+2026-06-03 20:45:36.536 | INFO     | __main__:main:528 - OFF query 'verka paneer': 4 fetched, 4 new
+2026-06-03 20:46:00.733 | INFO     | __main__:main:528 - OFF query 'haldiram namkeen': 7 fetched, 7 new
+2026-06-03 20:46:01.785 | INFO     | __main__:main:528 - OFF query 'bingo snacks': 4 fetched, 4 new
+2026-06-03 20:46:15.819 | INFO     | __main__:main:528 - OFF query 'uncle chips': 50 fetched, 34 new
+2026-06-03 20:46:20.033 | INFO     | __main__:main:528 - OFF query 'act ii popcorn': 46 fetched, 36 new
+2026-06-03 20:46:38.069 | INFO     | __main__:main:528 - OFF query 'munchies': 50 fetched, 48 new
+2026-06-03 20:46:44.311 | INFO     | __main__:main:528 - OFF query 'bikaji bhujia': 1 fetched, 1 new
+2026-06-03 20:46:52.103 | INFO     | __main__:main:528 - OFF query 'balaji chips': 1 fetched, 1 new
+2026-06-03 20:46:55.900 | INFO     | __main__:main:528 - OFF query 'britannia good day': 32 fetched, 18 new
+2026-06-03 20:46:57.066 | INFO     | __main__:main:528 - OFF query 'oreo india': 1 fetched, 1 new
+2026-06-03 20:47:32.776 | INFO     | __main__:main:528 - OFF query 'mcvities': 50 fetched, 45 new
+2026-06-03 20:47:35.219 | INFO     | __main__:main:528 - OFF query 'glucose biscuit': 30 fetched, 30 new
+2026-06-03 20:47:41.938 | INFO     | __main__:main:528 - OFF query 'monaco biscuit': 14 fetched, 11 new
+2026-06-03 20:47:43.675 | INFO     | __main__:main:528 - OFF query 'jim jam': 5 fetched, 5 new
+2026-06-03 20:47:50.970 | INFO     | __main__:main:528 - OFF query 'bourbon': 50 fetched, 49 new
+2026-06-03 20:47:53.140 | INFO     | __main__:main:528 - OFF query 'marie gold': 17 fetched, 12 new
+2026-06-03 20:47:57.127 | INFO     | __main__:main:528 - OFF query 'maggi noodles': 50 fetched, 45 new
+2026-06-03 20:48:04.791 | INFO     | __main__:main:528 - OFF query 'top ramen': 34 fetched, 28 new
+2026-06-03 20:48:05.816 | INFO     | __main__:main:528 - OFF query 'yippee noodles': 1 fetched, 1 new
+2026-06-03 20:48:25.889 | INFO     | __main__:main:528 - OFF query 'knorr soup': 50 fetched, 50 new
+2026-06-03 20:48:32.676 | INFO     | __main__:main:528 - OFF query 'ching secret masala': 2 fetched, 2 new
+2026-06-03 20:48:39.686 | INFO     | __main__:main:528 - OFF query 'sunfeast yippee': 2 fetched, 2 new
+2026-06-03 20:48:43.736 | INFO     | __main__:main:528 - OFF query 'tata tea premium': 4 fetched, 3 new
+2026-06-03 20:48:50.744 | INFO     | __main__:main:528 - OFF query 'red label tea': 22 fetched, 18 new
+2026-06-03 20:48:59.083 | INFO     | __main__:main:528 - OFF query 'wagh bakri tea': 12 fetched, 12 new
+2026-06-03 20:49:08.154 | INFO     | __main__:main:528 - OFF query 'lipton tea': 50 fetched, 45 new
+2026-06-03 20:49:27.474 | INFO     | __main__:main:528 - OFF query 'nescafe classic': 50 fetched, 36 new
+2026-06-03 20:49:34.195 | INFO     | __main__:main:528 - OFF query 'bru coffee': 10 fetched, 8 new
+2026-06-03 20:49:40.869 | INFO     | __main__:main:528 - OFF query 'continental coffee': 0 fetched, 0 new
+2026-06-03 20:49:48.525 | INFO     | __main__:main:528 - OFF query 'horlicks classic': 0 fetched, 0 new
+2026-06-03 20:50:00.388 | INFO     | __main__:main:528 - OFF query 'bournvita': 7 fetched, 5 new
+2026-06-03 20:50:01.343 | INFO     | __main__:main:528 - OFF query 'complan': 8 fetched, 6 new
+2026-06-03 20:50:02.555 | INFO     | __main__:main:528 - OFF query 'boost health drink': 4 fetched, 4 new
+2026-06-03 20:50:13.981 | INFO     | __main__:main:528 - OFF query 'pediasure': 50 fetched, 28 new
+2026-06-03 20:50:20.108 | INFO     | __main__:main:528 - OFF query 'protinex': 2 fetched, 2 new
+2026-06-03 20:50:42.598 | INFO     | __main__:main:528 - OFF query 'cadbury dairy milk': 50 fetched, 32 new
+2026-06-03 20:51:17.512 | INFO     | __main__:main:528 - OFF query 'kit kat india': 0 fetched, 0 new
+2026-06-03 20:51:27.087 | INFO     | __main__:main:528 - OFF query '5 star chocolate': 50 fetched, 49 new
+2026-06-03 20:51:31.020 | INFO     | __main__:main:528 - OFF query 'munch chocolate': 48 fetched, 45 new
+2026-06-03 20:51:38.103 | INFO     | __main__:main:528 - OFF query 'melody chocolate': 0 fetched, 0 new
+2026-06-03 20:52:04.235 | INFO     | __main__:main:528 - OFF query 'eclairs': 50 fetched, 50 new
+2026-06-03 20:52:05.859 | INFO     | __main__:main:528 - OFF query 'maggi hot sweet sauce': 6 fetched, 5 new
+2026-06-03 20:52:06.976 | INFO     | __main__:main:528 - OFF query 'kissan tomato ketchup': 1 fetched, 1 new
+2026-06-03 20:52:34.506 | INFO     | __main__:main:528 - OFF query 'dr oetker': 50 fetched, 49 new
+2026-06-03 20:52:53.213 | INFO     | __main__:main:528 - OFF query 'heinz ketchup india': 0 fetched, 0 new
+2026-06-03 20:53:14.253 | INFO     | __main__:main:528 - OFF query 'weikfield': 8 fetched, 8 new
+2026-06-03 20:53:20.910 | INFO     | __main__:main:528 - OFF query 'nestum cerelac': 0 fetched, 0 new
+2026-06-03 20:53:52.298 | INFO     | __main__:main:528 - OFF query 'heinz baby food': 50 fetched, 49 new
+2026-06-03 20:53:53.884 | INFO     | __main__:main:528 - OFF query 'farex': 0 fetched, 0 new
+2026-06-03 20:54:02.695 | INFO     | __main__:main:528 - OFF query 'tata salt': 2 fetched, 2 new
+2026-06-03 20:54:16.599 | INFO     | __main__:main:528 - OFF query 'annapurna salt': 0 fetched, 0 new
+2026-06-03 20:54:19.301 | INFO     | __main__:main:528 - OFF query 'catch salt': 3 fetched, 3 new
+2026-06-03 20:54:20.289 | INFO     | __main__:main:528 - OFF query 'dharampal sugar': 0 fetched, 0 new
+2026-06-03 20:54:27.437 | INFO     | __main__:main:563 - BigBasket 'maggi': 0 fetched, 0 new
+2026-06-03 20:54:30.227 | INFO     | __main__:main:563 - BigBasket 'parle': 0 fetched, 0 new
+2026-06-03 20:54:33.030 | INFO     | __main__:main:563 - BigBasket 'britannia': 0 fetched, 0 new
+2026-06-03 20:54:35.777 | INFO     | __main__:main:563 - BigBasket 'amul': 0 fetched, 0 new
+2026-06-03 20:54:38.506 | INFO     | __main__:main:563 - BigBasket 'haldiram': 0 fetched, 0 new
+2026-06-03 20:54:41.252 | INFO     | __main__:main:563 - BigBasket 'everest masala': 0 fetched, 0 new
+2026-06-03 20:54:43.998 | INFO     | __main__:main:563 - BigBasket 'aashirvaad': 0 fetched, 0 new
+2026-06-03 20:54:46.763 | INFO     | __main__:main:563 - BigBasket 'tata salt': 0 fetched, 0 new
+2026-06-03 20:54:49.512 | INFO     | __main__:main:563 - BigBasket 'fortune oil': 0 fetched, 0 new
+2026-06-03 20:54:52.247 | INFO     | __main__:main:563 - BigBasket 'saffola': 0 fetched, 0 new
+2026-06-03 20:54:55.071 | INFO     | __main__:main:563 - BigBasket 'dabur': 0 fetched, 0 new
+2026-06-03 20:54:57.826 | INFO     | __main__:main:563 - BigBasket 'patanjali': 0 fetched, 0 new
+2026-06-03 20:55:00.601 | INFO     | __main__:main:563 - BigBasket 'mtr food': 0 fetched, 0 new
+2026-06-03 20:55:03.344 | INFO     | __main__:main:563 - BigBasket 'priya pickles': 0 fetched, 0 new
+2026-06-03 20:55:06.120 | INFO     | __main__:main:563 - BigBasket 'lijjat papad': 0 fetched, 0 new
+2026-06-03 20:55:08.884 | INFO     | __main__:main:563 - BigBasket 'bikaji': 0 fetched, 0 new
+2026-06-03 20:55:11.726 | INFO     | __main__:main:563 - BigBasket 'bingo': 0 fetched, 0 new
+2026-06-03 20:55:14.490 | INFO     | __main__:main:563 - BigBasket 'sunfeast': 0 fetched, 0 new
+2026-06-03 20:55:17.344 | INFO     | __main__:main:563 - BigBasket 'hide seek': 0 fetched, 0 new

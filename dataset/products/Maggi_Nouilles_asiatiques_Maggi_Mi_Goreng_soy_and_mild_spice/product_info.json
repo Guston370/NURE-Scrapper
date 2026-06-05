@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 351.3,
+    "protein_g": 6.1,
+    "carbohydrates_g": 43.8,
+    "of_which_sugars_g": 4.2,
+    "fat_g": 17,
+    "of_which_saturated_fat_g": 7.9,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.865
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Australie, Polynésie française, Nouvelle-Zélande",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

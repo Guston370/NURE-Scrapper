@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    "Water",
+    "Sugar",
+    "Tomato",
+    "Red Chilli Puree",
+    "Iodised Salt",
+    "Acetic Acid",
+    "Starch",
+    "Mixed Spices",
+    "Garlic Powder",
+    "Xanthan Gum",
+    "Onion Powder",
+    "Sodium Benzoate"
+  ],
+  "nutrition": {
+    "energy_kcal": 122.222222222222,
+    "protein_g": 1.11111111111111,
+    "carbohydrates_g": 31.1111111111111,
+    "of_which_sugars_g": 28.8888888888889,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": 1.11111111111111,
+    "sodium_mg": 0.79
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

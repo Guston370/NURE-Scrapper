@@ -1,0 +1,49 @@
+{
+  "ingredients": [
+    "Enriched flour",
+    "palm oil",
+    "salt",
+    "contains less than 2% of autolyzed yeast extract",
+    "baker's yeast extract",
+    "beef fat",
+    "caramel color",
+    "corn syrup",
+    "dextrin",
+    "disodium guanylate",
+    "disodium inosinate",
+    "dried leek flake",
+    "garlic powder",
+    "hydrolyzed corn protein",
+    "hydrolyzed soy protein",
+    "maltodextrin",
+    "monosodium glutamate",
+    "onion powder. potassium carbonate",
+    "powdered beef",
+    "sodium alginate",
+    "sodium carbonate",
+    "sodium tripolyphosphate",
+    "soy sauce",
+    "spice",
+    "sugar. tbhq ."
+  ],
+  "nutrition": {
+    "energy_kcal": 447.058823529412,
+    "protein_g": 10.5882352941176,
+    "carbohydrates_g": 63.5294117647059,
+    "of_which_sugars_g": 0,
+    "fat_g": 16.4705882352941,
+    "of_which_saturated_fat_g": 8.23529411764706,
+    "dietary_fiber_g": 2.35294117647059,
+    "sodium_mg": 1.56470588235294
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

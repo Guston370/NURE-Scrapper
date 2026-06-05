@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Milk solids",
+    "Sugar"
+  ],
+  "nutrition": {
+    "energy_kcal": 454,
+    "protein_g": 13.7,
+    "carbohydrates_g": 55,
+    "of_which_sugars_g": 55,
+    "fat_g": 19.9,
+    "of_which_saturated_fat_g": 12.9,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.204
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

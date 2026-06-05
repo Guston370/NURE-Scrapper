@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "MILK**",
+    "sugar",
+    "cocoa mass",
+    "cocoa butter",
+    "WHEAT flour",
+    "vegetable fats",
+    "rapeseed oil",
+    "emulsifiers",
+    "candy sugar syrup",
+    "raising agent",
+    "cinnamon",
+    "salt",
+    "flavourings."
+  ],
+  "nutrition": {
+    "energy_kcal": 525.714285714286,
+    "protein_g": 7.1,
+    "carbohydrates_g": 59,
+    "of_which_sugars_g": 53,
+    "fat_g": 28,
+    "of_which_saturated_fat_g": 16,
+    "dietary_fiber_g": 2,
+    "sodium_mg": 0.142
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

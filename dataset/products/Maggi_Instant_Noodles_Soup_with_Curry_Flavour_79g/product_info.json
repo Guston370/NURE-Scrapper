@@ -1,0 +1,43 @@
+{
+  "ingredients": [
+    "Noodles Cake",
+    "Salt",
+    "Flavor Enhancer",
+    "Flour Treatment Agents",
+    "Stabilizer )",
+    "Seasoning",
+    "Spices",
+    "Non Hydrogenated Vegetable Oil",
+    "Tapioca Starch",
+    "Sugar",
+    "Wheat Flour",
+    "Dried Vegetables",
+    "Yeast Extract",
+    "Maltodextrin",
+    "Natural Identical Flavors",
+    "Acidity Regulator",
+    "Caramel Color",
+    "Anti-Caking Agent",
+    "Stabilizer )"
+  ],
+  "nutrition": {
+    "energy_kcal": 92.8759894459103,
+    "protein_g": 1.95250659630607,
+    "carbohydrates_g": 12.9023746701847,
+    "of_which_sugars_g": 0.50131926121372,
+    "fat_g": 3.72031662269129,
+    "of_which_saturated_fat_g": 1.74142480211082,
+    "dietary_fiber_g": 0.79155672823219,
+    "sodium_mg": 0.000348284960422164
+  },
+  "allergens": [
+    "Chicken",
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "Malaysia",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

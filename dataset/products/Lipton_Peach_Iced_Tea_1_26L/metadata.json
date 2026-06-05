@@ -1,0 +1,16 @@
+{
+  "product_id": "c93694dbb0da",
+  "product_name": "Peach Iced Tea",
+  "brand": "Lipton",
+  "barcode": "4060800168344",
+  "category": "Beverages",
+  "subcategory": "Beverages",
+  "weight": "1.26L",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/4060800168344",
+  "image_count": 0,
+  "folder_name": "Lipton_Peach_Iced_Tea_1_26L",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.806778Z"
+}

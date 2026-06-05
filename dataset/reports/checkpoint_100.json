@@ -1,0 +1,21 @@
+{
+  "checkpoint": 100,
+  "products_processed": 100,
+  "total_images": 1240,
+  "average_images": 12.4,
+  "median_images": 13,
+  "lowest": 2,
+  "highest": 17,
+  "below_10": 11,
+  "source_breakdown": {
+    "OpenFoodFacts": "0.4%",
+    "Amazon": "9.3%",
+    "Bing": "0.0%",
+    "Blinkit": "90.4%",
+    "BigBasket": "0.0%",
+    "JioMart": "0.0%",
+    "Flipkart": "0.0%"
+  },
+  "duplicates_removed": 189,
+  "timestamp": "2026-06-05T17:26:31.826375"
+}

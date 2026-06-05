@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    "Farine de blé - Matière grasse végétale - Emmental râpé",
+    "séché 17 % - Sucre - Sel - Sirop de glucose-fructose - Poudre à lever : carbonate acide d'ammonium",
+    "carbonate acide de sodium - Farine d'orge malté - Extrait de levure - Lactose et protéine de lait - Emulsifiant : lécithine de soja."
+  ],
+  "nutrition": {
+    "energy_kcal": 555,
+    "protein_g": 13,
+    "carbohydrates_g": 44,
+    "of_which_sugars_g": 5.2,
+    "fat_g": 36,
+    "of_which_saturated_fat_g": 18,
+    "dietary_fiber_g": 2.4,
+    "sodium_mg": 0.77216
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Gâteaux apéritifs",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

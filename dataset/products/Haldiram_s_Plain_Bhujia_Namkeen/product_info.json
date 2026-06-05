@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "tepary beans flour",
+    "vegetable oil",
+    "chickpeas flour",
+    "salt",
+    "black pepper powder",
+    "ginger powder",
+    "mace powder",
+    "nutmeg powder and cardamom powder"
+  ],
+  "nutrition": {
+    "energy_kcal": 571,
+    "protein_g": 20,
+    "carbohydrates_g": 31.43,
+    "of_which_sugars_g": 0,
+    "fat_g": 40,
+    "of_which_saturated_fat_g": 10,
+    "dietary_fiber_g": 5.7,
+    "sodium_mg": 0
+  },
+  "allergens": [
+    "Peanuts"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 3
+}

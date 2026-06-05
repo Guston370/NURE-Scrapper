@@ -1,0 +1,49 @@
+{
+  "ingredients": [
+    "noodle cake: wheat flour",
+    "vegetable oil )",
+    "tapioca starch",
+    "salt",
+    "sugar",
+    "mineral salts",
+    "vegetable gum",
+    "colour",
+    "flavour mix sachet: iodised salt",
+    "flavour enhancers",
+    "mineral salt",
+    "maltodextrin",
+    "flavours",
+    "sugar",
+    "onion powder",
+    "vegetable fat )",
+    "parsley flakes",
+    "colours",
+    "spices (coriander",
+    "cumin",
+    "cardamom",
+    "chilli powder",
+    "ginger",
+    "garnish: carrot"
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Celery",
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Australia, France, French Polynesia, New Zealand",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

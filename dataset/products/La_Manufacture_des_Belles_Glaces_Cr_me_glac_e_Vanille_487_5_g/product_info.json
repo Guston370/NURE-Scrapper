@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "LAIT entier 61%",
+    "sucre",
+    "jaune d'ŒUF",
+    "dextrose",
+    "BEURRE",
+    "CREME fraîche 4",
+    "2%",
+    "LAIT écrémé en poudre",
+    "extrait de vanille 3",
+    "3%",
+    "eau",
+    "stabilisants: gomme de guar et farine de caroube",
+    "protéines de LAIT",
+    "graines de vanille 0",
+    "05%."
+  ],
+  "nutrition": {
+    "energy_kcal": 194,
+    "protein_g": 4.68,
+    "carbohydrates_g": 23.2,
+    "of_which_sugars_g": 23.15,
+    "fat_g": 9.11,
+    "of_which_saturated_fat_g": 5.33,
+    "dietary_fiber_g": 0.16,
+    "sodium_mg": 0.048
+  },
+  "allergens": [
+    "Eggs",
+    "Milk"
+  ],
+  "description": "Crème glacée Vanille Bourbon de Madagascar",
+  "country_of_origin": "France, Madagascar",
+  "storage_information": "A conserver à -18°C. Ne jamais recongeler un produit décongelé.",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

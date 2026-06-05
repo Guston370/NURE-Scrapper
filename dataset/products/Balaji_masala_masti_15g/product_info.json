@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    "potato 87%",
+    "edible vegetable oil",
+    "sugar",
+    "spices and condiments",
+    "edible common salt",
+    "black salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 539,
+    "protein_g": 7.4,
+    "carbohydrates_g": 56.9,
+    "of_which_sugars_g": 5.5,
+    "fat_g": 29.5,
+    "of_which_saturated_fat_g": 14,
+    "dietary_fiber_g": 8.5,
+    "sodium_mg": 0.76
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

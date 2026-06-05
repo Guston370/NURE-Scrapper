@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 358,
+    "protein_g": 14.8,
+    "carbohydrates_g": 65.9,
+    "of_which_sugars_g": 5.4,
+    "fat_g": 2.6,
+    "of_which_saturated_fat_g": 0.8,
+    "dietary_fiber_g": 5.4,
+    "sodium_mg": 3.1
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Czech Republic",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

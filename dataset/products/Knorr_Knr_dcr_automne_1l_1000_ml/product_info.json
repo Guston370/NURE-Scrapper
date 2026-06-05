@@ -1,0 +1,46 @@
+{
+  "ingredients": [
+    "Eau",
+    "carotte¹ : 10%",
+    "pomme de terre¹ : 8",
+    "2%",
+    "tomate¹",
+    "courge¹ : 6%",
+    "CRÈME fraîche : 2",
+    "9%",
+    "CÉLERI-RAVE¹ : 2",
+    "6%",
+    "oignon¹ : 2",
+    "4%",
+    "poireau¹ : 2%",
+    "amidon de maïs",
+    "panais¹ : 1",
+    "6%",
+    "sucre de canne",
+    "sel",
+    "BEURRE. Peut contenir : céréales contenant du gluten",
+    "moutarde",
+    "œuf",
+    "soja."
+  ],
+  "nutrition": {
+    "energy_kcal": 38,
+    "protein_g": 0.6,
+    "carbohydrates_g": 5.4,
+    "of_which_sugars_g": 2.4,
+    "fat_g": 1.4,
+    "of_which_saturated_fat_g": 0.8,
+    "dietary_fiber_g": 0.8,
+    "sodium_mg": 0.26
+  },
+  "allergens": [
+    "Celery",
+    "Milk"
+  ],
+  "description": "Soupe de légumes",
+  "country_of_origin": "Non indiqué",
+  "storage_information": "Le mode de préparation et d'emballage de cette soupe sont la garantie de sa conservation. Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

@@ -1,0 +1,38 @@
+{
+  "ingredients": [
+    "milk",
+    "sugar",
+    "cocoa butter",
+    "cocoa mass",
+    "blanched almonds",
+    "sweetened condensed skimmed milk",
+    "emulsifiers",
+    "salt",
+    "whey powder",
+    "skimmed milk powder",
+    "milk fat",
+    "whey permeate powder",
+    "flavourings"
+  ],
+  "nutrition": {
+    "energy_kcal": 536.666666666667,
+    "protein_g": 6.33333333333333,
+    "carbohydrates_g": 56.6666666666667,
+    "of_which_sugars_g": 56.6666666666667,
+    "fat_g": 30.6666666666667,
+    "of_which_saturated_fat_g": 17,
+    "dietary_fiber_g": 1.66666666666667,
+    "sodium_mg": 0.17
+  },
+  "allergens": [
+    "Milk",
+    "Nuts",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "France, Ireland, Pakistan, United Kingdom, United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

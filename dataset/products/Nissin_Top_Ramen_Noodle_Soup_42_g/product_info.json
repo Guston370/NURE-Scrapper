@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    "ENRICHED FLOUR",
+    "PALM OIL",
+    "SALT",
+    "CONTAINS LESS THAN 2% OF AUTOLYZED YEAST EXTRACT",
+    "BAKER'S YEAST EXTRACT",
+    "BEEF FAT",
+    "CARAMEL COLOR",
+    "CORN SYRUP",
+    "DEXTRIN",
+    "DISODIUM GUANYLATE",
+    "DI"
+  ],
+  "nutrition": {
+    "energy_kcal": 612.285714285714,
+    "protein_g": 28.3333333333333,
+    "carbohydrates_g": 153.071428571429,
+    "of_which_sugars_g": 0,
+    "fat_g": 39.6904761904762,
+    "of_which_saturated_fat_g": 19.8333333333333,
+    "dietary_fiber_g": 11.4285714285714,
+    "sodium_mg": 4.37847619047619
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

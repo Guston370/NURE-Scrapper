@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Wasser",
+    "Säuerungsmittel Apfelsäure",
+    "Schwarzer Tee-Extrakt",
+    "Pfirsichsaft aus Pfirsichsaftkonzentrat",
+    "Aroma",
+    "Säureregulator Trinatriumcitrat",
+    "Antioxidationsmittel Ascorbinsäure",
+    "Süßungsmittel . (Rainforest Alliance Certified. Mehr Informationen unter ra.org."
+  ],
+  "nutrition": {
+    "energy_kcal": 1,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": null,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": 8e-05
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

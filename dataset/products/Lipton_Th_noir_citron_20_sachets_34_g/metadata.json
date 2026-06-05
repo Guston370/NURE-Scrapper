@@ -1,0 +1,16 @@
+{
+  "product_id": "cc7ef76d6bbf",
+  "product_name": "Thé noir citron",
+  "brand": "Lipton",
+  "barcode": "5063270105818",
+  "category": "Beverages",
+  "subcategory": "Plant Based Foods And Beverages",
+  "weight": "20 sachets (34 g)",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5063270105818",
+  "image_count": 0,
+  "folder_name": "Lipton_Th_noir_citron_20_sachets_34_g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.801667Z"
+}

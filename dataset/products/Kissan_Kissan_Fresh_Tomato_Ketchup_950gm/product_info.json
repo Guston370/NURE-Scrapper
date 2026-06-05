@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "TOMATO KETCHUP INGREDIENTS: WATER",
+    "TOMATO PASTE",
+    "SUGAR",
+    "SALT",
+    "ACIDITY REGULATOR-260",
+    "STABILIZERS-1422",
+    "415",
+    "PRESERVATIVE-211",
+    "ONION POWDER",
+    "GARLIC POWDER",
+    "SPICES AND CONDIMENTS CONTAINS PERMITTED CLASS II PRESERVATIVE"
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 3
+}

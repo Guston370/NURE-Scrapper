@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Water",
+    "Sugar",
+    "Tomato paste",
+    "Red chilli puree",
+    "iodised salt",
+    "Acidity regulator-E260",
+    "Starch",
+    "Mixed Spices",
+    "Garlic powder",
+    "Thickener-E415",
+    "Onion powder",
+    "Preservative-E211",
+    "May contains _Milk_ & _Nut_."
+  ],
+  "nutrition": {
+    "energy_kcal": 127,
+    "protein_g": 0.6,
+    "carbohydrates_g": 31.5,
+    "of_which_sugars_g": 28.6,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.7896
+  },
+  "allergens": [
+    "Milk",
+    "Nuts"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

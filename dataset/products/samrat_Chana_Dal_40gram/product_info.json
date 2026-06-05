@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "Split Chickpeas",
+    "Edible Vegetable Oil",
+    "lodised Salt",
+    "Red Chilli Powder",
+    "Dried Mango Powder. Allergy advice: Made in a facility that processes food containing peanuts",
+    "sesame seed",
+    "nuts",
+    "tree nuts",
+    "soy",
+    "milk",
+    "mustard and wheat."
+  ],
+  "nutrition": {
+    "energy_kcal": 492,
+    "protein_g": 18,
+    "carbohydrates_g": 51,
+    "of_which_sugars_g": 4,
+    "fat_g": 24,
+    "of_which_saturated_fat_g": 10,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.7
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Mustard",
+    "Nuts",
+    "Sesame Seeds",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 360,
+    "protein_g": 35,
+    "carbohydrates_g": 50,
+    "of_which_sugars_g": 0,
+    "fat_g": 2,
+    "of_which_saturated_fat_g": 0.5,
+    "dietary_fiber_g": 1.2,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Finland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

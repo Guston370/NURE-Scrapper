@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Milk Solids",
+    "Vitamin A& Vitamin D\nMilk Fat : 3.0%  & SNF 8.5%"
+  ],
+  "nutrition": {
+    "energy_kcal": 59,
+    "protein_g": 3.3,
+    "carbohydrates_g": 4.8,
+    "of_which_sugars_g": 4.8,
+    "fat_g": 3,
+    "of_which_saturated_fat_g": 1.9,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.05
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "Toned Milk",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": ""
+}

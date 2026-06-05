@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "rolled oats 30%",
+    "milk chocolate 25%",
+    "butter oil",
+    "vegetable fats",
+    "emulsifiers",
+    "natural flavouring)",
+    "wholemeal  wheat  flour 16%",
+    "sugar",
+    "vegetable oil",
+    "glucose-fructose syrup",
+    "raising agents",
+    "salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 493.78585086042,
+    "protein_g": 7,
+    "carbohydrates_g": 61.4,
+    "of_which_sugars_g": 32.3,
+    "fat_g": 23.3,
+    "of_which_saturated_fat_g": 11.5,
+    "dietary_fiber_g": 5.2,
+    "sodium_mg": 0.3
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

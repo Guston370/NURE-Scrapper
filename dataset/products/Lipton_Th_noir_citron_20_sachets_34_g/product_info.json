@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "thé noir",
+    "arômes naturels de citron",
+    "écorce de citron ."
+  ],
+  "nutrition": {
+    "energy_kcal": 4,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

@@ -1,0 +1,16 @@
+{
+  "product_id": "7389d63ed4a7",
+  "product_name": "Maggi chicken noodle soup",
+  "brand": "Maggi",
+  "barcode": "6294017116937",
+  "category": "Ready-to-Eat",
+  "subcategory": "Soups",
+  "weight": "60g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/6294017116937",
+  "image_count": 0,
+  "folder_name": "Maggi_Maggi_chicken_noodle_soup_60g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.586232Z"
+}

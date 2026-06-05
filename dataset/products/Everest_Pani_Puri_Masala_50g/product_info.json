@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Rock Salt",
+    "Dried Mango",
+    "Cumin",
+    "Chilli",
+    "Black Salt",
+    "Mint Leaf",
+    "Black Pepper",
+    "Dried Ginger",
+    "Tamarind and Citric Acid.Contain Mustard"
+  ],
+  "nutrition": {
+    "energy_kcal": 17.25,
+    "protein_g": 0.44,
+    "carbohydrates_g": 3.02,
+    "of_which_sugars_g": 0,
+    "fat_g": 0.36,
+    "of_which_saturated_fat_g": 0.05,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 3
+}

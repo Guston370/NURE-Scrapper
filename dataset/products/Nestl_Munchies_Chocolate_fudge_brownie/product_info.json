@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "sugar",
+    "vegetable fats",
+    "milk powders",
+    "cocoa butter",
+    "lactose and proteins from whey",
+    "whey powder",
+    "cocoa mass",
+    "wheat flour",
+    "fat-reduced cocoa powder",
+    "emulsifier",
+    "raising agents",
+    "natural flavouring",
+    "salt",
+    "wheat gluten powder",
+    "barley malt extract."
+  ],
+  "nutrition": {
+    "energy_kcal": 536,
+    "protein_g": 6.2,
+    "carbohydrates_g": 58.4,
+    "of_which_sugars_g": 54.4,
+    "fat_g": 30.3,
+    "of_which_saturated_fat_g": 15.7,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.12
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

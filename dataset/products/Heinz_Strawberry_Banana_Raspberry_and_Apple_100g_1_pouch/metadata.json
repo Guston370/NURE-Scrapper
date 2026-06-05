@@ -1,0 +1,16 @@
+{
+  "product_id": "081ac2af932f",
+  "product_name": "Strawberry, Banana, Raspberry and Apple",
+  "brand": "Heinz",
+  "barcode": "5000157079947",
+  "category": "Baby Food",
+  "subcategory": "Snacks And Desserts For Babies",
+  "weight": "100g (1 pouch)",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5000157079947",
+  "image_count": 0,
+  "folder_name": "Heinz_Strawberry_Banana_Raspberry_and_Apple_100g_1_pouch",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:13.000348Z"
+}

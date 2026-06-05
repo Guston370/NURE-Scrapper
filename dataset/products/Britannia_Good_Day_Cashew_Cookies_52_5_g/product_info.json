@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    "INGREDIENTS REFINED WHEAT FLOUR",
+    "EDIBLE VEGETABLE OIL",
+    "SUGAR",
+    "CASHEW NUTS",
+    "INVERT SYRUP",
+    "MILK SOLIDS",
+    "BUTTER",
+    "RAISING AGENTS  CONTAINS ADDED FLAVOURS  FLAVOURING SUBSTANCES!  CONTAINS WHEAT",
+    "NUTS",
+    "MILK AND SOYA."
+  ],
+  "nutrition": {
+    "energy_kcal": 512,
+    "protein_g": 7,
+    "carbohydrates_g": 67,
+    "of_which_sugars_g": 22,
+    "fat_g": 24,
+    "of_which_saturated_fat_g": 11,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Nuts",
+    "Soybeans"
+  ],
+  "description": "Good day biscuit",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

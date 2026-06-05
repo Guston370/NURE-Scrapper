@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Flour",
+    "Sugar",
+    "Vegetable Oil",
+    "Glucose-Fructose Syrup",
+    "Molasses",
+    "Raising Agents",
+    "Ground Ginger",
+    "Salt",
+    "Natural Lemon and Ginger Flavouring."
+  ],
+  "nutrition": {
+    "energy_kcal": 505,
+    "protein_g": 4.4,
+    "carbohydrates_g": 71,
+    "of_which_sugars_g": 37,
+    "fat_g": 23,
+    "of_which_saturated_fat_g": 8.3,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.338
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "France, Ireland, Spain, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

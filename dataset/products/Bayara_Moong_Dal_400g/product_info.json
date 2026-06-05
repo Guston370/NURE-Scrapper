@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Moong Dal"
+  ],
+  "nutrition": {
+    "energy_kcal": 359,
+    "protein_g": 24,
+    "carbohydrates_g": 63,
+    "of_which_sugars_g": 7,
+    "fat_g": 1.2,
+    "of_which_saturated_fat_g": 0.3,
+    "dietary_fiber_g": 16,
+    "sodium_mg": 0.015
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Myanmar",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 1
+}

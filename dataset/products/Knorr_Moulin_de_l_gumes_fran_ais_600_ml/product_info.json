@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Eau",
+    "pomme de terre¹ : 15%",
+    "carotte¹ : 15%",
+    "poireau¹ : 6%",
+    "CÉLERI-RAVE¹ : 5%",
+    "oignon¹ : 4%",
+    "potiron¹ : 4%",
+    "amidon de maïs",
+    "sel",
+    "aromates . Peut contenir : céréales contenant du gluten",
+    "lait",
+    "moutarde",
+    "œuf",
+    "soja. ¹Légumes issus de l'agriculture durable. 49% de légumes¹ ."
+  ],
+  "nutrition": {
+    "energy_kcal": 29,
+    "protein_g": 0.8,
+    "carbohydrates_g": 5.6,
+    "of_which_sugars_g": 1.4,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": 1.1,
+    "sodium_mg": 0.26
+  },
+  "allergens": [
+    "Celery"
+  ],
+  "description": "Soupe.",
+  "country_of_origin": "France",
+  "storage_information": "Le mode de préparation et d'emballage de cette soupe sont la garantie de sa conservation. Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

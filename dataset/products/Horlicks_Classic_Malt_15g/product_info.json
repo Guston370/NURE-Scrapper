@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "Malt  [Barley",
+    "Wheat Flour",
+    "wwear",
+    "Millet]",
+    "Milk Solids",
+    "Sugar",
+    "Wheat Gluten",
+    "Minerals",
+    "Edible lodized Salt",
+    "Soy Protein Isolate",
+    "Acidity Regulators [INS 501",
+    "INS 500]",
+    "Vitamins. Allergen Information: Contains Wheat",
+    "Barley",
+    "Milk & Soy."
+  ],
+  "nutrition": {
+    "energy_kcal": 377,
+    "protein_g": 11,
+    "carbohydrates_g": 79,
+    "of_which_sugars_g": 46,
+    "fat_g": 2,
+    "of_which_saturated_fat_g": 1.4,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

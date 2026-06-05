@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "Wheat flour"
+  ],
+  "nutrition": {
+    "energy_kcal": 365.3,
+    "protein_g": 12.9,
+    "carbohydrates_g": 73.7,
+    "of_which_sugars_g": 0.8,
+    "fat_g": 2.1,
+    "of_which_saturated_fat_g": 1.9,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.0067
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 1
+}

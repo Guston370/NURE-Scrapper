@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Apple Puree",
+    "Water",
+    "Oatmeal",
+    "Cinnamon Flavour"
+  ],
+  "nutrition": {
+    "energy_kcal": 57.642557647059,
+    "protein_g": 0.82352941176471,
+    "carbohydrates_g": 11.058823529412,
+    "of_which_sugars_g": 5.7647058823529,
+    "fat_g": 0.70588235294118,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": ""
+}

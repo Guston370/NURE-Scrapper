@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    "wheat flour",
+    "water",
+    "sugar",
+    "non-hydrogenated vegetable margarine",
+    "skimmed milk powder",
+    "eggs",
+    "1% iodized cooking salt",
+    "emulsifier: soy lecithin",
+    "natural lemon flavor"
+  ],
+  "nutrition": {
+    "energy_kcal": 423,
+    "protein_g": 9.2,
+    "carbohydrates_g": 79,
+    "of_which_sugars_g": 34,
+    "fat_g": 7.3,
+    "of_which_saturated_fat_g": 3.7,
+    "dietary_fiber_g": 2.2,
+    "sodium_mg": 0.44
+  },
+  "allergens": [
+    "Eggs",
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "Suisse",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

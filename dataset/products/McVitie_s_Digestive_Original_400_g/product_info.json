@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Vetemjöl",
+    "palmolja",
+    "fullkornsvetemjöl",
+    "socker",
+    "inverterad sockersirap",
+    "bakpulver",
+    "salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 482.993197278912,
+    "protein_g": 6.80272108843537,
+    "carbohydrates_g": 63.265306122449,
+    "of_which_sugars_g": 14.9659863945578,
+    "fat_g": 21.0884353741497,
+    "of_which_saturated_fat_g": 10.2040816326531,
+    "dietary_fiber_g": 3.40136054421769,
+    "sodium_mg": 0.537414965986395
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "Vetekex",
+  "country_of_origin": "Sverige",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

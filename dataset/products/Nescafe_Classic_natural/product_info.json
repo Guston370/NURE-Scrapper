@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Café soluble"
+  ],
+  "nutrition": {
+    "energy_kcal": 118,
+    "protein_g": 7.8,
+    "carbohydrates_g": 3.1,
+    "of_which_sugars_g": 3.1,
+    "fat_g": 0.2,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": 34.1,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France, Espagne",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 1
+}

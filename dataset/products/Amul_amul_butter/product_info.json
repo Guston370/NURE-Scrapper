@@ -1,0 +1,53 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 740.0,
+    "protein_g": 0.6,
+    "carbohydrates_g": 0.0,
+    "fat_g": 82.0,
+    "of_which_saturated_fat_g": 49.0,
+    "additional_nutrients": {
+      "carbohydrates": 0,
+      "carbohydrates_serving": 0,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 0.0,
+      "cholesterol": 0.225,
+      "cholesterol_100g": 0.225,
+      "cholesterol_serving": 0.225,
+      "cholesterol_unit": "g",
+      "cholesterol_value": 0.225,
+      "energy": 3096,
+      "energy-kcal": 740,
+      "energy-kcal_serving": 740,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 740.0,
+      "energy_100g": 3096,
+      "energy_serving": 3100,
+      "energy_unit": "kJ",
+      "energy_value": 3096,
+      "fat": 82,
+      "fat_serving": 82,
+      "fat_unit": "g",
+      "fat_value": 82.0,
+      "proteins": 0.6,
+      "proteins_serving": 0.6,
+      "proteins_unit": "g",
+      "proteins_value": 0.6,
+      "saturated-fat": 49,
+      "saturated-fat_serving": 49,
+      "saturated-fat_unit": "g",
+      "saturated-fat_value": 49.0
+    }
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "health_claims": [],
+  "additional_info": {
+    "ecoscore_grade": null,
+    "nutriscore_grade": "unknown",
+    "nova_group": null,
+    "packaging": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Basmati Rice"
+  ],
+  "nutrition": {
+    "energy_kcal": 349,
+    "protein_g": 8.2,
+    "carbohydrates_g": 78,
+    "of_which_sugars_g": 0,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": 1.9,
+    "sodium_mg": 0.0017
+  },
+  "allergens": [],
+  "description": "Rice",
+  "country_of_origin": "Royaume-Uni",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "b",
+  "nova_group": 1
+}

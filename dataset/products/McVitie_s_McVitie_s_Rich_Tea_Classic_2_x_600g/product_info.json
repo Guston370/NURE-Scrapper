@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Flour",
+    "Sugar",
+    "Vegetable Oil",
+    "Glucose-Fructose Syrup",
+    "Barley Malt Extract",
+    "Raising Agents",
+    "Salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 459,
+    "protein_g": 7,
+    "carbohydrates_g": 71.3,
+    "of_which_sugars_g": 20.2,
+    "fat_g": 15.5,
+    "of_which_saturated_fat_g": 1.5,
+    "dietary_fiber_g": 2.9,
+    "sodium_mg": 0.36
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "France, Ireland, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

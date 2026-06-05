@@ -1,0 +1,42 @@
+{
+  "ingredients": [
+    "Biscuit [Wheat Flour",
+    "Non-hydrogenated vegetable fat",
+    "Whole Wheat flour",
+    "Sugar",
+    "Modified Starch",
+    "Invert sugar syrup",
+    "raising agent",
+    "Salt",
+    "Skimmed Milk Powder",
+    "Acidity Regulator ]",
+    "Dark Chocolate  [Sugar",
+    "Cocoa mass",
+    "Non Hydrogenated vegetable Fats",
+    "Butter Oil",
+    "Cocoa Butter",
+    "emulsifier )",
+    "Natural Flavouring . Cocoa Solids minimum 38%)."
+  ],
+  "nutrition": {
+    "energy_kcal": 49,
+    "protein_g": 5.1351,
+    "carbohydrates_g": 51.3514,
+    "of_which_sugars_g": 24.3243,
+    "fat_g": 20,
+    "of_which_saturated_fat_g": 10.8108,
+    "dietary_fiber_g": 2.7,
+    "sodium_mg": 0.24054
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "كندا, المغرب",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "wheat flour",
+    "sunflower oil",
+    "potato starch",
+    "wheat gluten",
+    "salt",
+    "acidity regulator",
+    "stabiliser"
+  ],
+  "nutrition": {
+    "energy_kcal": 87,
+    "protein_g": 2,
+    "carbohydrates_g": 12.3,
+    "of_which_sugars_g": 0.6,
+    "fat_g": 3.2,
+    "of_which_saturated_fat_g": 0.2,
+    "dietary_fiber_g": 0.5,
+    "sodium_mg": 0.00047
+  },
+  "allergens": [
+    "Celery",
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "France, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

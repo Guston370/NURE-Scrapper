@@ -1,0 +1,44 @@
+{
+  "ingredients": [
+    "87",
+    "3% frittierte Nudeln [WEIZENMEHL",
+    "Sonnenblumenöl",
+    "Salz",
+    "Backtriebmittel ]",
+    "Salz",
+    "Karotten",
+    "Gewürze [Chili",
+    "Knoblauch",
+    "schwarzer Pfeffer",
+    "Kurkuma)",
+    "Zwiebeln",
+    "Kräuter",
+    "Lauch",
+    "Zucker",
+    "Sonnenblumenöl",
+    "Stärke",
+    "natürliche Aromen",
+    "Huhnaromen",
+    "Hefeextrakt."
+  ],
+  "nutrition": {
+    "energy_kcal": 103,
+    "protein_g": 2.2,
+    "carbohydrates_g": 11.9,
+    "of_which_sugars_g": 0.9,
+    "fat_g": 4.9,
+    "of_which_saturated_fat_g": 0.5,
+    "dietary_fiber_g": 1,
+    "sodium_mg": 0.44
+  },
+  "allergens": [
+    "Celery",
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "Österreich, Frankreich, Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

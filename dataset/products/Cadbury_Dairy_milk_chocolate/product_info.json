@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "sugar",
+    "full cream milk powder",
+    "cocoa mass",
+    "cocoa butter",
+    "vegetable fats palm fruit",
+    "sunflower seed",
+    "shea nut",
+    "lipe seed",
+    "sal seed soyal",
+    "emulsifiers",
+    "tree nuis"
+  ],
+  "nutrition": {
+    "energy_kcal": 521.032504698,
+    "protein_g": 7.7,
+    "carbohydrates_g": 59,
+    "of_which_sugars_g": 58.5,
+    "fat_g": 27.5,
+    "of_which_saturated_fat_g": 16.5,
+    "dietary_fiber_g": 2.5,
+    "sodium_mg": 0.085
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "Germany, South Africa",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

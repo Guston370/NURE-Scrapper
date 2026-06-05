@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Beetroot",
+    "Water",
+    "Barley Malt Vinegar",
+    "Sugar",
+    "Salt",
+    "Preservative: Potassium Sorbate."
+  ],
+  "nutrition": {
+    "energy_kcal": 44,
+    "protein_g": 1.2,
+    "carbohydrates_g": 8.7,
+    "of_which_sugars_g": 7.2,
+    "fat_g": 0.1,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 16,
+    "sodium_mg": 0.08
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 3
+}

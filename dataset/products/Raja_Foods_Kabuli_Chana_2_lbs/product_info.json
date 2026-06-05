@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "Chick Peas"
+  ],
+  "nutrition": {
+    "energy_kcal": 380,
+    "protein_g": 20,
+    "carbohydrates_g": 64,
+    "of_which_sugars_g": 0.5,
+    "fat_g": 6,
+    "of_which_saturated_fat_g": 0.3,
+    "dietary_fiber_g": 12,
+    "sodium_mg": 0.000216
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 1
+}

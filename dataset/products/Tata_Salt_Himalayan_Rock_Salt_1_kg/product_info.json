@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    "Rock Salt",
+    "Potassium lodate"
+  ],
+  "nutrition": {
+    "energy_kcal": 0,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 37.4
+  },
+  "allergens": [],
+  "description": "Pink Salt",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": ""
+}

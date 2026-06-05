@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    "Milk**",
+    "sugar",
+    "roasted hazelnuts",
+    "cocoa butter",
+    "cocoa mass",
+    "vegetable fats",
+    "emulsifiers",
+    "flavourings. May contain other nuts",
+    "wheat. **The equivalent of 426 ml of fresh liquid milk in every 227 g of milk chocolate. MILK CHOCOLATE: MILK SOLIDS 20% MINIMUM",
+    "ACTUAL 23 %. COCOA SOLIDS 20% MINIMUM. CONTAINS VEGETABLE FATS IN ADDITION TO COCOA BUTTER. 7 W"
+  ],
+  "nutrition": {
+    "energy_kcal": 552.103250478011,
+    "protein_g": 8.6,
+    "carbohydrates_g": 49,
+    "of_which_sugars_g": 48,
+    "fat_g": 35,
+    "of_which_saturated_fat_g": 15,
+    "dietary_fiber_g": 3.3,
+    "sodium_mg": 0.079
+  },
+  "allergens": [
+    "Milk",
+    "Nuts"
+  ],
+  "description": "",
+  "country_of_origin": "Spain, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

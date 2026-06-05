@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "_Wheat Flour_",
+    "Vegetable Oil",
+    "Wholemeal _Wheat Flour_",
+    "Sugar",
+    "Raising Agents",
+    "Partially Inverted Sugar Syrup",
+    "Salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 482.758620689655,
+    "protein_g": 6.89655172413793,
+    "carbohydrates_g": 62.0689655172414,
+    "of_which_sugars_g": 15.5172413793103,
+    "fat_g": 20.6896551724138,
+    "of_which_saturated_fat_g": 10.3448275862069,
+    "dietary_fiber_g": 3.44827586206897,
+    "sodium_mg": 0.5
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "France, Maroc, Arabie saoudite, Suisse",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

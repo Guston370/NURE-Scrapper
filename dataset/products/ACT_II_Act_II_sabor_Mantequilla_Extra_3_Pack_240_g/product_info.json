@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    "Maiz",
+    "aceite de palma",
+    "sal yodada",
+    "saborizante idéntico al natural  y extracto de annato ."
+  ],
+  "nutrition": {
+    "energy_kcal": 516.666666666667,
+    "protein_g": 8.33333333333333,
+    "carbohydrates_g": 53.3333333333333,
+    "of_which_sugars_g": 0.666666666666667,
+    "fat_g": 30,
+    "of_which_saturated_fat_g": 13.3333333333333,
+    "dietary_fiber_g": 8.33333333333333,
+    "sodium_mg": 0.880533333333333
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "Palomitas para microondas sabor mantequilla extra",
+  "country_of_origin": "México",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

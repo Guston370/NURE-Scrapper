@@ -1,0 +1,16 @@
+{
+  "product_id": "0be18b91db87",
+  "product_name": "Cheese Soup",
+  "brand": "Knorr",
+  "barcode": "8712100868306",
+  "category": "Instant Foods & Noodles",
+  "subcategory": "",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8712100868306",
+  "image_count": 0,
+  "folder_name": "Knorr_Cheese_Soup",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.690777Z"
+}

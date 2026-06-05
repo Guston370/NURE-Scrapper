@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Bebida refrigerante de extrato de chá com sumo de limão. Contém açúcares e edulcorante. Deve beber-se fresco. Bebida sem gás. Ingredientes: Chá  )",
+    "açúcar",
+    "frutose",
+    "acidificantes",
+    "sumo de limão obtido a partir de um produto concentrado",
+    "regulador de acidez",
+    "aromas",
+    "antioxidante",
+    "edulcorante"
+  ],
+  "nutrition": {
+    "energy_kcal": 13,
+    "protein_g": 0.5,
+    "carbohydrates_g": 3.1,
+    "of_which_sugars_g": 3,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.012
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France, Portugal",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": ""
+}

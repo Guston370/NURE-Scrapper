@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Eau",
+    "sucre",
+    "fructose",
+    "acidifiants",
+    "extrait de thé noir",
+    "jus de pêche à base de concentré",
+    "correcteur d'acidité",
+    "arômes",
+    "antioxydant",
+    "édulcorant"
+  ],
+  "nutrition": {
+    "energy_kcal": 19,
+    "protein_g": 0,
+    "carbohydrates_g": 4.6,
+    "of_which_sugars_g": 4.5,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.012
+  },
+  "allergens": [],
+  "description": "Boisson rafraîchissante aux extraits de thé goût pêche, avec sucres et édulcorant.",
+  "country_of_origin": "France",
+  "storage_information": "Les extraits de thé peuvent former un léger dépôt naturel, sans incidence sur la qualité du produit. A consommer de préférence avant fin : voir le fond de la canette.",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

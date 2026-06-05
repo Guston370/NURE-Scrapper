@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    "Wholegrain Rolled Oats",
+    "Wholemeal Wheat Flour",
+    "Palm Oil",
+    "Sugar",
+    "Partially Inverted Sugar Syrup",
+    "Raising Agents",
+    "Salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 472,
+    "protein_g": 7.4,
+    "carbohydrates_g": 61.8,
+    "of_which_sugars_g": 22.9,
+    "fat_g": 20.2,
+    "of_which_saturated_fat_g": 8.8,
+    "dietary_fiber_g": 6.5,
+    "sodium_mg": 0.328
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

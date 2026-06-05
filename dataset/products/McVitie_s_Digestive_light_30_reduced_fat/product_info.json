@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Wheat Flour",
+    "Sugar",
+    "Wholemeal Wheat Flour",
+    "Non Hydrogenated Vegetable Oil",
+    "Glucose-Fructose Syrup",
+    "Raising Agents",
+    "Emulsifier",
+    "Salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 448,
+    "protein_g": 7.4,
+    "carbohydrates_g": 69.9,
+    "of_which_sugars_g": 20.2,
+    "fat_g": 14.5,
+    "of_which_saturated_fat_g": 1.5,
+    "dietary_fiber_g": 3.6,
+    "sodium_mg": 0.388
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France, Maroc",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": ""
+}

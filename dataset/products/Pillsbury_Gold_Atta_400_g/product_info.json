@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    "Whole Wheat"
+  ],
+  "nutrition": {
+    "energy_kcal": 340,
+    "protein_g": null,
+    "carbohydrates_g": 71.9,
+    "of_which_sugars_g": 5.7,
+    "fat_g": 2.5,
+    "of_which_saturated_fat_g": 0.4,
+    "dietary_fiber_g": 10.7,
+    "sodium_mg": 0.002
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 1
+}

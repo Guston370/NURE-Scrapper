@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Sugar",
+    "Milk solids",
+    "Cocoa butter",
+    "Cocoa solids",
+    "Emulisifiers",
+    "Flavours flavouring substances)"
+  ],
+  "nutrition": {
+    "energy_kcal": 545,
+    "protein_g": 7.5,
+    "carbohydrates_g": 58.5,
+    "of_which_sugars_g": 55,
+    "fat_g": 30,
+    "of_which_saturated_fat_g": 20,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.125
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

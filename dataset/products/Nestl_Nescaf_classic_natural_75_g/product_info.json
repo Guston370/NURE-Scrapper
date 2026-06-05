@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "soluble coffee"
+  ],
+  "nutrition": {
+    "energy_kcal": 2,
+    "protein_g": 0.2,
+    "carbohydrates_g": 0.1,
+    "of_which_sugars_g": 0.1,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0.7,
+    "sodium_mg": 0.004
+  },
+  "allergens": [],
+  "description": "Café soluble",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 1
+}

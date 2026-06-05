@@ -1,0 +1,48 @@
+{
+  "ingredients": [
+    "wheat flour",
+    "sugar",
+    "bakery shortening",
+    "palm oil",
+    "interesterified fat",
+    "sesame oil",
+    "butter",
+    "milk",
+    "invert sugar syrup",
+    "whole milk powder",
+    "leavenings",
+    "ammonium bicarbonate",
+    "sodium bicarbonate",
+    "salt",
+    "emulsifiers",
+    "soy lecithin",
+    "mono - and diglycerides of fatty acids",
+    "diacetyl tartaric acid esters of mono - and diglycerides",
+    "natural and artificial flavours",
+    "butter",
+    "vanilla",
+    "milk"
+  ],
+  "nutrition": {
+    "energy_kcal": 476,
+    "protein_g": 5.8823529411765,
+    "carbohydrates_g": 67.647058823529,
+    "of_which_sugars_g": 23.529411764706,
+    "fat_g": 23.529411764706,
+    "of_which_saturated_fat_g": 11.764705882353,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.26470588235294
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Sesame Seeds",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

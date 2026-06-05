@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "Potatoes",
+    "Edible Vegetable Oil  Raisins",
+    "Cashew Nuts",
+    "Sugar Powder",
+    "Almonds",
+    "Rice Flakes",
+    "Sesame Seeds",
+    "lodised Salt",
+    "Curry Leaves",
+    "Black Pepper Powder",
+    "Cumin and Acidity Regulator . CONTAING NUTS AND SESAME SEEDS"
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Nuts",
+    "Sesame Seeds"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

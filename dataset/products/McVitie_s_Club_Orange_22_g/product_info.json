@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "_Milk_ chocolate 49%",
+    "dried skimmed _milk_",
+    "butter oil",
+    "vegetable fats",
+    "emulsifier",
+    "natural flavouring)",
+    "flour",
+    "vegetable oil",
+    "sugar",
+    "glucose syrup",
+    "raising agents",
+    "salt",
+    "natural orange flavouring",
+    "colour",
+    "acid ."
+  ],
+  "nutrition": {
+    "energy_kcal": 506,
+    "protein_g": 5.7,
+    "carbohydrates_g": 61,
+    "of_which_sugars_g": 40.8,
+    "fat_g": 26.1,
+    "of_which_saturated_fat_g": 16,
+    "dietary_fiber_g": 2.1,
+    "sodium_mg": 0.25
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Milk chocolate covered crunchy biscuit with an orange flavoured cream",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

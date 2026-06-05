@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Wheat flour",
+    "sugar",
+    "palm oil",
+    "butter",
+    "skim milk powder",
+    "ammonium bicarbonate & sodium bicarbonate",
+    "salt",
+    "soya lecithin & mono and diglycerides of fatty acids  and artificial flavour ."
+  ],
+  "nutrition": {
+    "energy_kcal": 500,
+    "protein_g": 5.88,
+    "carbohydrates_g": 67.65,
+    "of_which_sugars_g": 23.53,
+    "fat_g": 23.53,
+    "of_which_saturated_fat_g": 11.76,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.329184
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

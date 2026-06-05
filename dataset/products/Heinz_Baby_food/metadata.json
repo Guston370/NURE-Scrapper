@@ -1,0 +1,16 @@
+{
+  "product_id": "23164035be95",
+  "product_name": "Baby food",
+  "brand": "Heinz",
+  "barcode": "05722608",
+  "category": "Baby Food",
+  "subcategory": "",
+  "weight": "",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/05722608",
+  "image_count": 0,
+  "folder_name": "Heinz_Baby_food",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:13.023870Z"
+}

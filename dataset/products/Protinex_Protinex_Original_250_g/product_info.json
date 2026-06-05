@@ -1,0 +1,29 @@
+{
+  "ingredients": [
+    "Peanut protein hydrolysate",
+    "Sugar",
+    "Malt extract",
+    "Maltodextrin",
+    "Minerals",
+    "Vitamins",
+    "Natural colour",
+    "Artificial flavouring substances"
+  ],
+  "nutrition": {
+    "energy_kcal": 354,
+    "protein_g": 34,
+    "carbohydrates_g": 53.3,
+    "of_which_sugars_g": 32,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.42,
+    "dietary_fiber_g": null,
+    "sodium_mg": 245
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4
+}

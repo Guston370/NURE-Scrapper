@@ -1,0 +1,43 @@
+{
+  "ingredients": [
+    "Sugar",
+    "Flour",
+    "Whole Egg",
+    "Water",
+    "Dextrose",
+    "Concentrated Orange Juice",
+    "Glucose Syrup",
+    "Vegetable Oils",
+    "Humectant",
+    "Acid",
+    "Gelling Agent",
+    "Raising Agents",
+    "Dried Whole Egg",
+    "Acidity Regulator",
+    "Natural Orange Flavouring",
+    "Colour",
+    "Emulsifier"
+  ],
+  "nutrition": {
+    "energy_kcal": 376,
+    "protein_g": 5,
+    "carbohydrates_g": 69.6,
+    "of_which_sugars_g": 50,
+    "fat_g": 8.1,
+    "of_which_saturated_fat_g": 4,
+    "dietary_fiber_g": 2.1,
+    "sodium_mg": 0.106
+  },
+  "allergens": [
+    "Eggs",
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Ireland, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "Farine de blé",
+    "sucre",
+    "graisse végétale",
+    "sirop de sucre",
+    "farine de riz",
+    "Raising agents",
+    "sel",
+    "poudre de lait",
+    "humectant",
+    "arômes artificiels",
+    "la vitamine prémélang",
+    "conditionneur de pâte",
+    "couleurs permises ."
+  ],
+  "nutrition": {
+    "energy_kcal": 453,
+    "protein_g": 9,
+    "carbohydrates_g": 75.7,
+    "of_which_sugars_g": 22,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.2
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

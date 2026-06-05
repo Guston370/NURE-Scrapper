@@ -1,0 +1,52 @@
+{
+  "ingredients": [
+    "Enriched flour",
+    "palm oil",
+    "salt",
+    "contains less than 2% of autolyzed yeast extract",
+    "calcium silicate",
+    "citric acid",
+    "disodium guanylate",
+    "disodium inosinate",
+    "dried leek flake",
+    "garlic powder",
+    "hydrolyzed corn protein",
+    "hydrolyzed corn protein",
+    "hydrolyzed soy protein",
+    "maltodextrin",
+    "monosodium glutamate",
+    "natural and artificial flavor",
+    "onion powder",
+    "potassium carbonate",
+    "powdered chicken",
+    "rendered chicken fat",
+    "sodium alginate",
+    "sodium carbonate",
+    "sodium tripolyphosphate",
+    "soybean",
+    "spice and color",
+    "sugar",
+    "tbhq",
+    "wheat."
+  ],
+  "nutrition": {
+    "energy_kcal": 452,
+    "protein_g": 11.9,
+    "carbohydrates_g": 61.9,
+    "of_which_sugars_g": 2.38,
+    "fat_g": 16.67,
+    "of_which_saturated_fat_g": 8.33,
+    "dietary_fiber_g": 4.8,
+    "sodium_mg": 2.201672
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

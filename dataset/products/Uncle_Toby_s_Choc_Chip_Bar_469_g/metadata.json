@@ -1,0 +1,16 @@
+{
+  "product_id": "1a0ed4ffbb3e",
+  "product_name": "Choc Chip Bar",
+  "brand": "Uncle Toby’s",
+  "barcode": "9300605116481",
+  "category": "Snacks & Namkeen",
+  "subcategory": "Sweet Snacks",
+  "weight": "469 g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/9300605116481",
+  "image_count": 0,
+  "folder_name": "Uncle_Toby_s_Choc_Chip_Bar_469_g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.356415Z"
+}

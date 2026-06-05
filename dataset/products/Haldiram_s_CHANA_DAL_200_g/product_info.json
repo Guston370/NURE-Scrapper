@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "Chickpeas pulse",
+    "vegetable oil",
+    "salt",
+    "red chilli powder",
+    "mango powder",
+    "onion powder",
+    "malto dextrin powder",
+    "mint leaves powder",
+    "black pepper powder and citric acid"
+  ],
+  "nutrition": {
+    "energy_kcal": 241.5,
+    "protein_g": 20,
+    "carbohydrates_g": 55,
+    "of_which_sugars_g": 2,
+    "fat_g": 19,
+    "of_which_saturated_fat_g": 4,
+    "dietary_fiber_g": 15,
+    "sodium_mg": 0.8
+  },
+  "allergens": [
+    "Peanuts"
+  ],
+  "description": "",
+  "country_of_origin": "France, United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

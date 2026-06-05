@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    "Iodised Salt",
+    "Mixed Spices  [Chilli",
+    "Cumin",
+    "Coriander] Powder",
+    "Anticaking Agent",
+    "Acidity Regulators Sugar",
+    "Garlic Powder",
+    "Onion Powder",
+    "Flavour Enhancer",
+    "Soy Sauce",
+    "Sunflower Oil",
+    "Natural Flavouring Substances."
+  ],
+  "nutrition": {
+    "energy_kcal": 191,
+    "protein_g": 7.7,
+    "carbohydrates_g": 31.8,
+    "of_which_sugars_g": 12.6,
+    "fat_g": 3.6,
+    "of_which_saturated_fat_g": 0.6,
+    "dietary_fiber_g": 6.2,
+    "sodium_mg": 1.1
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "d",
+  "nova_group": 4
+}

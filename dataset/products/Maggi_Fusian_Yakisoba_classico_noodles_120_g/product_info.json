@@ -1,0 +1,43 @@
+{
+  "ingredients": [
+    "Fideos fritos 76",
+    "7%",
+    "estabilizante )",
+    "salsa 12",
+    "5%",
+    "corrector de acidez",
+    "aceite de _sésamo_",
+    "almidón de maíz)",
+    "hortalizas deshidratadas 6",
+    "6%",
+    "condimento 4",
+    "2%",
+    "aroma natural",
+    "extracto de levadura",
+    "azúcar caramelizado",
+    "especias",
+    "hortalizas deshidratadas",
+    "aceite de girasol)."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Gluten",
+    "Sesame Seeds",
+    "Soybeans"
+  ],
+  "description": "Noodles de trigo con salsa, hortalizas deshidratadas y condimento",
+  "country_of_origin": "España",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

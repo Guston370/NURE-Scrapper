@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    "wheat flour 56.1%",
+    "vegetable oils",
+    "dried grated emmental 17%",
+    "sugar",
+    "salt",
+    "glucose-fructose syrup",
+    "lifting powder",
+    "malted barley flour",
+    "whey powder",
+    "dry yeast",
+    "emulsifier"
+  ],
+  "nutrition": {
+    "energy_kcal": 553,
+    "protein_g": 12,
+    "carbohydrates_g": 45,
+    "of_which_sugars_g": 5.6,
+    "fat_g": 36,
+    "of_which_saturated_fat_g": 18,
+    "dietary_fiber_g": 2.4,
+    "sodium_mg": 0.84
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Biscuits crackers à l'emmental",
+  "country_of_origin": "Farine de blé origine France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

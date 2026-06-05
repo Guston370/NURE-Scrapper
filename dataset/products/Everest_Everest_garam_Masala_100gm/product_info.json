@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    "chilli powder"
+  ],
+  "nutrition": {
+    "energy_kcal": 20,
+    "protein_g": 1,
+    "carbohydrates_g": 2,
+    "of_which_sugars_g": null,
+    "fat_g": 1,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "not-applicable",
+  "nova_group": ""
+}

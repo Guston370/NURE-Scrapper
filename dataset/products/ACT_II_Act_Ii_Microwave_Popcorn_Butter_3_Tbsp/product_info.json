@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Popping Corn",
+    "Palm Oil",
+    "Less Than 2% Of: Salt",
+    "Potassium Chloride",
+    "Natural And Artificial Flavor",
+    "Butter",
+    "Color Added",
+    "Tbhq And Citric Acid ."
+  ],
+  "nutrition": {
+    "energy_kcal": 130,
+    "protein_g": 4.02,
+    "carbohydrates_g": 27,
+    "of_which_sugars_g": null,
+    "fat_g": 2,
+    "of_which_saturated_fat_g": 0.499,
+    "dietary_fiber_g": 4.02,
+    "sodium_mg": 0.19
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "world",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "wheat flour enriched 39 %",
+    "milk chocolate 30 %",
+    "emulsifiers",
+    "natural flavouring)",
+    "palm oil",
+    "wholemeal wheat flour",
+    "sugar",
+    "glucose-fructose syrup",
+    "powders to raising",
+    "salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 496,
+    "protein_g": 6.7,
+    "carbohydrates_g": 62.5,
+    "of_which_sugars_g": 28.5,
+    "fat_g": 23.6,
+    "of_which_saturated_fat_g": 12.4,
+    "dietary_fiber_g": 3,
+    "sodium_mg": 0.376
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "Biscuits nappés de chocolat au lait - Sablés Anglais Chocolat au Lait",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

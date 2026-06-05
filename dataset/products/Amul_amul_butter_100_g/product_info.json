@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 714.285714285714,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": null,
+    "fat_g": 78.5714285714286,
+    "of_which_saturated_fat_g": 50,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Saudi Arabia",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

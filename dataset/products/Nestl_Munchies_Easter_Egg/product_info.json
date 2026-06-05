@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 530,
+    "protein_g": 5.2,
+    "carbohydrates_g": 60.8,
+    "of_which_sugars_g": 60.4,
+    "fat_g": 29.1,
+    "of_which_saturated_fat_g": 17.4,
+    "dietary_fiber_g": 1.5,
+    "sodium_mg": 0.079
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Ireland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": ""
+}

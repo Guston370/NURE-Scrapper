@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "Sugar",
+    "Glucose syrup",
+    "_Milk_ powders",
+    "Cocoa butter",
+    "Invert sugar syrup",
+    "Vegetable fats",
+    "Sweetened condensed skimmed _milk_",
+    "Cocoa mass",
+    "Lactose and proteins from whey",
+    "Whey powder",
+    "_Wheat_ flour",
+    "Emulsifier",
+    "_Barley_ malt extract",
+    "Raising agents",
+    "Salt."
+  ],
+  "nutrition": {
+    "energy_kcal": 488,
+    "protein_g": 4,
+    "carbohydrates_g": 65.2,
+    "of_which_sugars_g": 57.6,
+    "fat_g": 23.1,
+    "of_which_saturated_fat_g": 13,
+    "dietary_fiber_g": 1.1,
+    "sodium_mg": 0.118
+  },
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "description": "Milk chocolates with soft caramel and crisp biscuit centre",
+  "country_of_origin": "Ireland, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

@@ -1,0 +1,16 @@
+{
+  "product_id": "b16632c35b72",
+  "product_name": "Hobnobs",
+  "brand": "McVitie's",
+  "barcode": "5000168034928",
+  "category": "Snacks & Namkeen",
+  "subcategory": "Sweet Snacks",
+  "weight": "255g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/5000168034928",
+  "image_count": 0,
+  "folder_name": "McVitie_s_Hobnobs_255g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.464336Z"
+}

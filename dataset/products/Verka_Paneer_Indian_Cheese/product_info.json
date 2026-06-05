@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    "Pasteurized milk",
+    "acetic acid",
+    "lactic acid"
+  ],
+  "nutrition": {
+    "energy_kcal": 321.428571428572,
+    "protein_g": 21.428571428571,
+    "carbohydrates_g": 3.5714285714286,
+    "of_which_sugars_g": 0,
+    "fat_g": 28.571428571429,
+    "of_which_saturated_fat_g": 17.857142857143,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.10714285714286
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 3
+}

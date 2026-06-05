@@ -1,0 +1,16 @@
+{
+  "product_id": "1bb4c08c63c8",
+  "product_name": "Yippee Noodles",
+  "brand": "Sunfeast",
+  "barcode": "8909081005251",
+  "category": "Biscuits & Bakery",
+  "subcategory": "Plant Based Foods",
+  "weight": "72.6 g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8909081005251",
+  "image_count": 0,
+  "folder_name": "Sunfeast_Yippee_Noodles_72_6_g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.637053Z"
+}

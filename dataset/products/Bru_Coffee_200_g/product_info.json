@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    "Coffee 53%",
+    "Chicory 47% milk",
+    "eggs"
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": 0,
+    "carbohydrates_g": 0,
+    "of_which_sugars_g": 0,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Eggs"
+  ],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

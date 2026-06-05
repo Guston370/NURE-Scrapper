@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Water",
+    "Sugar",
+    "Acids",
+    "Malic acid",
+    "Black tea extract",
+    "Peach juice from concentrate",
+    "Flavourings",
+    "Antioxidant",
+    "Acidity regulator",
+    "SW"
+  ],
+  "nutrition": {
+    "energy_kcal": 13,
+    "protein_g": 0,
+    "carbohydrates_g": 3.1,
+    "of_which_sugars_g": 3,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.012
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "c",
+  "nova_group": 4
+}

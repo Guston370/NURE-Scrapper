@@ -1,0 +1,38 @@
+{
+  "ingredients": [
+    "glucose syrup",
+    "sugar",
+    "dried whole milk",
+    "palm oil",
+    "cocoa butter",
+    "cocoa mass",
+    "dried skimmed milk",
+    "dried whey",
+    "milk fat",
+    "emulsifiers",
+    "salt",
+    "acidity regulator",
+    "flavourings",
+    "may contain nuts"
+  ],
+  "nutrition": {
+    "energy_kcal": 450,
+    "protein_g": 4,
+    "carbohydrates_g": 71,
+    "of_which_sugars_g": 48,
+    "fat_g": 16,
+    "of_which_saturated_fat_g": 8.5,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.2
+  },
+  "allergens": [
+    "Milk",
+    "Nuts"
+  ],
+  "description": "",
+  "country_of_origin": "France, United Kingdom, United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

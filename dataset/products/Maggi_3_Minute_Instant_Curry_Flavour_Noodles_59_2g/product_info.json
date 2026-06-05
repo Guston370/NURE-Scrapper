@@ -1,0 +1,48 @@
+{
+  "ingredients": [
+    "noodles: wheat flour",
+    "palm oil",
+    "salt",
+    "flavour enhancer",
+    "garlic",
+    "acidity regulator",
+    "stabiliser",
+    "turmeric",
+    "flavour sachet: maltodextrin",
+    "curry powder 17%",
+    "hydrolysed soya protein flavour enhancer monosodium glutamate",
+    "disodium guanylate",
+    "disodium inosinate)",
+    "sugar",
+    "spices",
+    "vegetables",
+    "flavouring",
+    "garlic",
+    "acidity regulator",
+    "colour (ammonium caramel",
+    "sunflower oil",
+    "may contain traces of milk",
+    "egg",
+    "celery",
+    "mustard and sesame"
+  ],
+  "nutrition": {
+    "energy_kcal": 88,
+    "protein_g": 1.9,
+    "carbohydrates_g": 12.2,
+    "of_which_sugars_g": 0.4,
+    "fat_g": 3.4,
+    "of_which_saturated_fat_g": 0.2,
+    "dietary_fiber_g": 0.5,
+    "sodium_mg": 0.16
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "France, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

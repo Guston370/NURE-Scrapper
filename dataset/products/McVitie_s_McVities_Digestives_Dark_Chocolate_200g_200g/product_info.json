@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "Flour",
+    "chocolate  [Sugar",
+    "Cocoa Mass",
+    "Vegetable Fats",
+    "butter oil",
+    "cocoa butter",
+    "emulsifiers",
+    "natural flavouring]",
+    "palm oil",
+    "wholemeal wheat flour",
+    "sugar",
+    "glucose-fructose syrup",
+    "raising agents",
+    "salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 496,
+    "protein_g": 6,
+    "carbohydrates_g": 61.1,
+    "of_which_sugars_g": 26.6,
+    "fat_g": 24.3,
+    "of_which_saturated_fat_g": 12.9,
+    "dietary_fiber_g": 4.3,
+    "sodium_mg": 0.332
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soybeans"
+  ],
+  "description": "",
+  "country_of_origin": "Belgique, Chypre, Italie, Portugal, Roumanie, Suisse",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

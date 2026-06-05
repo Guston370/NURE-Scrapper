@@ -1,0 +1,41 @@
+{
+  "ingredients": [
+    "MILK",
+    "sugar",
+    "cocoa butter",
+    "cocoa mass",
+    "vegetable fats",
+    "glucose syrup",
+    "modified starch",
+    "whole MILK powder",
+    "emulsifiers",
+    "carbon dioxide",
+    "factose",
+    "rice starch",
+    "glazing agents",
+    "flavourings",
+    "colours",
+    "acidity regulator",
+    "maize protein. MAY CONTAIN NUTS",
+    "WHEAT."
+  ],
+  "nutrition": {
+    "energy_kcal": 520.59925093633,
+    "protein_g": 6.3,
+    "carbohydrates_g": 60,
+    "of_which_sugars_g": 57,
+    "fat_g": 28,
+    "of_which_saturated_fat_g": 16,
+    "dietary_fiber_g": 2,
+    "sodium_mg": 0.088
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

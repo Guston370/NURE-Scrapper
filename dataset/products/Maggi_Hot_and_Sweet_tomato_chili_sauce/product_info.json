@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    "WATER",
+    "SUGAR TOMATO PASTE",
+    "CHILLI PUREE SALT",
+    "AND LESS THAN 2% OF TAPIOCA STARCH",
+    "CHILI POWDER",
+    "GARLIC POWDER",
+    "GINGER POWDER",
+    "RED ONION POWDER",
+    "NATURAL FLAVORS",
+    "POTASSIUM IODATE",
+    "ACETIC ACID",
+    "SODIUM BENZOATE",
+    "XANTHAN GUM."
+  ],
+  "nutrition": {
+    "energy_kcal": 50,
+    "protein_g": 0,
+    "carbohydrates_g": 13,
+    "of_which_sugars_g": 12,
+    "fat_g": 0,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.28
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "United States",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "Water",
+    "milk chocolate",
+    "emulsifier",
+    "flavourings)",
+    "concentrated skimmed milk",
+    "sugar",
+    "palm oil",
+    "cream",
+    "fat reduced cocoa powder",
+    "modified Maize Starch",
+    "Emulsifier",
+    "pork gelatine",
+    "dried whey",
+    "stabilisers",
+    "dried glucose Syrup",
+    "Acidity regulators"
+  ],
+  "nutrition": {
+    "energy_kcal": 278.666666666667,
+    "protein_g": 4.66666666666667,
+    "carbohydrates_g": 30.4,
+    "of_which_sugars_g": 27.4666666666667,
+    "fat_g": 14.1333333333333,
+    "of_which_saturated_fat_g": 7.86666666666667,
+    "dietary_fiber_g": 1.33333333333333,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "Germany, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

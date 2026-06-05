@@ -1,0 +1,58 @@
+# NURE Food Product Dataset Generator - Requirements
+# Core HTTP & Scraping
+requests==2.31.0
+httpx==0.27.0
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+lxml==5.2.2
+selenium==4.21.0
+playwright==1.44.0
+fake-useragent==1.5.1
+cloudscraper==1.2.71
+
+# HTML Parsing
+html5lib==1.1
+cssselect==1.2.0
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.4
+
+# Image Processing & Quality
+Pillow==10.3.0
+imagehash==4.3.1
+opencv-python-headless==4.9.0.80
+scikit-image==0.23.2
+
+# Database & Storage
+firebase-admin==6.5.0
+
+# Async & Concurrency
+asyncio-throttle==1.0.2
+aiofiles==23.2.1
+tenacity==8.3.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.7.1
+rich==13.7.1
+tqdm==4.66.4
+click==8.1.7
+loguru==0.7.2
+
+# Barcode
+python-barcode==0.15.1
+
+# Hashing & Deduplication
+xxhash==3.4.1
+
+# Testing
+pytest==8.2.1
+pytest-asyncio==0.23.7
+
+# Rate Limiting
+ratelimit==2.2.1
+
+# JSON Schema Validation
+jsonschema==4.22.0

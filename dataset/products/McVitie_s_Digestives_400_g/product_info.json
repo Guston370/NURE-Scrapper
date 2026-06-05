@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "Wheat Flour",
+    "Non-Hydrogenated Vegetable Oil",
+    "Wholemeal Wheat Flour",
+    "Sugar",
+    "Partially Inverted Sugar Syrup",
+    "Raising Agents",
+    "Salt. Contains: Gluten",
+    "May also contain Milk."
+  ],
+  "nutrition": {
+    "energy_kcal": 481,
+    "protein_g": 7.1,
+    "carbohydrates_g": 62.9,
+    "of_which_sugars_g": 16.5,
+    "fat_g": 21.3,
+    "of_which_saturated_fat_g": 10.1,
+    "dietary_fiber_g": 0.5,
+    "sodium_mg": 0.2136
+  },
+  "allergens": [
+    "Gluten"
+  ],
+  "description": "",
+  "country_of_origin": "France, Morocco, Saudi Arabia, United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

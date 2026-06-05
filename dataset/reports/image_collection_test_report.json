@@ -1,0 +1,17 @@
+{
+    "Products Processed": 50,
+    "Total Images Downloaded": 13,
+    "Average Images Per Product": 0.3,
+    "Average Valid Images Per Product": 0.3,
+    "Source Contribution Statistics": {
+        "Bing": 5,
+        "Playwright": 2
+    },
+    "Duplicate Removal Statistics": {
+        "Duplicates Removed": 15
+    },
+    "Storage Consumed": "2.14 MB",
+    "Success Rate": "85.0%",
+    "Failure Rate": "15.0%",
+    "Products Below Minimum Threshold": 49
+}

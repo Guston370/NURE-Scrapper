@@ -1,0 +1,16 @@
+{
+  "product_id": "ad6109a03c05",
+  "product_name": "Cheese block",
+  "brand": "Amul",
+  "barcode": "8901262020084",
+  "category": "Dairy",
+  "subcategory": "",
+  "weight": "200g",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/8901262020084",
+  "image_count": 0,
+  "folder_name": "Amul_Cheese_block_200g",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.314583Z"
+}

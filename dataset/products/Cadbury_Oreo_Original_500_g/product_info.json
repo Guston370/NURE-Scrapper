@@ -1,0 +1,39 @@
+{
+  "ingredients": [
+    "REFINED WHEAT FLOUR",
+    "SUGAR",
+    "FRACTIONATED FAT",
+    "PALMOLEIN",
+    "INVERT SUGAR",
+    "COCOA SOLIDS",
+    "LEAVENING AGENTS",
+    "503)",
+    "STARCH",
+    "IODISED SALT",
+    "EMULSIFIER",
+    "NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS WHEAT",
+    "SULPHITES",
+    "SOY. MAY CONTAIN MILK AND BARLEY."
+  ],
+  "nutrition": {
+    "energy_kcal": 483,
+    "protein_g": 5.2,
+    "carbohydrates_g": 71.9,
+    "of_which_sugars_g": 38.8,
+    "fat_g": 19.6,
+    "of_which_saturated_fat_g": 9.7,
+    "dietary_fiber_g": null,
+    "sodium_mg": 0.43688
+  },
+  "allergens": [
+    "Gluten",
+    "Soybeans",
+    "Sulphur Dioxide And Sulphites"
+  ],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

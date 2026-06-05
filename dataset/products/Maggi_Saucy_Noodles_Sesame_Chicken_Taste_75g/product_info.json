@@ -1,0 +1,45 @@
+{
+  "ingredients": [
+    "73",
+    "3 %. fritterte Nudeln",
+    "_SOJASAUCENPULVER_",
+    "Gewürze (Knoblauch",
+    "Zwiebeln",
+    "Chili",
+    "Koriander",
+    "Ingwer",
+    "Kümmel",
+    "0",
+    "6% Karotten",
+    "0",
+    "6% Lauch",
+    "Sonnenblumenöl",
+    "Salz. Karamellzucker Schnittlauch",
+    "Hefeextrakt",
+    "Maltose",
+    "Maltodextrin."
+  ],
+  "nutrition": {
+    "energy_kcal": 463,
+    "protein_g": 9.07,
+    "carbohydrates_g": 62.3,
+    "of_which_sugars_g": 7.6,
+    "fat_g": 19.1,
+    "of_which_saturated_fat_g": 1.47,
+    "dietary_fiber_g": 2.4,
+    "sodium_mg": 0.004
+  },
+  "allergens": [
+    "Eggs",
+    "Gluten",
+    "Mustard",
+    "Soybeans",
+    "De:Sojasaucenpulver"
+  ],
+  "description": "",
+  "country_of_origin": "Deutschland",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

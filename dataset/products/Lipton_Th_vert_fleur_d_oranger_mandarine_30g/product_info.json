@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    "Thé vert¹ 86%",
+    "arôme naturel",
+    "fleur d'oranger 2%",
+    "écorce de mandarine 2%."
+  ],
+  "nutrition": {
+    "energy_kcal": 4,
+    "protein_g": 0.5,
+    "carbohydrates_g": 0.5,
+    "of_which_sugars_g": 0.5,
+    "fat_g": 0.5,
+    "of_which_saturated_fat_g": 0.1,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.004
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "France",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": 4
+}

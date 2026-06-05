@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "POTATO POWDER",
+    "EDIBLE VEGETABLE OIL",
+    "RICE FLOUR",
+    "POTATO STARCH",
+    "TAPIOCA STARCH",
+    "EDIBLE COMMON SALT",
+    "SUGAR",
+    "EMULSIFIER",
+    "MALTODEXTRIN",
+    "FLAVOUR ENHANCER",
+    "YEAST EXTRACT."
+  ],
+  "nutrition": {
+    "energy_kcal": 541,
+    "protein_g": 4.8,
+    "carbohydrates_g": 58.7,
+    "of_which_sugars_g": 0.5,
+    "fat_g": 31.1,
+    "of_which_saturated_fat_g": 15.4,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.85
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "India",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

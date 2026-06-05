@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    "Coriander",
+    "chili",
+    "cumin",
+    "dry mango",
+    "black pepper",
+    "salt white",
+    "fennel",
+    "cinnamon",
+    "dry ginger",
+    "bay leaf",
+    "cloves",
+    "star anise caraway",
+    "nutmeg",
+    "mace",
+    "black salt"
+  ],
+  "nutrition": {
+    "energy_kcal": 280,
+    "protein_g": 20,
+    "carbohydrates_g": 40,
+    "of_which_sugars_g": 0,
+    "fat_g": 20,
+    "of_which_saturated_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 2.8
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 3
+}

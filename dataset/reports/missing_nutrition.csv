@@ -1,0 +1,411 @@
+product_name,brand,category,source,enrichment_status
+Atta with Multigrains,Aashirvaad,Grains & Flour,openfoodfacts,enriched
+Atta with Millets,Aashirvaad,Grains & Flour,openfoodfacts,enriched
+Chakki atta,Pillsbury,Grains & Flour,openfoodfacts,enriched
+Multigrain Atta,Pillsbury,Grains & Flour,openfoodfacts,enriched
+Pillsbury gold atta 5kg,Pillsbury,Grains & Flour,openfoodfacts,enriched
+Basmati rice,India Gate,Grains & Flour,openfoodfacts,enriched
+Riz basmati - Rosana,India Gate,Grains & Flour,openfoodfacts,not_found
+Sprouted Brown Basmati Rice,India Gate,Grains & Flour,openfoodfacts,not_found
+Basmati Rice Classic,India Gate,Grains & Flour,openfoodfacts,enriched
+Parboiled Basmati Rice,India Gate,Grains & Flour,openfoodfacts,not_found
+Original Basmati Rice,Daawat,Grains & Flour,openfoodfacts,not_found
+daawat super basmati rice,Daawat,Grains & Flour,openfoodfacts,enriched
+Extra Long Basmati Rice,Daawat,Grains & Flour,openfoodfacts,not_found
+Super Basmati Rice,Daawat,Grains & Flour,openfoodfacts,not_found
+Brown Basmati Rice,Daawat,Grains & Flour,openfoodfacts,not_found
+Extra Long Basmati Reis,Daawat,Grains & Flour,openfoodfacts,not_found
+Rice raw,Daawat,Grains & Flour,openfoodfacts,not_found
+Daawat Basmati Blue 500g,Daawat,Grains & Flour,openfoodfacts,enriched
+EVERYDAY BASMATI RICE,Daawat,Grains & Flour,openfoodfacts,enriched
+Basmati,Kohinoor,Grains & Flour,openfoodfacts,not_found
+Basmati Gold,Kohinoor,Grains & Flour,openfoodfacts,enriched
+Extra Long Basmati Rice,Kohinoor,Grains & Flour,openfoodfacts,not_found
+Toor Dal,Kazan’s Organic,Other,openfoodfacts,not_found
+Toor Dal,Real,Other,openfoodfacts,not_found
+Toor Dal,Shani,Other,openfoodfacts,enriched
+Bikaji (moong Dal) 400GM,Bikaji,Snacks & Namkeen,openfoodfacts,not_found
+Moong Dal,Deep,Other,openfoodfacts,not_found
+"Moong dal, split moong beans (without skin)",Diya,Plant Based Foods And Beverages,openfoodfacts,not_found
+Parle Namkeen &quot;Moong Dal&quot; 400GM,Parle,Biscuits & Bakery,openfoodfacts,not_found
+Dal Moong,Rehmat-e-Sheren,Other,openfoodfacts,not_found
+Ashoka Moong Dal Kachori,Ashoka,Snacks & Namkeen,openfoodfacts,not_found
+Moong Dal,Laxmi,Other,openfoodfacts,not_found
+"Organic Moong Dal, Dry",Laxmi,Other,openfoodfacts,not_found
+Moong Dal,Noor Gazal,Other,openfoodfacts,enriched
+Moong Dal,Patidar,Other,openfoodfacts,enriched
+Moong Dal,Angur,Other,openfoodfacts,not_found
+Moong Dal,Ravi,Other,openfoodfacts,enriched
+Moong Dal (Petite Yellow Lentil),Mahraba,Other,openfoodfacts,not_found
+moong dal,Bikaji,Snacks & Namkeen,openfoodfacts,not_found
+Moong Dal,Real Bites,Other,openfoodfacts,enriched
+Chana Dal,Balaji,Snacks & Namkeen,openfoodfacts,not_found
+Salade de Chana Dal,Hero,Plant Based Foods And Beverages,openfoodfacts,not_found
+Roasted Chana Dal,Ammaas,Other,openfoodfacts,not_found
+Chana Dal,Noor Gazal,Other,openfoodfacts,enriched
+Split Chana dal,Saurbhi,Other,openfoodfacts,enriched
+CHANA DAL,Saral,Other,openfoodfacts,enriched
+"Fazlani foods, rajma masala",Fazlani Foods,Plant Based Foods And Beverages,openfoodfacts,not_found
+Red Bean Rajma Masala,Brooklyn Delhi LLC,Spices & Masala,openfoodfacts,not_found
+MTR Ready-To-Eat Rajma Masala,MTR,Ready-to-Eat,openfoodfacts,not_found
+Rajma White,Dmart Premia,Other,openfoodfacts,not_found
+Punjabi Rajma,Tirupati’s,Other,openfoodfacts,not_found
+Rajma,Five Minutes To Delhi,Other,openfoodfacts,not_found
+Chitra Rajma,Indian Delibites,Other,openfoodfacts,enriched
+Amritsari Rajma,Mother’s Recipe,Other,openfoodfacts,not_found
+KABULI CHANA CHICKPEA,24 Mantra Organic,Other,openfoodfacts,not_found
+Kabuli Chana,Laxmi,Other,openfoodfacts,not_found
+Kabuli Chana,Aara,Other,openfoodfacts,not_found
+Everest Sabji masala,Everest,Spices & Masala,openfoodfacts,not_found
+chiken biryani masala Everest,Everest,Spices & Masala,openfoodfacts,not_found
+Kesari Milk Masala,Everest,Spices & Masala,openfoodfacts,not_found
+Everest fish curry masala,Everest,Spices & Masala,openfoodfacts,enriched
+EVEREST Chhole Masala,Everest,Spices & Masala,openfoodfacts,not_found
+Tikka Masala Curry,Everest,Spices & Masala,openfoodfacts,enriched
+Sambar Masala,Everest,Spices & Masala,openfoodfacts,enriched
+Chat Masala,Everest,Spices & Masala,openfoodfacts,enriched
+Chunky Chat masala,MDH,Spices & Masala,openfoodfacts,not_found
+Dal Makhani masala,MDH,Spices & Masala,openfoodfacts,enriched
+pulao masala,MDH,Spices & Masala,openfoodfacts,not_found
+T Plus Masala,MDH,Spices & Masala,openfoodfacts,not_found
+Butter chicken masala,MDH,Spices & Masala,openfoodfacts,enriched
+MDH JAL JEERA MASALA,MDH,Spices & Masala,openfoodfacts,not_found
+Stuffed Parantha Masala Spice Blend,MDH,Spices & Masala,openfoodfacts,enriched
+Curry Masala for Karahi Gosht,MDH,Spices & Masala,openfoodfacts,enriched
+Sindhi Biryani masala,MDH,Spices & Masala,openfoodfacts,not_found
+Chhole Masala,Catch,Spices & Masala,openfoodfacts,not_found
+Sprinkler Black Pepper,Catch,Spices & Masala,openfoodfacts,not_found
+CHICKEN MASALA,Catch,Spices & Masala,openfoodfacts,not_found
+SAMBHAR MASALA,Catch,Spices & Masala,openfoodfacts,enriched
+Catch Chatpata Chat Masala,Catch,Spices & Masala,openfoodfacts,enriched
+KITCHEN KING,Catch,Sauces & Condiments,openfoodfacts,enriched
+Catch sabzi masala,Catch,Sauces & Condiments,openfoodfacts,enriched
+JALJEERA,Catch,Sauces & Condiments,openfoodfacts,enriched
+MEAT MASALA,Catch,Sauces & Condiments,openfoodfacts,not_found
+Garam masala,Catch,Spices & Masala,openfoodfacts,enriched
+catch Rajma masala,Catch,Sauces & Condiments,openfoodfacts,not_found
+Amchur power,Catch,Spices & Masala,openfoodfacts,enriched
+Kashmiri mirch power,Catch,Spices & Masala,openfoodfacts,enriched
+catch chana masala,Catch,Spices & Masala,openfoodfacts,enriched
+catch biryani masala,Catch,Spices & Masala,openfoodfacts,not_found
+pav bhaji masala,Catch,Spices & Masala,openfoodfacts,enriched
+Madras Sambar Masala,Badshah,Ready-to-Eat,openfoodfacts,not_found
+Chat Masala,Badshah,Spices & Masala,openfoodfacts,not_found
+Chilli Powder,Sakthi,Spices & Masala,openfoodfacts,not_found
+Biriyani Masala,Sakthi,Spices & Masala,openfoodfacts,enriched
+Super garam masala,Eastern,Spices & Masala,openfoodfacts,enriched
+Butter Masala Sauce,Eastern,Sauces & Condiments,openfoodfacts,not_found
+Garam Masala,Eastern,Spices & Masala,openfoodfacts,enriched
+Spicy Chicken Masala,Eastern,Spices & Masala,openfoodfacts,not_found
+Mutton Masala,Eastern,Sauces & Condiments,openfoodfacts,enriched
+Beef Ularthu Masala,Eastern,Spices & Masala,openfoodfacts,not_found
+Chicken 64 Masala,Eastern,Spices & Masala,openfoodfacts,enriched
+Chicken Fry Masala,Eastern,Spices & Masala,openfoodfacts,not_found
+fortune sun lite sunflower oil 15 litre,Fortune,Grains & Flour,openfoodfacts,enriched
+Fortune Refined Sunflower Oil,Fortune,Grains & Flour,openfoodfacts,enriched
+Pro Immunity Multi-source Edible Oil,Fortune,Grains & Flour,openfoodfacts,not_found
+100% Sanfflower Oil,Saffola,Cooking Oil,openfoodfacts,not_found
+SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL,Saffola,Cooking Oil,openfoodfacts,not_found
+Saffola Gold,Saffola,Cooking Oil,openfoodfacts,not_found
+Dhara groundnut oil,Dhara,Cooking Oil,openfoodfacts,enriched
+Dhara ground nut oil,Dhara,Cooking Oil,openfoodfacts,enriched
+mustard oil,Dhara,Cooking Oil,openfoodfacts,not_found
+Kachi Ghani Mustard Oil,Dhara,Cooking Oil,openfoodfacts,enriched
+Kachi Ghani Mustard Oil,Dhãra,Plant Based Foods And Beverages,openfoodfacts,enriched
+Dhara Refined Sunflower oil 5l,Dhara,Cooking Oil,openfoodfacts,enriched
+Blended Edible Vegetable multi source oil,Sundrop,Cooking Oil,openfoodfacts,enriched
+Sundrop Heart blnd edbl oil 1ltr,Sundrop,Cooking Oil,openfoodfacts,enriched
+sundrop oil,Sundrop,Cooking Oil,openfoodfacts,enriched
+Water Buffalo And Cow Milk Butter,Amul,Dairy,openfoodfacts,not_found
+Amul masti spiced butter milk,Amul,Dairy,openfoodfacts,enriched
+Pure ghee clarified butter,Amul,Dairy,openfoodfacts,not_found
+Cheese block,Amul,Dairy,openfoodfacts,enriched
+Badam Flavoured Milk,Nandini,Beverages,openfoodfacts,not_found
+Nandini Good Life,Nandini,Dairy,openfoodfacts,enriched
+Nandini Curd,Nandini,Dairy,openfoodfacts,enriched
+goodlife slim,Nandini,Dairy,openfoodfacts,not_found
+Nandini Healthy Life Lite Double Toned Milk,Nandini,Dairy,openfoodfacts,enriched
+Nandini badam milk,Nandini,Dairy,openfoodfacts,enriched
+Slim UHT Sterilised Skimmed Milk,Nandini,Dairy,openfoodfacts,not_found
+Desi Cow Milk,Nandini,Dairy,openfoodfacts,enriched
+Santhrupthi Milk,Nandini,Dairy,openfoodfacts,not_found
+Fresh Paneer,Verka,Dairy,openfoodfacts,not_found
+Haldiram Chips Panchrattan,Haldiram's,Snacks & Namkeen,openfoodfacts,enriched
+Cornflakes Mixture,Haldiram's,Snacks & Namkeen,openfoodfacts,not_found
+taka-tak,Haldiram's,Snacks & Namkeen,openfoodfacts,not_found
+Uncle Saba’s Lentil and chickpea chips,Uncle Saba’s lentil and chickpea chips,Snacks & Namkeen,openfoodfacts,not_found
+Xtreme Butter,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+palomitas ACT II natural 3 pack,ACT II,Snacks & Namkeen,openfoodfacts,enriched
+ACT II popcorn butter delight,ACT II,Snacks & Namkeen,openfoodfacts,enriched
+Popcorn butter,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+Butter Lovers Flavour Microwave Popcorn,ACT II,Snacks & Namkeen,openfoodfacts,enriched
+Act II sabor Mantequilla,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+Butter Microwave Popcorn,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+Xtreme Butter Microwave Popcorn,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+ACT II Butter Lovers Flavour,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+Popcorn,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+Act II Kettle Corn,ACT II,Snacks & Namkeen,openfoodfacts,enriched
+Light Butter Flavour Microwave Popcorn,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+ACT II Simply Salted popcorn,ACT II,Snacks & Namkeen,openfoodfacts,not_found
+Munchies Orange,Nestlé,Snacks & Namkeen,openfoodfacts,not_found
+Flamin' Hot Snack Mix,Munchies,Snacks & Namkeen,openfoodfacts,not_found
+Munchies Cookie Dough,Nestlé,Other,openfoodfacts,not_found
+Bikaneri bhujia,Bikaji,Snacks & Namkeen,openfoodfacts,not_found
+Aloo Bhujia Tana-Tan,Bikaji,Snacks & Namkeen,openfoodfacts,not_found
+bikaji bikaneri bhujia 400g,Bikaji,Snacks & Namkeen,openfoodfacts,enriched
+Potato Chips Mint Pudina,Balaji,Snacks & Namkeen,openfoodfacts,not_found
+Crunchm,Balaji,Snacks & Namkeen,openfoodfacts,enriched
+Potato chips,Balaji,Snacks & Namkeen,openfoodfacts,enriched
+Balaji Wafers Rumbles Potato Chips Pudina Twist flavour,Balaji,Snacks & Namkeen,openfoodfacts,not_found
+Crunchem Pizzy Masala,Balaji,Snacks & Namkeen,openfoodfacts,not_found
+Crunchem,Balaji,Snacks & Namkeen,openfoodfacts,not_found
+Good day,Britannia,Snacks & Namkeen,openfoodfacts,not_found
+GOOD DAY CHOCO COOKIES,Britannia,Biscuits & Bakery,openfoodfacts,enriched
+"Britannia, Good Day, Butter Cookies",Britannia,Snacks & Namkeen,openfoodfacts,not_found
+Good Day butter cookies,Britannia,Snacks & Namkeen,openfoodfacts,enriched
+Good day - Cashew Cookies,Britannia,Snacks & Namkeen,openfoodfacts,not_found
+Oreo Cream Biscuit,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+Cricket Edition Oreo Original,Cadbury,Chocolates & Confectionery,openfoodfacts,not_found
+Bolachas crocantes-maçã,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Ginger Nuts Biscuits,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Digestive Delicious Wheat Biscuits,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Penguin,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+sables anglais,McVitie's,Snacks & Namkeen,openfoodfacts,enriched
+Digestives the light one cookies,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Hobnobs Oats Biscuit,McVitie's,Biscuits & Bakery,openfoodfacts,not_found
+Sable anglais,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Toasting Waffles,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Digestive light,McVitie's,Snacks & Namkeen,openfoodfacts,not_found
+Soft Bakes Strawberry Filled,belVita,Snacks & Namkeen,openfoodfacts,not_found
+Tiger glucose biscuits,Britannia,Biscuits & Bakery,openfoodfacts,enriched
+GLUCOSE HIGH ENERGY BISCUITS,Britannia,Biscuits & Bakery,openfoodfacts,not_found
+Monaco - Biscuits crackers à l'emmental,Belin,Snacks & Namkeen,openfoodfacts,not_found
+Glace Vanille Bourbon,Nestlé,Desserts & Ice Cream,openfoodfacts,not_found
+Yaourt à la grecque au lait de brebis sucré à la vanille bourbon,La bergerie,Dairy,openfoodfacts,not_found
+Iles flottantes 4x100g,Pâturages,Dairy,openfoodfacts,not_found
+Marie gold,Britannia,Biscuits & Bakery,openfoodfacts,not_found
+Vita marie gold,Britannia,Biscuits & Bakery,openfoodfacts,enriched
+Maliban,Gold marie,Other,openfoodfacts,enriched
+Vita Marie Gold Tea time biscuit,Britannia,Biscuits & Bakery,openfoodfacts,not_found
+Ida Marie Brut,Weingut Gold,Beverages,openfoodfacts,enriched
+Vitamin Marie Gold,Britannia,Biscuits & Bakery,openfoodfacts,not_found
+gold marie 165g,maliban,Other,openfoodfacts,not_found
+Saucy Noodles Teriyaki,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Saucy Noodles,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Fusian oriental noodles teriyaki,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Pasta oriental sabor pollo,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+CHICKEN NOODLES,Maggi,Instant Foods & Noodles,openfoodfacts,enriched
+Saucy Noodles Teriyaki Style,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Fusian Yakisoba classico noodles,Maggi,Instant Foods & Noodles,openfoodfacts,enriched
+Magic Asia Instant Noodle Cup Chili 63 gr,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Spaghetti Bolognese,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Beef noodles,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Noodles,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Noodle Cup Duck Taste with Black Pepper & Paprika,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Vegetable Noodles,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Chicken flavoured noodle soup,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Maggi Saucy Noodles Teriyaki,Nestlé,Plant Based Foods And Beverages,openfoodfacts,enriched
+Stir Fried Noodles Teriyaki,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Maggi,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Durban Curry Flavoured 2 Minute Noodles,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Hochzeitssuppe,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Magic Asia Nudel Snack Ente,Maggi,Instant Foods & Noodles,openfoodfacts,not_found
+Saucy Noodles Red Curry,Maggi,Instant Foods & Noodles,openfoodfacts,enriched
+Top Ramen Chicken Flavor,Nissin,Instant Foods & Noodles,openfoodfacts,not_found
+Top Ramen Masala Noodles,Nissin,Instant Foods & Noodles,openfoodfacts,not_found
+Top Ramen - Soy Sauce Flavor,Nissin,Instant Foods & Noodles,openfoodfacts,not_found
+Top ramen hot and spicy beef flavor same picante,Nissin,Instant Foods & Noodles,openfoodfacts,not_found
+Top ramen the original soy sauce ramen noodle soup,Nissin,Instant Foods & Noodles,openfoodfacts,not_found
+Shrimp Ramen Noodle Soup,Top Ramen,Instant Foods & Noodles,openfoodfacts,not_found
+"Top Ramen 48 pack, chicken flavor ramen noodle soup",Nissin,Instant Foods & Noodles,openfoodfacts,enriched
+Beef Flavor Ramen Noodle Soup With Japanese Sauce,Top Ramen,Instant Foods & Noodles,openfoodfacts,not_found
+Magic Masala Noodles,Yippee,Instant Foods & Noodles,openfoodfacts,not_found
+Yippee noodles (snack pack),Sunfeast,Biscuits & Bakery,openfoodfacts,not_found
+Sunfeast Yippee! masala magic,Sunfeast,Biscuits & Bakery,openfoodfacts,not_found
+sunfeast yippee,Sunfeast,Biscuits & Bakery,openfoodfacts,enriched
+Noodles,Yippee,Instant Foods & Noodles,openfoodfacts,not_found
+Atta Noodles,Yippee,Instant Foods & Noodles,openfoodfacts,not_found
+Sunfeast Yippee Noodles,ITC,Snacks & Namkeen,openfoodfacts,enriched
+Yippee! noodles mood masala,ITC,Snacks & Namkeen,openfoodfacts,enriched
+Yippee Noodles Magic Masala,Sunfeast,Biscuits & Bakery,openfoodfacts,not_found
+Yippee noodles magic masala goat,Sunfeast,Biscuits & Bakery,openfoodfacts,enriched
+Les classiques - Velouté de 9 légumes,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Knorr Soupe Liquide Douceur à l'Italienne Tomates Mozzarella 1L,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Knorr Soupe Liquide Douceur de 8 Légumes à la Crème Fraîche 30cl,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Velours de tomate à la mozzarella,Knorr,Instant Foods & Noodles,openfoodfacts,enriched
+Soupe Douceur 8 Légumes à la Crème Fraîche,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+"Knorr Soupe Liquide Patate Douce, Carottes et Fromage 45cl",Knorr,Instant Foods & Noodles,openfoodfacts,enriched
+Velouté Patate Douce & Chèvre et Miel,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Knorr Soupe Déshydratée Paysanne Légumes & Lard 4 Portions,Knorr,Ready-to-Eat,openfoodfacts,not_found
+intense rich beef,Knorr,Ready-to-Eat,openfoodfacts,not_found
+Knorr Soupe Liquide Légumes du Pot-au-Feu 1L,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Knorr Soupe Liquide Carottes Jaunes et Lait de Coco 450ml,Knorr,Instant Foods & Noodles,openfoodfacts,enriched
+Beef stock pot,Knorr,Ready-to-Eat,openfoodfacts,not_found
+Knorr Soupe Déshydratée Tomates aux Vermicelles 4 Portions,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Nudle ser w ziołach,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Velouté Potiron & Fourme d'Ambert AOP,Knorr,Ready-to-Eat,openfoodfacts,enriched
+Slow cooked Beef,Knorr,Ready-to-Eat,openfoodfacts,enriched
+Knorr Comme à La Maison Soupe Liquide Courgette Ricotta Parmesan 45cl,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Knorr Soupe Liquide Douceur de Légumes du Soleil 1L,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Suppenliebe Frühlingssuppe mit Gemüse,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Douceur italienne,Knorr,Sauces & Condiments,openfoodfacts,not_found
+Velouté potiron & fourme d'Ambert,Knorr,Ready-to-Eat,openfoodfacts,enriched
+Knorr Quick Soup Golden Vegetable,Knorr,Instant Foods & Noodles,openfoodfacts,enriched
+Rosół z kury z makaronem,Knorr,Ready-to-Eat,openfoodfacts,enriched
+Oinion soup,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Soldatens Ärtsoppa,Knorr,Instant Foods & Noodles,openfoodfacts,not_found
+Zupa Borowikowa z grzankami,Knorr,Ready-to-Eat,openfoodfacts,not_found
+Chilli Chicken Masala Mix,Ching's Secret,Sauces & Condiments,openfoodfacts,not_found
+Yippee,Sunfeast,Biscuits & Bakery,openfoodfacts,not_found
+Sunfeast yippee 70g,Sunfeast,Biscuits & Bakery,openfoodfacts,enriched
+Sunfeast yippee 280g,Sunfeast,Biscuits & Bakery,openfoodfacts,not_found
+Yippee tricolour pasta,Sunfeast,Biscuits & Bakery,openfoodfacts,not_found
+Tata tea premium,Tata,Beverages,openfoodfacts,enriched
+Tata Tea Premium,Tata Tea,Beverages,openfoodfacts,enriched
+Red Label Tea Bags,Knightsbridge,Beverages,openfoodfacts,not_found
+Red label,Brooke Bond,Beverages,openfoodfacts,enriched
+Loose Leaf Black Tea,Red Label,Tea & Coffee,openfoodfacts,enriched
+Red label tea,Brooke Bond,Beverages,openfoodfacts,enriched
+tea red label,nhte,Beverages,openfoodfacts,not_found
+Loose black tea,Red Label,Beverages,openfoodfacts,enriched
+Red Label Loose Leaf Black Tea,Brooke Bond,Beverages,openfoodfacts,not_found
+Brooke Blond réd label tea powder,Brooke Bond,Other,openfoodfacts,enriched
+"Brooke Bond, Red Label Tea",Unilever India Exports Limited,Other,openfoodfacts,not_found
+Red Label LOOSE BLACK TEA,Brooke Bond,Other,openfoodfacts,not_found
+Instant Masala Tea (Unsweetened),Wagh Bakri,Beverages,openfoodfacts,not_found
+Black Tea,Wagh Bakri,Tea & Coffee,openfoodfacts,enriched
+Masala Chai Tea Bags,Wagh Bakri,Beverages,openfoodfacts,not_found
+Green Tea,Wagh Bakri,Beverages,openfoodfacts,enriched
+Instant Cardamom Tea,Wagh Bakri,Tea & Coffee,openfoodfacts,not_found
+Instant Ginger Tea,Wagh Bakri,Beverages,openfoodfacts,enriched
+Instant tea combo pack,Wagh Bakri,Tea & Coffee,openfoodfacts,not_found
+Instant Saffron Tea,Wagh Bakri,Tea & Coffee,openfoodfacts,not_found
+Lipton Peche ice tea,Lipton,Beverages,openfoodfacts,not_found
+lipton yellow label tea x25,Lipton,Beverages,openfoodfacts,not_found
+Yellow Label,Lipton,Beverages,openfoodfacts,enriched
+Thé vert myrtille et mûre x 20 sachets,Lipton,Beverages,openfoodfacts,not_found
+lipton-ice-tea,Lipton,Beverages,openfoodfacts,not_found
+Lipton Ice Tea saveur framboise,Lipton,Beverages,openfoodfacts,not_found
+Green tea,Lipton,Beverages,openfoodfacts,not_found
+Thé vert Menthe,Lipton,Beverages,openfoodfacts,not_found
+Thé glacé pêche pétillant,Lipton,Beverages,openfoodfacts,not_found
+Lipton Ice Tea saveur pêche 25 cl,Lipton,Beverages,openfoodfacts,not_found
+Duo saveur pêche abricot,Lipton,Beverages,openfoodfacts,not_found
+Hibiscus saveur framboise facon infusion glacee,Lipton,Beverages,openfoodfacts,not_found
+LIPTON TEA YELLOW,Lipton,Beverages,openfoodfacts,enriched
+Lipton Forest fruits,Lipton,Beverages,openfoodfacts,not_found
+Peach Iced Tea,Lipton,Beverages,openfoodfacts,enriched
+Thé  noir earl grey bergamote,Lipton,Beverages,openfoodfacts,not_found
+Green iced tea,Lipton,Beverages,openfoodfacts,not_found
+Ice Tea Pêssego,Lipton,Beverages,openfoodfacts,enriched
+Nescafe classic,Nescafe,Beverages,openfoodfacts,not_found
+Nescafé classic descafeinado,Nestlé,Beverages,openfoodfacts,enriched
+Frappe,Nescafe,Beverages,openfoodfacts,enriched
+NESCAFE 3 in 1 Classic,Nescafe,Beverages,openfoodfacts,not_found
+Nescafe classic,Nestlé,Beverages,openfoodfacts,not_found
+Nescafe classic natural,Nestlé,Beverages,openfoodfacts,enriched
+Classic crema,Nestlé,Beverages,openfoodfacts,not_found
+Nescafé classic 30g,Nescafe,Beverages,openfoodfacts,enriched
+Натуральный растворимый порошкообразный кофе NESCAFÉ® CLASSIC CREMA,Nescafe,Beverages,openfoodfacts,not_found
+Nescafé Classic,Nestlé,Beverages,openfoodfacts,enriched
+Classic descafeinado,Nestlé,Beverages,openfoodfacts,enriched
+Nescafé classic- café instantáneo,Nescafe,Beverages,openfoodfacts,enriched
+Nescafe Classic Crema,Nestlé,Beverages,openfoodfacts,enriched
+NESCAFE CLASSIC 100G TIN EXP 10 / 18 (GR),Nescafe,Beverages,openfoodfacts,enriched
+Nescafé Classic Classic Mild Instantkaffee,Nescafe,Beverages,openfoodfacts,not_found
+Classic café soluble natural,Nescafe,Beverages,openfoodfacts,not_found
+Nescafé classic decaf,Nescafe,Beverages,openfoodfacts,enriched
+Nescafe Classic coffee,Nestlé,Plant Based Foods And Beverages,openfoodfacts,not_found
+Nescafe Classic Instant Coffee 100g Glass,Nescafe,Tea & Coffee,openfoodfacts,not_found
+Coffee Classic,Nescafe,Beverages,openfoodfacts,enriched
+Nescafé Clásico,Nescafe,Tea & Coffee,openfoodfacts,enriched
+Kaffee - Classic Kräftig - löslicher Kaffee,Nescafe,Beverages,openfoodfacts,not_found
+Кофе Crema,Nescafe,Beverages,openfoodfacts,enriched
+Nescafe classic 200g,Nescafe,Beverages,openfoodfacts,enriched
+Coffee,Bru,Tea & Coffee,openfoodfacts,enriched
+Coffee Powder,Bru,Tea & Coffee,openfoodfacts,enriched
+Bru Coffee 3rs Sachet,Bru,Beverages,openfoodfacts,enriched
+BRU GOLD Edition,Fssai,Plant Based Foods And Beverages,openfoodfacts,enriched
+Super Strong Blend Coffee,Continental,Beverages,openfoodfacts,enriched
+Continental Xtra Coffee Powder,Continental,Beverages,openfoodfacts,not_found
+Xtra instant coffee,Continental,Beverages,openfoodfacts,enriched
+Continental Strong,Continental,Beverages,openfoodfacts,enriched
+Malgudi fresh filter coffee,Continental,Tea & Coffee,openfoodfacts,enriched
+Cappuccino,Continental,Beverages,openfoodfacts,not_found
+Super Strong Blend Instant Coffee Chicory Mixture,Continental,Beverages,openfoodfacts,enriched
+Continental Malgudi Coffee  53',Continental,Tea & Coffee,openfoodfacts,not_found
+Horlicks classic Malt 500g,Horlicks,Beverages,openfoodfacts,enriched
+Horlicks Classic Malt,Horlicks,Beverages,openfoodfacts,not_found
+Horlicks Classic Malt,Horlics,Beverages,openfoodfacts,enriched
+Horlicks Classic Malt 500g Cbd,Hindustan Unilever Ltd,Other,openfoodfacts,not_found
+Bournvita 1kg pet,Cadbury,Chocolates & Confectionery,openfoodfacts,not_found
+Bournvita 500G,Cadbury,Chocolates & Confectionery,openfoodfacts,not_found
+Complan,Complan,Breakfast Cereals,openfoodfacts,enriched
+Strawberry,Complan,Health & Nutrition,openfoodfacts,enriched
+PediaSure sabor vainilla,Abbott,Health & Nutrition,openfoodfacts,enriched
+PediaSure Grow & Gain,Abbott,Health & Nutrition,openfoodfacts,enriched
+Vanilla Shake,PediaSure,Health & Nutrition,openfoodfacts,not_found
+Pediasure,Abbott,Health & Nutrition,openfoodfacts,not_found
+PediaSure Complete,Abbott,Health & Nutrition,openfoodfacts,not_found
+Pediasure sabor vainilla,PediaSure,Health & Nutrition,openfoodfacts,not_found
+Pediasure drink,PediaSure,Health & Nutrition,openfoodfacts,not_found
+Pediasure Vainilla Polvo 850G,Abbott,Health & Nutrition,openfoodfacts,enriched
+Fibre Feed,PediaSure,Health & Nutrition,openfoodfacts,enriched
+pediasure,abott,Other,openfoodfacts,enriched
+Fórmula para alimentación Pediasure enteral especializada sabor chocolate,PediaSure,Health & Nutrition,openfoodfacts,not_found
+PediaSure Grow&Gain,Abbott,Health & Nutrition,openfoodfacts,enriched
+PediaSure vainilla,Abbott,Beverages,openfoodfacts,enriched
+Pediasure Harvest,Abbott,Health & Nutrition,openfoodfacts,not_found
+PediaSure Strawberry,Abbott,Health & Nutrition,openfoodfacts,enriched
+PediaSure plus fiber,Abbott,Health & Nutrition,openfoodfacts,enriched
+Pediasure Grow and Gain,Abbott,Health & Nutrition,openfoodfacts,enriched
+Protinex Vanilla flavor,Protinex,Health & Nutrition,openfoodfacts,enriched
+Protinex Chocolate Flavour,Nutrica,Health & Nutrition,openfoodfacts,not_found
+Milk Chocolate Biscuits,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+DAIRY MILK buttons,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+Cadbury dairy milk Freddo easter egg,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+Dairy Milk Chocolate Advent Calendar,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+Dairy Milk crunchie bits,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+Cadbury dairy milk chocolate bar wholenut,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+Dairy milk original,Cadbury,Dairy,openfoodfacts,enriched
+Cream egg Easter egg,Cadbury,Snacks & Namkeen,openfoodfacts,not_found
+dairy milk egg,Cadbury,Chocolates & Confectionery,openfoodfacts,enriched
+Mini Éclairs Dessert Pastry,Specially Selected,Other,openfoodfacts,not_found
+Delicatesse,Eclair,Snacks & Namkeen,openfoodfacts,not_found
+Maggi chilli sauce 500g,Maggi,Sauces & Condiments,openfoodfacts,not_found
+Chilli Tomato Sauce,Kissan,Sauces & Condiments,openfoodfacts,not_found
+kissan fresh tomato,Kissan,Sauces & Condiments,openfoodfacts,not_found
+Tomato Ketchup Kissan,Kissan,Sauces & Condiments,openfoodfacts,not_found
+Kissan Fresh Tomato Ketchup,Kissan,Sauces & Condiments,openfoodfacts,enriched
+Red Chilli Sauce,Weikfield,Sauces & Condiments,openfoodfacts,not_found
+mango jelly,Weikfield,Sauces & Condiments,openfoodfacts,enriched
+Cornflower,Weikfield,Sauces & Condiments,openfoodfacts,not_found
+Peri peri sauce,Weikfield,Sauces & Condiments,openfoodfacts,enriched
+Green Chilli Sauce,Weikfield,Sauces & Condiments,openfoodfacts,not_found
+omogenizzati manzo nipiol,Kraft Heinz,Baby Food,openfoodfacts,not_found
+Nipiol Vitello,Kraft Heinz,Baby Food,openfoodfacts,enriched
+Heinz cheesy tomato pasta baby food imp,Heinz,Baby Food,openfoodfacts,enriched
+Heinz bb food lamb pumpkin 170g,Heinz,Baby Food,openfoodfacts,not_found
+Plasmon - Biscottino Biberon (450 GR),Kraft Heinz,Baby Food,openfoodfacts,not_found
+Little kids,Heinz,Baby Food,openfoodfacts,not_found
+Coniglio omogeneizzato,Kraft Heinz,Baby Food,openfoodfacts,not_found
+Baby food banana,Heinz,Baby Food,openfoodfacts,not_found
+Biscotto,Kraft Heinz,Snacks & Namkeen,openfoodfacts,enriched
+smoothie pear betty & oat,Heinz,Baby Food,openfoodfacts,not_found
+heinz tropical baby food,Heinz,Baby Food,openfoodfacts,enriched
+Hnz app/bry/pass 120g,Heinz,Baby Food,openfoodfacts,not_found
+Heinz creamed porridge imp,Heinz,Baby Food,openfoodfacts,enriched
+Theething rusks,Heinz,Baby Food,openfoodfacts,not_found
+Pear and BlackBerry Custard,Heinz,Baby Food,openfoodfacts,not_found
+Pollo Plasmon,Kraft Heinz,Meat & Seafood,openfoodfacts,enriched
+Heinz For Baby - Beef Bolognese & Vegetables,Heinz,Baby Food,openfoodfacts,not_found
+Omogeneizzati di pollo,Kraft Heinz,Baby Food,openfoodfacts,enriched
+La pastina,Kraft Heinz,Baby Food,openfoodfacts,not_found
+omogenizzati frutta mista nipiol,Kraft Heinz,Baby Food,openfoodfacts,enriched
+Omogenizzati frutta,Kraft Heinz,Baby Food,openfoodfacts,enriched
+Omogeneizzato agnello,Kraft Heinz,Baby Food,openfoodfacts,enriched
+pear baby food,Heinz,Baby Food,openfoodfacts,not_found
+Guava Baby Food,Heinz,Baby Food,openfoodfacts,enriched
+TATA Salt,Tata,Other,openfoodfacts,not_found
+salt,Tata,Other,openfoodfacts,enriched
+Poisson salt et pepper,The tasty catch,Other,openfoodfacts,not_found

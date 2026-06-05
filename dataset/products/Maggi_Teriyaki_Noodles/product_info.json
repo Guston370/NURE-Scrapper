@@ -1,0 +1,20 @@
+{
+  "ingredients": [],
+  "nutrition": {
+    "energy_kcal": 462,
+    "protein_g": 8.4,
+    "carbohydrates_g": 63,
+    "of_which_sugars_g": 10.2,
+    "fat_g": 19,
+    "of_which_saturated_fat_g": 1.4,
+    "dietary_fiber_g": 2.5,
+    "sodium_mg": 3.4
+  },
+  "allergens": [],
+  "description": "",
+  "country_of_origin": "Bulgaria, Romania",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "unknown",
+  "nova_group": ""
+}

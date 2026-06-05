@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    "Voici les ingrédients présents dans notre jolie bouteille : de l'eau",
+    "de la patate douce¹",
+    "de la carotte¹",
+    "de l'oignon¹",
+    "du FROMAGE frais",
+    "une petite noisette de BEURRE",
+    "de l'amidon de maïs",
+    "une pointe de sel",
+    "une pincée d'épice et d'aromates",
+    "le tout rehaussé de curry . ¹Légumes issus de l'agriculture durable. 50% de légumes¹ ."
+  ],
+  "nutrition": {
+    "energy_kcal": null,
+    "protein_g": null,
+    "carbohydrates_g": null,
+    "of_which_sugars_g": null,
+    "fat_g": null,
+    "of_which_saturated_fat_g": null,
+    "dietary_fiber_g": null,
+    "sodium_mg": null
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "Soupe.",
+  "country_of_origin": "",
+  "storage_information": "Avant ouverture, conserver à température ambiante. Après ouverture, conserver au frais et consommer dans les 48 h.",
+  "fssai_information": "",
+  "nutriscore_grade": "a",
+  "nova_group": 3
+}

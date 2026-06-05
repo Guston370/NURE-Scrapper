@@ -1,0 +1,37 @@
+{
+  "ingredients": [
+    "milk",
+    "sugar",
+    "cocoa butter",
+    "cocoa mass",
+    "vegetable fats",
+    "emulsifiers",
+    "flavourings may contain nuts",
+    "wheat",
+    "quot",
+    "the equivalent of 426 ml of fresh liquid milk in every 227 g of milk chocolate",
+    "milk solids 20% minimum",
+    "actual 23 %",
+    "cocoa solids 20% minimum contains vegetable fats in addition to cocoa butter",
+    "uk"
+  ],
+  "nutrition": {
+    "energy_kcal": 535,
+    "protein_g": 7.5,
+    "carbohydrates_g": 55,
+    "of_which_sugars_g": 55,
+    "fat_g": 30.5,
+    "of_which_saturated_fat_g": 17.5,
+    "dietary_fiber_g": 2,
+    "sodium_mg": 0.00025
+  },
+  "allergens": [
+    "Milk"
+  ],
+  "description": "",
+  "country_of_origin": "United Kingdom",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

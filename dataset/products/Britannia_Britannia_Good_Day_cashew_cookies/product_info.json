@@ -1,0 +1,38 @@
+{
+  "ingredients": [
+    "WHEAT FLOUR",
+    "VEGETABLE FAT",
+    "SUGAR",
+    "CASHEW BITS",
+    "INVERT SUGAR",
+    "WHOLE MILK POWDER",
+    "BUTTER  AMMONIUM BICARBONATE",
+    "SODIUM BICARBONATE",
+    "SALT",
+    "SOY LECITHIN MONO & DIGLYCERIDES OF FATTY ACIDS  & DIACETYL TARTARIC ACID ESTERS OF MONO & DIGLYCERIDES",
+    "ARTIFICIAL FLAVOURS .\nCONTAINS WHEAT",
+    "MILK",
+    "CASHEW & SOY\nMANUFACTURED IN A FACILITY THAT ALSO PROCESSES EGG & TREE NUTS ."
+  ],
+  "nutrition": {
+    "energy_kcal": 514.70588235294,
+    "protein_g": 5.8823529411765,
+    "carbohydrates_g": 67.647058823529,
+    "of_which_sugars_g": 22.058823529412,
+    "fat_g": 23.529411764706,
+    "of_which_saturated_fat_g": 11.764705882353,
+    "dietary_fiber_g": 0,
+    "sodium_mg": 0.23529411764706
+  },
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Nuts"
+  ],
+  "description": "",
+  "country_of_origin": "Canada",
+  "storage_information": "",
+  "fssai_information": "",
+  "nutriscore_grade": "e",
+  "nova_group": 4
+}

@@ -1,0 +1,16 @@
+{
+  "product_id": "3cbfe7f7452e",
+  "product_name": "Coffee bottle",
+  "brand": "Bru",
+  "barcode": "0068400564454",
+  "category": "Tea & Coffee",
+  "subcategory": "Plant Based Foods",
+  "weight": "7 oz",
+  "manufacturer": "",
+  "source": "openfoodfacts",
+  "product_url": "https://world.openfoodfacts.org/product/0068400564454",
+  "image_count": 0,
+  "folder_name": "Bru_Coffee_bottle_7_oz",
+  "scraping_status": "enriched",
+  "created_at": "2026-06-03T15:59:12.855950Z"
+}
