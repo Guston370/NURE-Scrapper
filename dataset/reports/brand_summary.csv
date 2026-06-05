@@ -1,33 +1,73 @@
 Brand,Total Products,Total Images,Avg Images Per Product
-Catch,16,195,12.2
+Maggi,49,540,11.0
+Knorr,49,539,11.0
+McVitie's,44,484,11.0
+Lipton,43,473,11.0
+Cadbury,40,440,11.0
+Heinz,36,396,11.0
+ACT II,35,385,11.0
+Britannia,26,286,11.0
+Nescafe,22,242,11.0
+Nestlé,20,223,11.2
+Nandini,20,221,11.1
+Everest,17,212,12.5
+Catch,17,208,12.2
+Abbott,17,191,11.2
 MDH,14,190,13.6
-Kohinoor,11,164,14.9
-India Gate,12,161,13.4
-Everest,13,156,12.0
-Daawat,15,147,9.8
-Laxmi,8,99,12.4
-Pillsbury,6,72,12.0
-Haldiram's,5,59,11.8
+Nissin,17,187,11.0
+Sunfeast,16,176,11.0
+Daawat,15,175,11.7
+Kohinoor,11,165,15.0
+India Gate,12,163,13.6
+Haldiram's,13,147,11.3
+Kraft Heinz,13,145,11.2
+Balaji,12,135,11.2
+Wagh Bakri,12,135,11.2
+Amul,12,134,11.2
+Laxmi,11,133,12.1
+Eastern,10,112,11.2
+Belin,10,110,11.0
+Continental,9,99,11.0
+PediaSure,9,99,11.0
+Top Ramen,8,88,11.0
+Kissan,8,88,11.0
+Munchies,7,80,11.4
+Weikfield,7,77,11.0
+Pillsbury,6,75,12.5
+Bikaji,6,71,11.8
+Saffola,6,69,11.5
+Fortune,6,68,11.3
+Dhara,6,66,11.0
+Parle,5,60,12.0
 Ashoka,4,56,14.0
+Brooke Bond,5,55,11.0
+Bru,5,55,11.0
 Swad,4,54,13.5
-Eastern,5,52,10.4
-Aashirvaad,4,40,10.0
+ITC,4,50,12.5
+Aashirvaad,4,49,12.2
+Deep,4,46,11.5
+Sundrop,4,44,11.0
+Verka,4,44,11.0
+Tata,4,44,11.0
+Protinex,4,44,11.0
 MTR,3,39,13.0
-Badshah,3,36,12.0
-Sakthi,3,33,11.0
+Badshah,3,37,12.3
+Sakthi,3,35,11.7
+Yippee,3,33,11.0
+Ching's Secret,3,33,11.0
+Horlicks,3,33,11.0
 Devi,2,28,14.0
 Bikano,2,28,14.0
-Bikaji,2,27,13.5
-Parle,2,27,13.5
 Complan,2,27,13.5
 Noor Gazal,2,26,13.0
-Abbott,2,26,13.0
-Deep,2,24,12.0
-Amul,2,24,12.0
-Nandini,2,23,11.5
-Saffola,2,22,11.0
+Heera,2,25,12.5
+24 Mantra Organic,2,24,12.0
+Red Label,2,24,12.0
+Real,2,22,11.0
+belVita,2,22,11.0
+maliban,2,22,11.0
+Eclair,2,22,11.0
 Fazlani Foods,1,17,17.0
-ITC,1,17,17.0
 SpiceBox,1,16,16.0
 Stocked,1,16,16.0
 Saurbhi,1,16,16.0
@@ -44,22 +84,15 @@ Ravi,1,14,14.0
 Real Bites,1,14,14.0
 cofresh,1,14,14.0
 Indus,1,14,14.0
-Balaji,1,14,14.0
 R-Pure Agro Specialities,1,14,14.0
 Hero,1,14,14.0
-Heera,1,14,14.0
 Ramdev,1,14,14.0
 Divya,1,14,14.0
 Saral,1,14,14.0
 Tirupati’s,1,14,14.0
-Munchies,1,14,14.0
-Nestlé,1,14,14.0
 La Manufacture des Belles Glaces,1,14,14.0
-Wagh Bakri,1,14,14.0
-Fortune,1,13,13.0
 Royal,1,13,13.0
 Diya,1,13,13.0
-24 Mantra Organic,1,13,13.0
 Asli,1,13,13.0
 Roomy,1,13,13.0
 Raju,1,13,13.0
@@ -68,8 +101,6 @@ Bombay Kitchen Foods  Inc.,1,13,13.0
 Kitchens of India,1,13,13.0
 Golden orient,1,13,13.0
 Orchid,1,13,13.0
-Red Label,1,13,13.0
-Kraft Heinz,1,13,13.0
 Kazan’s Organic,1,12,12.0
 Shani,1,12,12.0
 Rehmat-e-Sheren,1,12,12.0
@@ -77,16 +108,54 @@ Shama,1,12,12.0
 Sundar,1,12,12.0
 ASHOKA,1,12,12.0
 Brooklyn Delhi LLC,1,12,12.0
-Maggi,1,12,12.0
 Annam,1,11,11.0
 Shan,1,11,11.0
 Angur,1,11,11.0
+Mahraba,1,11,11.0
+Bayara,1,11,11.0
 Kesar Grocery,1,11,11.0
 Aman’s,1,11,11.0
 Dmart Premia,1,11,11.0
-Heinz,1,11,11.0
-Real,1,10,10.0
-Bayara,1,10,10.0
-Mahraba,1,9,9.0
-Cadbury,1,7,7.0
-Whole Foods Market  Inc.,1,6,6.0
+Indian Delibites,1,11,11.0
+Mother’s Recipe,1,11,11.0
+Raja Foods,1,11,11.0
+Aara,1,11,11.0
+Deer,1,11,11.0
+Whole Foods Market  Inc.,1,11,11.0
+Dhãra,1,11,11.0
+Emami,1,11,11.0
+Mother Dairy,1,11,11.0
+Mother's Choice,1,11,11.0
+Mother's Dairy,1,11,11.0
+Bingo,1,11,11.0
+Uncle Toby’s,1,11,11.0
+Uncle Saba’s lentil and chickpea chips,1,11,11.0
+MUNCHIES,1,11,11.0
+Frito Lay Munchies,1,11,11.0
+Alsa,1,11,11.0
+La bergerie,1,11,11.0
+Pâturages,1,11,11.0
+gold,1,11,11.0
+Gold marie,1,11,11.0
+Weingut Gold,1,11,11.0
+The Original Nissin,1,11,11.0
+Top Valu,1,11,11.0
+Tetley Usa  Inc.,1,11,11.0
+Tata Tea,1,11,11.0
+Knightsbridge,1,11,11.0
+nhte,1,11,11.0
+Unilever India Exports Limited,1,11,11.0
+sodastream,1,11,11.0
+Fssai,1,11,11.0
+CCL Products (India) Limited,1,11,11.0
+Horlics,1,11,11.0
+Hindustan Unilever Ltd,1,11,11.0
+abott,1,11,11.0
+Nutrica,1,11,11.0
+Asda free from gluten,1,11,11.0
+munchy's,1,11,11.0
+Munch,1,11,11.0
+Specially Selected,1,11,11.0
+Chocolate eclairs,1,11,11.0
+Tata Salt,1,11,11.0
+The tasty catch,1,11,11.0

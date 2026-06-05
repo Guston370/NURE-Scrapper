@@ -1,0 +1,9 @@
+{
+  "products_missing_nutrition_before": 248,
+  "products_missing_nutrition_after": 248,
+  "products_missing_ingredients_before": 534,
+  "products_missing_ingredients_after": 534,
+  "nutrition_coverage_current": 71.6,
+  "ingredients_coverage_current": 38.9,
+  "last_updated": "2026-06-05T23:52:17"
+}

@@ -1,0 +1,10 @@
+{
+  "products_with_real_nutrition": 465,
+  "products_with_placeholder_nutrition": 0,
+  "products_with_real_ingredients": 340,
+  "products_with_placeholder_ingredients": 0,
+  "products_with_real_images": 212,
+  "products_with_mock_images": 692,
+  "total_real_images": 2674,
+  "total_mock_images": 7364
+}

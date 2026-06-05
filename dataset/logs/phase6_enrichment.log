@@ -163,3 +163,574 @@
 2026-06-05 22:58:30.259 | INFO     | __main__:main:180 - Enriching [160/534]: Catch Amchur power
 2026-06-05 22:58:36.406 | INFO     | __main__:main:180 - Enriching [161/534]: Catch Kashmiri mirch power
 2026-06-05 22:58:42.303 | INFO     | __main__:main:180 - Enriching [162/534]: Catch catch chana masala
+2026-06-05 22:58:49.776 | INFO     | __main__:main:180 - Enriching [163/534]: Catch catch biryani masala
+2026-06-05 22:58:55.757 | INFO     | __main__:main:180 - Enriching [164/534]: Catch pav bhaji masala
+2026-06-05 22:59:01.734 | INFO     | __main__:main:180 - Enriching [165/534]: Badshah Madras Sambar Masala
+2026-06-05 22:59:07.742 | INFO     | __main__:main:180 - Enriching [166/534]: Badshah Mélange De Thandai Masala
+2026-06-05 22:59:13.305 | INFO     | __main__:main:180 - Enriching [167/534]: Badshah Chat Masala
+2026-06-05 22:59:19.232 | INFO     | __main__:main:180 - Enriching [168/534]: Sakthi Tandoori Chicken Masala
+2026-06-05 22:59:25.204 | INFO     | __main__:main:180 - Enriching [169/534]: Sakthi Chilli Powder
+2026-06-05 22:59:32.657 | INFO     | __main__:main:180 - Enriching [170/534]: Sakthi Biriyani Masala
+2026-06-05 22:59:38.551 | INFO     | __main__:main:180 - Enriching [171/534]: Eastern Super garam masala
+2026-06-05 22:59:44.520 | INFO     | __main__:main:180 - Enriching [172/534]: Eastern Butter Masala Sauce
+2026-06-05 22:59:50.322 | INFO     | __main__:main:180 - Enriching [173/534]: Eastern Garam Masala
+2026-06-05 22:59:56.249 | INFO     | __main__:main:180 - Enriching [174/534]: Eastern Spicy Chicken Masala
+2026-06-05 23:00:02.163 | INFO     | __main__:main:180 - Enriching [175/534]: Eastern Mutton Masala
+2026-06-05 23:00:07.933 | INFO     | __main__:main:180 - Enriching [176/534]: Eastern Beef Ularthu Masala
+2026-06-05 23:00:13.817 | INFO     | __main__:main:180 - Enriching [177/534]: Eastern Chicken 64 Masala
+2026-06-05 23:00:19.776 | INFO     | __main__:main:180 - Enriching [178/534]: Eastern Egg Masala Powder
+2026-06-05 23:00:25.716 | INFO     | __main__:main:180 - Enriching [179/534]: Eastern Chicken Masala Spice Mix
+2026-06-05 23:00:31.566 | INFO     | __main__:main:180 - Enriching [180/534]: Eastern Chicken Fry Masala
+2026-06-05 23:00:37.442 | INFO     | __main__:main:180 - Enriching [181/534]: Fortune fortune sun lite sunflower oil 15 litre
+2026-06-05 23:00:43.382 | INFO     | __main__:main:180 - Enriching [182/534]: Fortune Pro Immunity Multi-source Edible Oil
+2026-06-05 23:00:49.332 | INFO     | __main__:main:180 - Enriching [183/534]: Saffola 100% Sanfflower Oil
+2026-06-05 23:00:55.107 | INFO     | __main__:main:180 - Enriching [184/534]: Saffola SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL
+2026-06-05 23:01:01.069 | INFO     | __main__:main:180 - Enriching [185/534]: Saffola Saffola Gold
+2026-06-05 23:01:07.039 | INFO     | __main__:main:180 - Enriching [186/534]: Saffola Saffola gold Blended oil 5 l
+2026-06-05 23:01:13.059 | INFO     | __main__:main:180 - Enriching [187/534]: Dhara Dhara groundnut oil
+2026-06-05 23:01:19.093 | INFO     | __main__:main:180 - Enriching [188/534]: Dhara Dhara ground nut oil
+2026-06-05 23:01:25.367 | INFO     | __main__:main:180 - Enriching [189/534]: Dhara mustard oil
+2026-06-05 23:01:31.245 | INFO     | __main__:main:180 - Enriching [190/534]: Dhara Kachi Ghani Mustard Oil
+2026-06-05 23:01:37.191 | INFO     | __main__:main:180 - Enriching [191/534]: Dhãra Kachi Ghani Mustard Oil
+2026-06-05 23:01:42.862 | INFO     | __main__:main:180 - Enriching [192/534]: Dhara Dhara Refined Sunflower oil 5l
+2026-06-05 23:01:48.876 | INFO     | __main__:main:180 - Enriching [193/534]: Sundrop Blended Edible Vegetable multi source oil
+2026-06-05 23:01:54.653 | INFO     | __main__:main:180 - Enriching [194/534]: Sundrop Sundrop Heart blnd edbl oil 1ltr
+2026-06-05 23:02:00.349 | INFO     | __main__:main:180 - Enriching [195/534]: Sundrop sundrop oil
+2026-06-05 23:02:40.382 | INFO     | __main__:main:166 - Total products: 874
+2026-06-05 23:02:40.382 | INFO     | __main__:main:167 - Targeting 534 products missing metadata
+2026-06-05 23:02:41.022 | INFO     | __main__:main:193 - Enriching [0/534]: Aashirvaad aashirwad atta 10kg
+2026-06-05 23:02:49.142 | INFO     | __main__:main:193 - Enriching [1/534]: Aashirvaad Atta with Multigrains
+2026-06-05 23:02:55.240 | INFO     | __main__:main:193 - Enriching [2/534]: Aashirvaad Atta Whole Wheat Flour With Multigrains
+2026-06-05 23:03:00.938 | INFO     | __main__:main:193 - Enriching [3/534]: Aashirvaad Atta with Millets
+2026-06-05 23:03:06.845 | INFO     | __main__:main:193 - Enriching [4/534]: Pillsbury Chakki atta
+2026-06-05 23:03:12.501 | INFO     | __main__:main:193 - Enriching [5/534]: Pillsbury Pilsbry chakki fresh atta 2kg
+2026-06-05 23:03:19.692 | INFO     | __main__:main:193 - Enriching [6/534]: Pillsbury Multigrain Atta
+2026-06-05 23:03:25.531 | INFO     | __main__:main:193 - Enriching [7/534]: Pillsbury Pillsbury gold atta 5kg
+2026-06-05 23:03:31.230 | INFO     | __main__:main:193 - Enriching [8/534]: India Gate Basmati Aged 1kg (India Gate)
+2026-06-05 23:03:37.058 | INFO     | __main__:main:193 - Enriching [9/534]: India Gate Basmati rice
+2026-06-05 23:03:42.791 | INFO     | __main__:main:193 - Enriching [10/534]: India Gate Rice India Gate uncooked
+2026-06-05 23:03:48.711 | INFO     | __main__:main:193 - Enriching [11/534]: India Gate Riz basmati - Rosana
+2026-06-05 23:03:54.753 | INFO     | __main__:main:193 - Enriching [12/534]: India Gate White basmati rice excel
+2026-06-05 23:04:00.808 | INFO     | __main__:main:193 - Enriching [13/534]: India Gate Basmati rice 10kg
+2026-06-05 23:04:06.482 | INFO     | __main__:main:193 - Enriching [14/534]: India Gate India Gate Classic Rice
+2026-06-05 23:04:12.144 | INFO     | __main__:main:193 - Enriching [15/534]: India Gate Sprouted Brown Basmati Rice
+2026-06-05 23:04:17.982 | INFO     | __main__:main:193 - Enriching [16/534]: India Gate Sella Basmati Rice
+2026-06-05 23:04:24.011 | INFO     | __main__:main:193 - Enriching [17/534]: India Gate Basmati Rice Classic
+2026-06-05 23:04:29.982 | INFO     | __main__:main:193 - Enriching [18/534]: India Gate Extra Long Basmati Rice Premium
+2026-06-05 23:04:35.859 | INFO     | __main__:main:193 - Enriching [19/534]: India Gate Parboiled Basmati Rice
+2026-06-05 23:04:41.698 | INFO     | __main__:main:193 - Enriching [20/534]: Daawat Original Basmati Rice
+2026-06-05 23:04:47.475 | INFO     | __main__:main:193 - Enriching [21/534]: Daawat Rozana Gold  basmati rice
+2026-06-05 23:04:53.281 | INFO     | __main__:main:193 - Enriching [22/534]: Daawat daawat super basmati rice
+2026-06-05 23:04:59.378 | INFO     | __main__:main:193 - Enriching [23/534]: Daawat Extra Long Basmati Rice
+2026-06-05 23:05:05.115 | INFO     | __main__:main:193 - Enriching [24/534]: Daawat Super Basmati Rice
+2026-06-05 23:05:10.993 | INFO     | __main__:main:193 - Enriching [25/534]: Daawat Brown Basmati Rice
+2026-06-05 23:05:18.350 | INFO     | __main__:main:193 - Enriching [26/534]: Daawat Chefs Secretz Basmati Rice
+2026-06-05 23:05:24.193 | INFO     | __main__:main:193 - Enriching [27/534]: Daawat Extra Long Basmati Reis
+2026-06-05 23:05:29.952 | INFO     | __main__:main:193 - Enriching [28/534]: Daawat Rice raw
+2026-06-05 23:05:35.918 | INFO     | __main__:main:193 - Enriching [29/534]: Daawat Daawat Basmati Blue 500g
+2026-06-05 23:05:41.733 | INFO     | __main__:main:193 - Enriching [30/534]: Daawat EVERYDAY BASMATI RICE
+2026-06-05 23:05:47.380 | INFO     | __main__:main:193 - Enriching [31/534]: Kohinoor Basmati
+2026-06-05 23:05:53.458 | INFO     | __main__:main:193 - Enriching [32/534]: Kohinoor Basmati rice
+2026-06-05 23:05:59.434 | INFO     | __main__:main:193 - Enriching [33/534]: Kohinoor Basmati Gold
+2026-06-05 23:06:05.211 | INFO     | __main__:main:193 - Enriching [34/534]: Kohinoor Extra Long Basmati Rice
+2026-06-05 23:06:10.927 | INFO     | __main__:main:193 - Enriching [35/534]: Kohinoor Basmati rice extra long 64oz.
+2026-06-05 23:06:18.256 | INFO     | __main__:main:193 - Enriching [36/534]: Kohinoor Extra Long Grain Basmati Rice
+2026-06-05 23:06:24.115 | INFO     | __main__:main:193 - Enriching [37/534]: Kohinoor Brown basmati rice
+2026-06-05 23:06:29.969 | INFO     | __main__:main:193 - Enriching [38/534]: Kazan’s Organic Toor Dal
+2026-06-05 23:06:35.704 | INFO     | __main__:main:193 - Enriching [39/534]: Real Toor Dal
+2026-06-05 23:06:41.493 | INFO     | __main__:main:193 - Enriching [40/534]: Annam Toor Dal
+2026-06-05 23:06:47.234 | INFO     | __main__:main:193 - Enriching [41/534]: Laxmi Toor Dal
+2026-06-05 23:06:53.261 | INFO     | __main__:main:193 - Enriching [42/534]: Devi Uncooked Toor Dal
+2026-06-05 23:06:58.955 | INFO     | __main__:main:193 - Enriching [43/534]: Laxmi Toor Dal (Vasad Madhi) Split Pigeon Peas
+2026-06-05 23:07:04.679 | INFO     | __main__:main:193 - Enriching [44/534]: Shani Toor Dal
+2026-06-05 23:07:10.507 | INFO     | __main__:main:193 - Enriching [45/534]: Bikaji Bikaji (moong Dal) 400GM
+2026-06-05 23:07:16.310 | INFO     | __main__:main:193 - Enriching [46/534]: Bikano Moong Dal
+2026-06-05 23:07:22.056 | INFO     | __main__:main:193 - Enriching [47/534]: Haldiram's Moong Dal
+2026-06-05 23:07:28.039 | INFO     | __main__:main:193 - Enriching [48/534]: Deep Moong Dal
+2026-06-05 23:07:33.897 | INFO     | __main__:main:193 - Enriching [49/534]: Diya Moong dal, split moong beans (without skin)
+2026-06-05 23:07:39.851 | INFO     | __main__:main:193 - Enriching [50/534]: Parle Parle Namkeen &quot;Moong Dal&quot; 400GM
+2026-06-05 23:07:45.470 | INFO     | __main__:main:193 - Enriching [51/534]: Rehmat-e-Sheren Dal Moong
+2026-06-05 23:07:51.233 | INFO     | __main__:main:193 - Enriching [52/534]: Parle Namkeen - Moong dal
+2026-06-05 23:07:56.981 | INFO     | __main__:main:193 - Enriching [53/534]: Ashoka Ashoka Moong Dal Kachori
+2026-06-05 23:08:02.709 | INFO     | __main__:main:193 - Enriching [54/534]: Shama Moong dal
+2026-06-05 23:08:08.330 | INFO     | __main__:main:193 - Enriching [55/534]: Laxmi Moong Dal
+2026-06-05 23:08:13.961 | INFO     | __main__:main:193 - Enriching [56/534]: 24 Mantra Organic Organic Moong Dal
+2026-06-05 23:08:19.717 | INFO     | __main__:main:193 - Enriching [57/534]: Laxmi Organic Moong Dal, Dry
+2026-06-05 23:08:25.458 | INFO     | __main__:main:193 - Enriching [58/534]: Shan Moong Dal Lentils
+2026-06-05 23:08:31.285 | INFO     | __main__:main:193 - Enriching [59/534]: Deep Moong Dal Chilka
+2026-06-05 23:08:37.139 | INFO     | __main__:main:193 - Enriching [60/534]: Laxmi Moong Dal Split
+2026-06-05 23:08:42.948 | INFO     | __main__:main:193 - Enriching [61/534]: Noor Gazal Moong Dal
+2026-06-05 23:08:48.761 | INFO     | __main__:main:193 - Enriching [62/534]: Patidar Moong Dal
+2026-06-05 23:08:54.539 | INFO     | __main__:main:193 - Enriching [63/534]: Devi Yellow Split Moong dal
+2026-06-05 23:09:00.334 | INFO     | __main__:main:193 - Enriching [64/534]: Sundar Moong Dal Washed
+2026-06-05 23:09:06.051 | INFO     | __main__:main:193 - Enriching [65/534]: Swad Moong Dal
+2026-06-05 23:09:11.841 | INFO     | __main__:main:193 - Enriching [66/534]: Angur Moong Dal
+2026-06-05 23:09:17.710 | INFO     | __main__:main:193 - Enriching [67/534]: Ravi Moong Dal
+2026-06-05 23:09:23.440 | INFO     | __main__:main:193 - Enriching [68/534]: Asli Moong Dal
+2026-06-05 23:09:29.228 | INFO     | __main__:main:193 - Enriching [69/534]: Roomy Split Moong Dal
+2026-06-05 23:09:34.923 | INFO     | __main__:main:193 - Enriching [70/534]: Mahraba Moong Dal (Petite Yellow Lentil)
+2026-06-05 23:09:40.732 | INFO     | __main__:main:193 - Enriching [71/534]: Rani Brand Moong Dal
+2026-06-05 23:09:46.666 | INFO     | __main__:main:193 - Enriching [72/534]: SpiceBox Moong Dal
+2026-06-05 23:09:52.402 | INFO     | __main__:main:193 - Enriching [73/534]: Bikaji moong dal
+2026-06-05 23:09:58.240 | INFO     | __main__:main:193 - Enriching [74/534]: Real Bites Moong Dal
+2026-06-05 23:10:04.046 | INFO     | __main__:main:193 - Enriching [75/534]: Kesar Grocery Moong Dal
+2026-06-05 23:10:09.802 | INFO     | __main__:main:193 - Enriching [76/534]: cofresh Chana dal (savoury Indian snack)
+2026-06-05 23:10:15.922 | INFO     | __main__:main:193 - Enriching [77/534]: Indus Chana Dal
+2026-06-05 23:10:23.184 | INFO     | __main__:main:193 - Enriching [78/534]: Raju Chana dal
+2026-06-05 23:10:29.081 | INFO     | __main__:main:193 - Enriching [79/534]: Balaji Chana Dal
+2026-06-05 23:10:35.379 | INFO     | __main__:main:193 - Enriching [80/534]: MDH MDH Chana Dal Masala 100G
+2026-06-05 23:10:41.390 | INFO     | __main__:main:193 - Enriching [81/534]: Ashoka Ashoka Chana Dal Tikki
+2026-06-05 23:10:47.332 | INFO     | __main__:main:193 - Enriching [82/534]: Laxmi Chana Dal
+2026-06-05 23:10:53.228 | INFO     | __main__:main:193 - Enriching [83/534]: Hero Salade de Chana Dal
+2026-06-05 23:10:58.989 | INFO     | __main__:main:193 - Enriching [84/534]: Ammaas Roasted Chana Dal
+2026-06-05 23:11:04.769 | INFO     | __main__:main:193 - Enriching [85/534]: Swad Chana dal Namkeen
+2026-06-05 23:11:10.856 | INFO     | __main__:main:193 - Enriching [86/534]: Stocked Chana Dal
+2026-06-05 23:11:16.679 | INFO     | __main__:main:193 - Enriching [87/534]: Ramdev Chana Dal
+2026-06-05 23:11:22.502 | INFO     | __main__:main:193 - Enriching [88/534]: Noor Gazal Chana Dal
+2026-06-05 23:11:28.112 | INFO     | __main__:main:193 - Enriching [89/534]: Bikano Chana Dal (Snack)
+2026-06-05 23:11:33.857 | INFO     | __main__:main:193 - Enriching [90/534]: Saurbhi Split Chana dal
+2026-06-05 23:11:39.476 | INFO     | __main__:main:193 - Enriching [91/534]: Divya Chana Dal Split Chickpea Lentil
+2026-06-05 23:11:45.512 | INFO     | __main__:main:193 - Enriching [92/534]: Praana Chana Dal
+2026-06-05 23:11:51.216 | INFO     | __main__:main:193 - Enriching [93/534]: Laxmi Chana Dal Split Chickpeas
+2026-06-05 23:11:58.249 | INFO     | __main__:main:193 - Enriching [94/534]: Saral CHANA DAL
+2026-06-05 23:12:04.103 | INFO     | __main__:main:193 - Enriching [95/534]: Fazlani Foods Fazlani foods, rajma masala
+2026-06-05 23:12:09.638 | INFO     | __main__:main:193 - Enriching [96/534]: ASHOKA Rajma pulao
+2026-06-05 23:12:15.869 | INFO     | __main__:main:193 - Enriching [97/534]: MTR Rajma masala
+2026-06-05 23:12:21.788 | INFO     | __main__:main:193 - Enriching [98/534]: Haldiram's Rajma Raseela
+2026-06-05 23:12:27.669 | INFO     | __main__:main:193 - Enriching [99/534]: Everest Rajma Masala
+2026-06-05 23:12:33.784 | INFO     | __main__:main:193 - Enriching [100/534]: Brooklyn Delhi LLC Red Bean Rajma Masala
+2026-06-05 23:12:39.330 | INFO     | __main__:main:193 - Enriching [101/534]: Ashoka Shahi Rajma
+2026-06-05 23:12:45.013 | INFO     | __main__:main:193 - Enriching [102/534]: Kohinoor Rajma Masala
+2026-06-05 23:12:50.655 | INFO     | __main__:main:193 - Enriching [103/534]: MTR MTR Ready-To-Eat Rajma Masala
+2026-06-05 23:12:56.269 | INFO     | __main__:main:193 - Enriching [104/534]: 24 Mantra Rajma, Raw
+2026-06-05 23:13:01.977 | INFO     | __main__:main:193 - Enriching [105/534]: Swad Raw Rajma
+2026-06-05 23:13:07.583 | INFO     | __main__:main:193 - Enriching [106/534]: Aman’s Jammu Rajma
+2026-06-05 23:13:13.166 | INFO     | __main__:main:193 - Enriching [107/534]: Dmart Premia Rajma White
+2026-06-05 23:13:19.177 | INFO     | __main__:main:193 - Enriching [108/534]: Vadilal Rajma Masala
+2026-06-05 23:13:24.906 | INFO     | __main__:main:193 - Enriching [109/534]: Tirupati’s Punjabi Rajma
+2026-06-05 23:13:30.687 | INFO     | __main__:main:193 - Enriching [110/534]: Bowlful Rajma
+2026-06-05 23:13:36.322 | INFO     | __main__:main:193 - Enriching [111/534]: Five Minutes To Delhi Rajma
+2026-06-05 23:13:42.101 | INFO     | __main__:main:193 - Enriching [112/534]: Orchid Kashmiri Rajma
+2026-06-05 23:13:47.622 | INFO     | __main__:main:193 - Enriching [113/534]: Indian Delibites Chitra Rajma
+2026-06-05 23:13:54.698 | INFO     | __main__:main:193 - Enriching [114/534]: Haldiram's Rajma Chawal
+2026-06-05 23:14:00.621 | INFO     | __main__:main:193 - Enriching [115/534]: Mother’s Recipe Amritsari Rajma
+2026-06-05 23:14:06.479 | INFO     | __main__:main:193 - Enriching [116/534]: Laxmi Rajma Masala
+2026-06-05 23:14:12.143 | INFO     | __main__:main:193 - Enriching [117/534]: Heera Rajma
+2026-06-05 23:14:17.912 | INFO     | __main__:main:193 - Enriching [118/534]: 24 Mantra Organic KABULI CHANA CHICKPEA
+2026-06-05 23:14:23.608 | INFO     | __main__:main:193 - Enriching [119/534]: Real Kabuli Chana
+2026-06-05 23:14:29.470 | INFO     | __main__:main:193 - Enriching [120/534]: Laxmi Kabuli Chana
+2026-06-05 23:14:35.367 | INFO     | __main__:main:193 - Enriching [121/534]: Deep Kabuli Chana
+2026-06-05 23:14:40.973 | INFO     | __main__:main:193 - Enriching [122/534]: Aara Kabuli Chana
+2026-06-05 23:14:46.759 | INFO     | __main__:main:193 - Enriching [123/534]: Deep Kabuli Chana Chickpeas
+2026-06-05 23:14:52.365 | INFO     | __main__:main:193 - Enriching [124/534]: Deer Kabuli chana
+2026-06-05 23:14:57.954 | INFO     | __main__:main:193 - Enriching [125/534]: Laxmi Kabuli Chana Chickpeas
+2026-06-05 23:15:03.832 | INFO     | __main__:main:193 - Enriching [126/534]: Everest Kitchen King Masala
+2026-06-05 23:15:09.754 | INFO     | __main__:main:193 - Enriching [127/534]: Everest Everest Sabji masala
+2026-06-05 23:15:15.551 | INFO     | __main__:main:193 - Enriching [128/534]: Everest Everest Sambhar masala
+2026-06-05 23:15:21.473 | INFO     | __main__:main:193 - Enriching [129/534]: Everest chiken biryani masala Everest
+2026-06-05 23:15:27.212 | INFO     | __main__:main:193 - Enriching [130/534]: Everest Kesari Milk Masala
+2026-06-05 23:15:32.967 | INFO     | __main__:main:193 - Enriching [131/534]: Everest Everest fish curry masala
+2026-06-05 23:15:38.806 | INFO     | __main__:main:193 - Enriching [132/534]: Everest EVEREST Masala tae
+2026-06-05 23:15:44.784 | INFO     | __main__:main:193 - Enriching [133/534]: Everest Shahi Paneer Masala
+2026-06-05 23:15:50.789 | INFO     | __main__:main:193 - Enriching [134/534]: Everest EVEREST Chhole Masala
+2026-06-05 23:15:56.721 | INFO     | __main__:main:193 - Enriching [135/534]: Everest Tikka Masala Curry
+2026-06-05 23:16:02.235 | INFO     | __main__:main:193 - Enriching [136/534]: Everest Sambar Masala
+2026-06-05 23:16:07.899 | INFO     | __main__:main:193 - Enriching [137/534]: Everest Everest Tandoori Chicken Masala
+2026-06-05 23:16:13.797 | INFO     | __main__:main:193 - Enriching [138/534]: Everest Chat Masala
+2026-06-05 23:16:19.458 | INFO     | __main__:main:193 - Enriching [139/534]: MDH Chunky Chat masala
+2026-06-05 23:16:25.153 | INFO     | __main__:main:193 - Enriching [140/534]: MDH Dal Makhani masala
+2026-06-05 23:16:31.009 | INFO     | __main__:main:193 - Enriching [141/534]: MDH pulao masala
+2026-06-05 23:16:36.765 | INFO     | __main__:main:193 - Enriching [142/534]: MDH MDH Dal Makhani Masala
+2026-06-05 23:16:42.560 | INFO     | __main__:main:193 - Enriching [143/534]: MDH T Plus Masala
+2026-06-05 23:16:48.154 | INFO     | __main__:main:193 - Enriching [144/534]: MDH MDH JAL JEERA MASALA
+2026-06-05 23:16:53.929 | INFO     | __main__:main:193 - Enriching [145/534]: MDH Karahi Paneer Masala
+2026-06-05 23:16:59.707 | INFO     | __main__:main:193 - Enriching [146/534]: MDH Stuffed Parantha Masala Spice Blend
+2026-06-05 23:17:05.449 | INFO     | __main__:main:193 - Enriching [147/534]: MDH Curry Masala for Karahi Gosht
+2026-06-05 23:17:11.213 | INFO     | __main__:main:193 - Enriching [148/534]: MDH Sindhi Biryani masala
+2026-06-05 23:17:16.969 | INFO     | __main__:main:193 - Enriching [149/534]: Catch Chhole Masala
+2026-06-05 23:17:22.612 | INFO     | __main__:main:193 - Enriching [150/534]: Catch Sprinkler Black Pepper
+2026-06-05 23:17:28.399 | INFO     | __main__:main:193 - Enriching [151/534]: Catch CHICKEN MASALA
+2026-06-05 23:17:34.096 | INFO     | __main__:main:193 - Enriching [152/534]: Catch SAMBHAR MASALA
+2026-06-05 23:17:39.910 | INFO     | __main__:main:193 - Enriching [153/534]: Catch Catch Chatpata Chat Masala
+2026-06-05 23:17:45.643 | INFO     | __main__:main:193 - Enriching [154/534]: Catch KITCHEN KING
+2026-06-05 23:17:51.539 | INFO     | __main__:main:193 - Enriching [155/534]: Catch Catch sabzi masala
+2026-06-05 23:17:57.478 | INFO     | __main__:main:193 - Enriching [156/534]: Catch JALJEERA
+2026-06-05 23:18:03.233 | INFO     | __main__:main:193 - Enriching [157/534]: Catch MEAT MASALA
+2026-06-05 23:18:08.814 | INFO     | __main__:main:193 - Enriching [158/534]: Catch Garam masala
+2026-06-05 23:18:14.434 | INFO     | __main__:main:193 - Enriching [159/534]: Catch catch Rajma masala
+2026-06-05 23:18:20.354 | INFO     | __main__:main:193 - Enriching [160/534]: Catch Amchur power
+2026-06-05 23:18:26.273 | INFO     | __main__:main:193 - Enriching [161/534]: Catch Kashmiri mirch power
+2026-06-05 23:18:32.081 | INFO     | __main__:main:193 - Enriching [162/534]: Catch catch chana masala
+2026-06-05 23:18:37.904 | INFO     | __main__:main:193 - Enriching [163/534]: Catch catch biryani masala
+2026-06-05 23:18:43.664 | INFO     | __main__:main:193 - Enriching [164/534]: Catch pav bhaji masala
+2026-06-05 23:18:49.349 | INFO     | __main__:main:193 - Enriching [165/534]: Badshah Madras Sambar Masala
+2026-06-05 23:18:54.941 | INFO     | __main__:main:193 - Enriching [166/534]: Badshah Mélange De Thandai Masala
+2026-06-05 23:19:00.501 | INFO     | __main__:main:193 - Enriching [167/534]: Badshah Chat Masala
+2026-06-05 23:19:06.416 | INFO     | __main__:main:193 - Enriching [168/534]: Sakthi Tandoori Chicken Masala
+2026-06-05 23:19:13.560 | INFO     | __main__:main:193 - Enriching [169/534]: Sakthi Chilli Powder
+2026-06-05 23:19:19.348 | INFO     | __main__:main:193 - Enriching [170/534]: Sakthi Biriyani Masala
+2026-06-05 23:19:25.094 | INFO     | __main__:main:193 - Enriching [171/534]: Eastern Super garam masala
+2026-06-05 23:19:30.791 | INFO     | __main__:main:193 - Enriching [172/534]: Eastern Butter Masala Sauce
+2026-06-05 23:19:36.410 | INFO     | __main__:main:193 - Enriching [173/534]: Eastern Garam Masala
+2026-06-05 23:19:41.977 | INFO     | __main__:main:193 - Enriching [174/534]: Eastern Spicy Chicken Masala
+2026-06-05 23:19:47.797 | INFO     | __main__:main:193 - Enriching [175/534]: Eastern Mutton Masala
+2026-06-05 23:19:53.528 | INFO     | __main__:main:193 - Enriching [176/534]: Eastern Beef Ularthu Masala
+2026-06-05 23:19:59.258 | INFO     | __main__:main:193 - Enriching [177/534]: Eastern Chicken 64 Masala
+2026-06-05 23:20:05.209 | INFO     | __main__:main:193 - Enriching [178/534]: Eastern Egg Masala Powder
+2026-06-05 23:20:11.005 | INFO     | __main__:main:193 - Enriching [179/534]: Eastern Chicken Masala Spice Mix
+2026-06-05 23:20:16.800 | INFO     | __main__:main:193 - Enriching [180/534]: Eastern Chicken Fry Masala
+2026-06-05 23:20:22.568 | INFO     | __main__:main:193 - Enriching [181/534]: Fortune fortune sun lite sunflower oil 15 litre
+2026-06-05 23:20:28.323 | INFO     | __main__:main:193 - Enriching [182/534]: Fortune Pro Immunity Multi-source Edible Oil
+2026-06-05 23:20:34.020 | INFO     | __main__:main:193 - Enriching [183/534]: Saffola 100% Sanfflower Oil
+2026-06-05 23:20:39.741 | INFO     | __main__:main:193 - Enriching [184/534]: Saffola SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL
+2026-06-05 23:20:45.591 | INFO     | __main__:main:193 - Enriching [185/534]: Saffola Saffola Gold
+2026-06-05 23:20:52.566 | INFO     | __main__:main:193 - Enriching [186/534]: Saffola Saffola gold Blended oil 5 l
+2026-06-05 23:20:58.532 | INFO     | __main__:main:193 - Enriching [187/534]: Dhara Dhara groundnut oil
+2026-06-05 23:21:04.303 | INFO     | __main__:main:193 - Enriching [188/534]: Dhara Dhara ground nut oil
+2026-06-05 23:21:10.119 | INFO     | __main__:main:193 - Enriching [189/534]: Dhara mustard oil
+2026-06-05 23:21:16.002 | INFO     | __main__:main:193 - Enriching [190/534]: Dhara Kachi Ghani Mustard Oil
+2026-06-05 23:21:21.836 | INFO     | __main__:main:193 - Enriching [191/534]: Dhãra Kachi Ghani Mustard Oil
+2026-06-05 23:21:27.548 | INFO     | __main__:main:193 - Enriching [192/534]: Dhara Dhara Refined Sunflower oil 5l
+2026-06-05 23:21:35.122 | INFO     | __main__:main:193 - Enriching [193/534]: Sundrop Blended Edible Vegetable multi source oil
+2026-06-05 23:21:40.949 | INFO     | __main__:main:193 - Enriching [194/534]: Sundrop Sundrop Heart blnd edbl oil 1ltr
+2026-06-05 23:21:46.698 | INFO     | __main__:main:193 - Enriching [195/534]: Sundrop sundrop oil
+2026-06-05 23:21:52.575 | INFO     | __main__:main:193 - Enriching [196/534]: Amul Water buffalo butter
+2026-06-05 23:21:58.441 | INFO     | __main__:main:193 - Enriching [197/534]: Amul Butter Unsalted
+2026-06-05 23:22:06.279 | INFO     | __main__:main:193 - Enriching [198/534]: Amul amul butter
+2026-06-05 23:22:12.181 | INFO     | __main__:main:193 - Enriching [199/534]: Amul Water Buffalo And Cow Milk Butter
+2026-06-05 23:22:18.107 | INFO     | __main__:main:193 - Enriching [200/534]: Amul Amul masti spiced butter milk
+2026-06-05 23:22:24.098 | INFO     | __main__:main:193 - Enriching [201/534]: Amul Pure ghee clarified butter
+2026-06-05 23:22:29.975 | INFO     | __main__:main:193 - Enriching [202/534]: Amul Amul cheese block
+2026-06-05 23:22:35.915 | INFO     | __main__:main:193 - Enriching [203/534]: Amul Cheese Cube
+2026-06-05 23:22:41.849 | INFO     | __main__:main:193 - Enriching [204/534]: Amul Amul cheese spread
+2026-06-05 23:22:47.762 | INFO     | __main__:main:193 - Enriching [205/534]: Amul Cheese block
+2026-06-05 23:22:53.562 | INFO     | __main__:main:193 - Enriching [206/534]: Mother's Dairy Ginger Paste
+2026-06-05 23:22:59.538 | INFO     | __main__:main:193 - Enriching [207/534]: Nandini Badam Flavoured Milk
+2026-06-05 23:23:05.429 | INFO     | __main__:main:193 - Enriching [208/534]: Nandini Shubham
+2026-06-05 23:23:11.435 | INFO     | __main__:main:193 - Enriching [209/534]: Nandini Nandini Good Life
+2026-06-05 23:23:17.324 | INFO     | __main__:main:193 - Enriching [210/534]: Nandini Nandini Paneer
+2026-06-05 23:23:23.147 | INFO     | __main__:main:193 - Enriching [211/534]: Nandini goodlife slim
+2026-06-05 23:23:29.193 | INFO     | __main__:main:193 - Enriching [212/534]: Nandini Toned Milk
+2026-06-05 23:23:34.958 | INFO     | __main__:main:193 - Enriching [213/534]: Nandini Slim UHT Sterilised Skimmed Milk
+2026-06-05 23:23:40.831 | INFO     | __main__:main:193 - Enriching [214/534]: Nandini Santhrupthi Milk
+2026-06-05 23:23:46.790 | INFO     | __main__:main:193 - Enriching [215/534]: Verka Fresh Paneer
+2026-06-05 23:23:52.557 | INFO     | __main__:main:193 - Enriching [216/534]: Haldiram's Cornflakes Mixture
+2026-06-05 23:23:58.356 | INFO     | __main__:main:193 - Enriching [217/534]: Haldiram's Gujarati Mixture Namkeen
+2026-06-05 23:24:04.265 | INFO     | __main__:main:193 - Enriching [218/534]: Haldiram's taka-tak
+2026-06-05 23:24:10.152 | INFO     | __main__:main:193 - Enriching [219/534]: Haldiram's Khatta Meetha 440g
+2026-06-05 23:24:16.038 | INFO     | __main__:main:193 - Enriching [220/534]: Bingo Knocking korean
+2026-06-05 23:24:21.802 | INFO     | __main__:main:193 - Enriching [221/534]: Uncle Saba’s lentil and chickpea chips Uncle Saba’s Lentil and chickpea chips
+2026-06-05 23:24:27.732 | INFO     | __main__:main:193 - Enriching [222/534]: ACT II Xtreme Butter
+2026-06-05 23:24:33.617 | INFO     | __main__:main:193 - Enriching [223/534]: ACT II ACT II popcorn butter delight
+2026-06-05 23:24:39.565 | INFO     | __main__:main:193 - Enriching [224/534]: ACT II Popcorn butter
+2026-06-05 23:24:45.585 | INFO     | __main__:main:193 - Enriching [225/534]: ACT II Act II sabor Mantequilla
+2026-06-05 23:24:51.448 | INFO     | __main__:main:193 - Enriching [226/534]: ACT II Butter Microwave Popcorn
+2026-06-05 23:24:57.373 | INFO     | __main__:main:193 - Enriching [227/534]: ACT II Xtreme Butter Microwave Popcorn
+2026-06-05 23:25:03.331 | INFO     | __main__:main:193 - Enriching [228/534]: ACT II ACT II Butter Lovers Flavour
+2026-06-05 23:25:09.187 | INFO     | __main__:main:193 - Enriching [229/534]: ACT II Popcorn
+2026-06-05 23:25:15.013 | INFO     | __main__:main:193 - Enriching [230/534]: ACT II ACT II Microwave Popcorn Butter Lover's Flavour
+2026-06-05 23:25:20.879 | INFO     | __main__:main:193 - Enriching [231/534]: ACT II Sweet & Salty Kettle Corn
+2026-06-05 23:25:26.803 | INFO     | __main__:main:193 - Enriching [232/534]: ACT II Light Butter Flavour Microwave Popcorn
+2026-06-05 23:25:32.713 | INFO     | __main__:main:193 - Enriching [233/534]: ACT II Act 2 popcorn butter flavour
+2026-06-05 23:25:38.636 | INFO     | __main__:main:193 - Enriching [234/534]: ACT II ACT II Popcorn
+2026-06-05 23:25:44.417 | INFO     | __main__:main:193 - Enriching [235/534]: ACT II Microwave Popcorn Buttery Flavour
+2026-06-05 23:25:50.445 | INFO     | __main__:main:193 - Enriching [236/534]: ACT II ACT II Salted Microwave Popcorn
+2026-06-05 23:25:56.286 | INFO     | __main__:main:193 - Enriching [237/534]: ACT II ACT II Simply Salted popcorn
+2026-06-05 23:26:02.180 | INFO     | __main__:main:193 - Enriching [238/534]: Nestlé Munchies Orange
+2026-06-05 23:26:08.111 | INFO     | __main__:main:193 - Enriching [239/534]: Nestlé Munchies Easter Egg
+2026-06-05 23:26:14.025 | INFO     | __main__:main:193 - Enriching [240/534]: Munchies Flamin' Hot Snack Mix
+2026-06-05 23:26:19.959 | INFO     | __main__:main:193 - Enriching [241/534]: Munchies Arachides enrobés croquantes
+2026-06-05 23:26:26.038 | INFO     | __main__:main:193 - Enriching [242/534]: Frito Lay Munchies Honey roasted peanuts
+2026-06-05 23:26:32.004 | INFO     | __main__:main:193 - Enriching [243/534]: Nestlé Munchies Cookie Dough
+2026-06-05 23:26:40.328 | INFO     | __main__:main:193 - Enriching [244/534]: Bikaji Bikaneri bhujia
+2026-06-05 23:26:46.109 | INFO     | __main__:main:193 - Enriching [245/534]: Bikaji Bikaji aloo bhujia 1kg
+2026-06-05 23:26:51.966 | INFO     | __main__:main:193 - Enriching [246/534]: Bikaji Aloo Bhujia Tana-Tan
+2026-06-05 23:26:57.881 | INFO     | __main__:main:193 - Enriching [247/534]: Bikaji bikaji bikaneri bhujia 400g
+2026-06-05 23:27:03.668 | INFO     | __main__:main:193 - Enriching [248/534]: Balaji Potato Chips Mint Pudina
+2026-06-05 23:27:09.569 | INFO     | __main__:main:193 - Enriching [249/534]: Balaji Potato chips
+2026-06-05 23:27:15.434 | INFO     | __main__:main:193 - Enriching [250/534]: Balaji Balaji Wafers Rumbles Potato Chips Pudina Twist flavour
+2026-06-05 23:27:23.014 | INFO     | __main__:main:193 - Enriching [251/534]: Balaji Crunchem Pizzy Masala
+2026-06-05 23:27:28.910 | INFO     | __main__:main:193 - Enriching [252/534]: Balaji Crunchem
+2026-06-05 23:27:34.832 | INFO     | __main__:main:193 - Enriching [253/534]: Britannia Good day
+2026-06-05 23:27:40.453 | INFO     | __main__:main:193 - Enriching [254/534]: Britannia GOOD DAY CHOCO COOKIES
+2026-06-05 23:27:46.339 | INFO     | __main__:main:193 - Enriching [255/534]: Britannia Britannia, Good Day, Butter Cookies
+2026-06-05 23:27:53.600 | INFO     | __main__:main:193 - Enriching [256/534]: Britannia Good Day Psta-Almond Cookies
+2026-06-05 23:28:00.958 | INFO     | __main__:main:193 - Enriching [257/534]: Britannia Good Day Rich Pistachio and Almond Cookies
+2026-06-05 23:28:06.842 | INFO     | __main__:main:193 - Enriching [258/534]: Britannia Good Day Chocochip Cookies
+2026-06-05 23:28:12.632 | INFO     | __main__:main:193 - Enriching [259/534]: Britannia Good day - Cashew Cookies
+2026-06-05 23:28:18.581 | INFO     | __main__:main:193 - Enriching [260/534]: Britannia Britannia Good day pistachio almond cookies
+2026-06-05 23:28:24.422 | INFO     | __main__:main:193 - Enriching [261/534]: Britannia Good Day - Pistachio & Almond Cookies
+2026-06-05 23:28:30.418 | INFO     | __main__:main:193 - Enriching [262/534]: Cadbury Oreo Cream Biscuit
+2026-06-05 23:28:37.964 | INFO     | __main__:main:193 - Enriching [263/534]: Cadbury Cricket Edition Oreo Original
+2026-06-05 23:28:43.822 | INFO     | __main__:main:193 - Enriching [264/534]: McVitie's Bolachas crocantes-maçã
+2026-06-05 23:28:49.631 | INFO     | __main__:main:193 - Enriching [265/534]: McVitie's Ginger Nuts Biscuits
+2026-06-05 23:28:55.523 | INFO     | __main__:main:193 - Enriching [266/534]: McVitie's Digestive Delicious Wheat Biscuits
+2026-06-05 23:29:01.454 | INFO     | __main__:main:193 - Enriching [267/534]: McVitie's Penguin
+2026-06-05 23:29:07.237 | INFO     | __main__:main:193 - Enriching [268/534]: McVitie's Digestive
+2026-06-05 23:29:13.148 | INFO     | __main__:main:193 - Enriching [269/534]: McVitie's sables anglais
+2026-06-05 23:29:20.313 | INFO     | __main__:main:193 - Enriching [270/534]: McVitie's Sablés angais l’original
+2026-06-05 23:29:27.383 | INFO     | __main__:main:193 - Enriching [271/534]: McVitie's Digestives the light one cookies
+2026-06-05 23:29:34.654 | INFO     | __main__:main:193 - Enriching [272/534]: McVitie's Hobnobs Oats Biscuit
+2026-06-05 23:29:40.534 | INFO     | __main__:main:193 - Enriching [273/534]: McVitie's Sable anglais
+2026-06-05 23:29:46.351 | INFO     | __main__:main:193 - Enriching [274/534]: McVitie's Toasting Waffles
+2026-06-05 23:29:52.175 | INFO     | __main__:main:193 - Enriching [275/534]: McVitie's Golden Oat
+2026-06-05 23:29:58.067 | INFO     | __main__:main:193 - Enriching [276/534]: McVitie's Digestive light
+2026-06-05 23:30:04.018 | INFO     | __main__:main:193 - Enriching [277/534]: belVita Soft Bakes Strawberry Filled
+2026-06-05 23:30:09.922 | INFO     | __main__:main:193 - Enriching [278/534]: Britannia Tiger glucose biscuits
+2026-06-05 23:30:15.786 | INFO     | __main__:main:193 - Enriching [279/534]: Britannia GLUCOSE HIGH ENERGY BISCUITS
+2026-06-05 23:30:21.716 | INFO     | __main__:main:193 - Enriching [280/534]: Belin Monaco - Biscuits crackers à l'emmental
+2026-06-05 23:30:27.563 | INFO     | __main__:main:193 - Enriching [281/534]: Nestlé Glace Vanille Bourbon
+2026-06-05 23:30:33.541 | INFO     | __main__:main:193 - Enriching [282/534]: La bergerie Yaourt à la grecque au lait de brebis sucré à la vanille bourbon
+2026-06-05 23:30:39.526 | INFO     | __main__:main:193 - Enriching [283/534]: Pâturages Iles flottantes 4x100g
+2026-06-05 23:30:45.351 | INFO     | __main__:main:193 - Enriching [284/534]: Britannia Marie gold
+2026-06-05 23:30:51.252 | INFO     | __main__:main:193 - Enriching [285/534]: Britannia Tea Time Biscuits
+2026-06-05 23:30:57.202 | INFO     | __main__:main:193 - Enriching [286/534]: Gold marie Maliban
+2026-06-05 23:31:02.963 | INFO     | __main__:main:193 - Enriching [287/534]: Britannia Vita Marie Gold Tea time biscuit
+2026-06-05 23:31:08.867 | INFO     | __main__:main:193 - Enriching [288/534]: Weingut Gold Ida Marie Brut
+2026-06-05 23:31:14.843 | INFO     | __main__:main:193 - Enriching [289/534]: Britannia Vitamin Marie Gold
+2026-06-05 23:31:20.679 | INFO     | __main__:main:193 - Enriching [290/534]: maliban gold marie 165g
+2026-06-05 23:31:26.482 | INFO     | __main__:main:193 - Enriching [291/534]: Maggi Saucy Noodles Teriyaki
+2026-06-05 23:31:32.215 | INFO     | __main__:main:193 - Enriching [292/534]: Maggi Teriyaki Noodles
+2026-06-05 23:31:38.070 | INFO     | __main__:main:193 - Enriching [293/534]: Maggi Saucy Noodles
+2026-06-05 23:31:43.925 | INFO     | __main__:main:193 - Enriching [294/534]: Maggi Fusian oriental noodles teriyaki
+2026-06-05 23:31:49.793 | INFO     | __main__:main:193 - Enriching [295/534]: Maggi Noodles chicken
+2026-06-05 23:31:55.693 | INFO     | __main__:main:193 - Enriching [296/534]: Maggi Pasta oriental sabor pollo
+2026-06-05 23:32:01.536 | INFO     | __main__:main:193 - Enriching [297/534]: Maggi Saucy Noodles Teriyaki Style
+2026-06-05 23:32:07.295 | INFO     | __main__:main:193 - Enriching [298/534]: Maggi Magic Asia Instant Noodle Cup Chili 63 gr
+2026-06-05 23:32:13.210 | INFO     | __main__:main:193 - Enriching [299/534]: Maggi Spaghetti Bolognese
+2026-06-05 23:32:19.061 | INFO     | __main__:main:193 - Enriching [300/534]: Maggi Beef noodles
+2026-06-05 23:32:24.945 | INFO     | __main__:main:193 - Enriching [301/534]: Maggi Noodles
+2026-06-05 23:32:33.572 | INFO     | __main__:main:193 - Enriching [302/534]: Maggi Noodle Cup Duck Taste with Black Pepper & Paprika
+2026-06-05 23:32:39.935 | INFO     | __main__:main:193 - Enriching [303/534]: Maggi Vegetable Noodles
+2026-06-05 23:32:45.755 | INFO     | __main__:main:193 - Enriching [304/534]: Maggi Saucy Noodles Pad Thai
+2026-06-05 23:32:51.999 | INFO     | __main__:main:193 - Enriching [305/534]: Maggi Chicken flavoured noodle soup
+2026-06-05 23:32:57.942 | INFO     | __main__:main:193 - Enriching [306/534]: Maggi Stir Fried Noodles Teriyaki
+2026-06-05 23:33:03.737 | INFO     | __main__:main:193 - Enriching [307/534]: Maggi Maggi
+2026-06-05 23:33:09.689 | INFO     | __main__:main:193 - Enriching [308/534]: Maggi STIR-FRIED NOODLES TASTE OF DUCK
+2026-06-05 23:33:15.630 | INFO     | __main__:main:193 - Enriching [309/534]: Maggi Saucy Noodles - Sweet Chilli
+2026-06-05 23:33:21.503 | INFO     | __main__:main:193 - Enriching [310/534]: Maggi Durban Curry Flavoured 2 Minute Noodles
+2026-06-05 23:33:27.431 | INFO     | __main__:main:193 - Enriching [311/534]: Maggi maggi chicken noodles
+2026-06-05 23:33:33.446 | INFO     | __main__:main:193 - Enriching [312/534]: Maggi Hochzeitssuppe
+2026-06-05 23:33:39.275 | INFO     | __main__:main:193 - Enriching [313/534]: Maggi Magic Asia Nudel Snack Ente
+2026-06-05 23:33:45.079 | INFO     | __main__:main:193 - Enriching [314/534]: Maggi Nouilles asiatiques Maggi Mi Goreng soy and mild spice
+2026-06-05 23:33:51.131 | INFO     | __main__:main:193 - Enriching [315/534]: Maggi Makkaroni Lasagne
+2026-06-05 23:33:57.063 | INFO     | __main__:main:193 - Enriching [316/534]: Nissin Top Ramen Chicken Flavor
+2026-06-05 23:34:02.962 | INFO     | __main__:main:193 - Enriching [317/534]: Nissin Top Ramen Masala Noodles
+2026-06-05 23:34:08.817 | INFO     | __main__:main:193 - Enriching [318/534]: Nissin Top Ramen - Soy Sauce Flavor
+2026-06-05 23:34:14.688 | INFO     | __main__:main:193 - Enriching [319/534]: Nissin Top ramen hot and spicy beef flavor same picante
+2026-06-05 23:34:20.694 | INFO     | __main__:main:193 - Enriching [320/534]: Nissin Top ramen the original soy sauce ramen noodle soup
+2026-06-05 23:34:26.599 | INFO     | __main__:main:193 - Enriching [321/534]: Nissin Top Ramen shrimp noodle soup
+2026-06-05 23:34:32.486 | INFO     | __main__:main:193 - Enriching [322/534]: Top Ramen Shrimp Ramen Noodle Soup
+2026-06-05 23:34:38.493 | INFO     | __main__:main:193 - Enriching [323/534]: Nissin Top Ramen 48 pack, chicken flavor ramen noodle soup
+2026-06-05 23:34:44.362 | INFO     | __main__:main:193 - Enriching [324/534]: Nissin Top Ramen chilli
+2026-06-05 23:34:50.216 | INFO     | __main__:main:193 - Enriching [325/534]: The Original Nissin Top Ramen -  Chicken
+2026-06-05 23:34:56.695 | INFO     | __main__:main:193 - Enriching [326/534]: Nissin Nissin Top Ramen Chili flavor
+2026-06-05 23:35:02.474 | INFO     | __main__:main:193 - Enriching [327/534]: Top Ramen Hot Pot Fusions Korean Spicy Beef Flavor Ramen Noodle Soup
+2026-06-05 23:35:08.321 | INFO     | __main__:main:193 - Enriching [328/534]: Top Ramen Japanese Garlic Tonkotsu Pork
+2026-06-05 23:35:14.158 | INFO     | __main__:main:193 - Enriching [329/534]: Top Ramen Thai Coconut Curry Chicken Flavor Ramen Noodle Soup
+2026-06-05 23:35:20.135 | INFO     | __main__:main:193 - Enriching [330/534]: Top Ramen Beef Flavor Ramen Noodle Soup With Japanese Sauce
+2026-06-05 23:35:26.047 | INFO     | __main__:main:193 - Enriching [331/534]: Top Ramen Japanese BBQ Beef Soup
+2026-06-05 23:35:31.876 | INFO     | __main__:main:193 - Enriching [332/534]: Top Valu Cut Vegetables For Ramen Noodles
+2026-06-05 23:35:37.788 | INFO     | __main__:main:193 - Enriching [333/534]: Yippee Magic Masala Noodles
+2026-06-05 23:35:43.786 | INFO     | __main__:main:193 - Enriching [334/534]: Sunfeast Yippee Noodles
+2026-06-05 23:35:49.708 | INFO     | __main__:main:193 - Enriching [335/534]: Sunfeast Yippee noodles (snack pack)
+2026-06-05 23:35:55.648 | INFO     | __main__:main:193 - Enriching [336/534]: Sunfeast Sunfeast Yippee! masala magic
+2026-06-05 23:36:01.575 | INFO     | __main__:main:193 - Enriching [337/534]: Sunfeast sunfeast yippee
+2026-06-05 23:36:07.499 | INFO     | __main__:main:193 - Enriching [338/534]: Yippee Noodles
+2026-06-05 23:36:13.371 | INFO     | __main__:main:193 - Enriching [339/534]: Yippee Atta Noodles
+2026-06-05 23:36:19.398 | INFO     | __main__:main:193 - Enriching [340/534]: ITC Sunfeast Yippee Noodles
+2026-06-05 23:36:25.268 | INFO     | __main__:main:193 - Enriching [341/534]: Sunfeast Sunfeast Yippee noodles
+2026-06-05 23:36:31.317 | INFO     | __main__:main:193 - Enriching [342/534]: Sunfeast Yippee magic masala noodles four in one pack
+2026-06-05 23:36:37.143 | INFO     | __main__:main:193 - Enriching [343/534]: Sunfeast Yippee Noodles Magic Masala
+2026-06-05 23:36:43.109 | INFO     | __main__:main:193 - Enriching [344/534]: Sunfeast Yippee noodles magic masala goat
+2026-06-05 23:36:50.193 | INFO     | __main__:main:193 - Enriching [345/534]: Knorr Les classiques - Velouté de 9 légumes
+2026-06-05 23:36:56.040 | INFO     | __main__:main:193 - Enriching [346/534]: Knorr Knorr Soupe Liquide Douceur à l'Italienne Tomates Mozzarella 1L
+2026-06-05 23:37:01.948 | INFO     | __main__:main:193 - Enriching [347/534]: Knorr Knorr Soupe Liquide Douceur de 8 Légumes à la Crème Fraîche 30cl
+2026-06-05 23:37:07.626 | INFO     | __main__:main:193 - Enriching [348/534]: Knorr Soupe Douceur 8 Légumes à la Crème Fraîche
+2026-06-05 23:37:13.415 | INFO     | __main__:main:193 - Enriching [349/534]: Knorr Velouté Patate Douce & Chèvre et Miel
+2026-06-05 23:37:19.303 | INFO     | __main__:main:193 - Enriching [350/534]: Knorr Knorr Soupe Déshydratée Paysanne Légumes & Lard 4 Portions
+2026-06-05 23:37:25.008 | INFO     | __main__:main:193 - Enriching [351/534]: Knorr intense rich beef
+2026-06-05 23:37:30.823 | INFO     | __main__:main:193 - Enriching [352/534]: Knorr Knorr Soupe Liquide Légumes du Pot-au-Feu 1L
+2026-06-05 23:37:36.567 | INFO     | __main__:main:193 - Enriching [353/534]: Knorr Beef stock pot
+2026-06-05 23:37:42.134 | INFO     | __main__:main:193 - Enriching [354/534]: Knorr Knorr Soupe Déshydratée Tomates aux Vermicelles 4 Portions
+2026-06-05 23:37:47.806 | INFO     | __main__:main:193 - Enriching [355/534]: Knorr Nudle ser w ziołach
+2026-06-05 23:37:53.653 | INFO     | __main__:main:193 - Enriching [356/534]: Knorr Crema vichyssoise puerro y patata envase 500 ml
+2026-06-05 23:37:59.468 | INFO     | __main__:main:193 - Enriching [357/534]: Knorr Velouté Potiron & Fourme d'Ambert AOP
+2026-06-05 23:38:06.100 | INFO     | __main__:main:193 - Enriching [358/534]: Knorr Knorr Comme à La Maison Soupe Liquide Courgette Ricotta Parmesan 45cl
+2026-06-05 23:38:11.953 | INFO     | __main__:main:193 - Enriching [359/534]: Knorr Cheese Soup
+2026-06-05 23:38:17.757 | INFO     | __main__:main:193 - Enriching [360/534]: Knorr Knorr Soupe Liquide Douceur de Légumes du Soleil 1L
+2026-06-05 23:38:23.691 | INFO     | __main__:main:193 - Enriching [361/534]: Knorr Zuppa di fagioli
+2026-06-05 23:38:29.583 | INFO     | __main__:main:193 - Enriching [362/534]: Knorr Suppenliebe Frühlingssuppe mit Gemüse
+2026-06-05 23:38:35.279 | INFO     | __main__:main:193 - Enriching [363/534]: Knorr Douceur italienne
+2026-06-05 23:38:41.348 | INFO     | __main__:main:193 - Enriching [364/534]: Knorr Oinion soup
+2026-06-05 23:38:47.198 | INFO     | __main__:main:193 - Enriching [365/534]: Knorr Quick soup mushroom
+2026-06-05 23:38:52.901 | INFO     | __main__:main:193 - Enriching [366/534]: Knorr Soldatens Ärtsoppa
+2026-06-05 23:38:58.558 | INFO     | __main__:main:193 - Enriching [367/534]: Knorr Zupa Borowikowa z grzankami
+2026-06-05 23:39:04.474 | INFO     | __main__:main:193 - Enriching [368/534]: Ching's Secret Chilli Chicken Masala Mix
+2026-06-05 23:39:10.514 | INFO     | __main__:main:193 - Enriching [369/534]: Sunfeast Yippee
+2026-06-05 23:39:16.161 | INFO     | __main__:main:193 - Enriching [370/534]: Sunfeast Yippee Magic Masala
+2026-06-05 23:39:22.070 | INFO     | __main__:main:193 - Enriching [371/534]: Sunfeast Yippee Creamy Corn Pasta
+2026-06-05 23:39:27.998 | INFO     | __main__:main:193 - Enriching [372/534]: Sunfeast Sunfeast yippee 70g
+2026-06-05 23:39:33.765 | INFO     | __main__:main:193 - Enriching [373/534]: Sunfeast Sunfeast yippee 280g
+2026-06-05 23:39:39.441 | INFO     | __main__:main:193 - Enriching [374/534]: Sunfeast yippee!
+2026-06-05 23:39:45.181 | INFO     | __main__:main:193 - Enriching [375/534]: Sunfeast Yippee tricolour pasta
+2026-06-05 23:39:51.002 | INFO     | __main__:main:193 - Enriching [376/534]: Tata Tea Tata Tea Premium
+2026-06-05 23:39:56.946 | INFO     | __main__:main:193 - Enriching [377/534]: Knightsbridge Red Label Tea Bags
+2026-06-05 23:40:02.921 | INFO     | __main__:main:193 - Enriching [378/534]: Brooke Bond Red label
+2026-06-05 23:40:08.851 | INFO     | __main__:main:193 - Enriching [379/534]: Red Label Loose Leaf Black Tea
+2026-06-05 23:40:14.922 | INFO     | __main__:main:193 - Enriching [380/534]: nhte tea red label
+2026-06-05 23:40:20.867 | INFO     | __main__:main:193 - Enriching [381/534]: Red Label Loose black tea
+2026-06-05 23:40:26.604 | INFO     | __main__:main:193 - Enriching [382/534]: Brooke Bond Red Label Loose Leaf Black Tea
+2026-06-05 23:40:32.323 | INFO     | __main__:main:193 - Enriching [383/534]: Brooke Bond Brooke Blond réd label tea powder
+2026-06-05 23:40:38.160 | INFO     | __main__:main:193 - Enriching [384/534]: Unilever India Exports Limited Brooke Bond, Red Label Tea
+2026-06-05 23:40:43.962 | INFO     | __main__:main:193 - Enriching [385/534]: Brooke Bond Red Label LOOSE BLACK TEA
+2026-06-05 23:40:49.904 | INFO     | __main__:main:193 - Enriching [386/534]: Wagh Bakri Wagh Bakari
+2026-06-05 23:40:55.801 | INFO     | __main__:main:193 - Enriching [387/534]: Wagh Bakri Instant Masala Tea (Unsweetened)
+2026-06-05 23:41:01.513 | INFO     | __main__:main:193 - Enriching [388/534]: Wagh Bakri Black Tea
+2026-06-05 23:41:07.421 | INFO     | __main__:main:193 - Enriching [389/534]: Wagh Bakri premium black tea
+2026-06-05 23:41:13.393 | INFO     | __main__:main:193 - Enriching [390/534]: Wagh Bakri Masala Chai Tea Bags
+2026-06-05 23:41:19.284 | INFO     | __main__:main:193 - Enriching [391/534]: Wagh Bakri Instant Cardamom Tea
+2026-06-05 23:41:25.224 | INFO     | __main__:main:193 - Enriching [392/534]: Wagh Bakri Instant Ginger Tea
+2026-06-05 23:41:31.115 | INFO     | __main__:main:193 - Enriching [393/534]: Wagh Bakri Instant tea combo pack
+2026-06-05 23:41:36.916 | INFO     | __main__:main:193 - Enriching [394/534]: Wagh Bakri Instant Sugar-free Elaichi Tea
+2026-06-05 23:41:42.837 | INFO     | __main__:main:193 - Enriching [395/534]: Wagh Bakri Instant Saffron Tea
+2026-06-05 23:41:48.789 | INFO     | __main__:main:193 - Enriching [396/534]: Lipton Lipton Peche ice tea
+2026-06-05 23:41:54.709 | INFO     | __main__:main:193 - Enriching [397/534]: Lipton lipton yellow label tea x25
+2026-06-05 23:42:00.620 | INFO     | __main__:main:193 - Enriching [398/534]: Lipton Thé vert classique
+2026-06-05 23:42:06.518 | INFO     | __main__:main:193 - Enriching [399/534]: Lipton Thé vert myrtille et mûre x 20 sachets
+2026-06-05 23:42:12.452 | INFO     | __main__:main:193 - Enriching [400/534]: Lipton lipton-ice-tea
+2026-06-05 23:42:19.709 | INFO     | __main__:main:193 - Enriching [401/534]: Lipton Lipton Ice Tea saveur framboise
+2026-06-05 23:42:25.565 | INFO     | __main__:main:193 - Enriching [402/534]: Lipton Green tea
+2026-06-05 23:42:31.463 | INFO     | __main__:main:193 - Enriching [403/534]: Lipton Thé vert Menthe
+2026-06-05 23:42:37.185 | INFO     | __main__:main:193 - Enriching [404/534]: Lipton Thé glacé pêche pétillant
+2026-06-05 23:42:43.040 | INFO     | __main__:main:193 - Enriching [405/534]: Lipton Lipton Ice Tea saveur pêche 25 cl
+2026-06-05 23:42:48.894 | INFO     | __main__:main:193 - Enriching [406/534]: Lipton Duo saveur pêche abricot
+2026-06-05 23:42:54.673 | INFO     | __main__:main:193 - Enriching [407/534]: Lipton Hibiscus saveur framboise facon infusion glacee
+2026-06-05 23:43:00.492 | INFO     | __main__:main:193 - Enriching [408/534]: Lipton LIPTON TEA YELLOW
+2026-06-05 23:43:06.406 | INFO     | __main__:main:193 - Enriching [409/534]: Lipton Lipton Forest fruits
+2026-06-05 23:43:12.228 | INFO     | __main__:main:193 - Enriching [410/534]: Lipton Thé  noir earl grey bergamote
+2026-06-05 23:43:19.476 | INFO     | __main__:main:193 - Enriching [411/534]: Lipton Green iced tea
+2026-06-05 23:43:25.387 | INFO     | __main__:main:193 - Enriching [412/534]: Lipton Ice Tea Pêssego
+2026-06-05 23:43:31.319 | INFO     | __main__:main:193 - Enriching [413/534]: Nescafe Nescafe classic
+2026-06-05 23:43:37.178 | INFO     | __main__:main:193 - Enriching [414/534]: Nescafe NESCAFE 3 in 1 Classic
+2026-06-05 23:43:43.355 | INFO     | __main__:main:193 - Enriching [415/534]: Nestlé Nescafe classic
+2026-06-05 23:43:49.233 | INFO     | __main__:main:193 - Enriching [416/534]: Nestlé Nescafe classic natural
+2026-06-05 23:43:55.068 | INFO     | __main__:main:193 - Enriching [417/534]: Nestlé Classic crema
+2026-06-05 23:44:00.985 | INFO     | __main__:main:193 - Enriching [418/534]: Nescafe Натуральный растворимый порошкообразный кофе NESCAFÉ® CLASSIC CREMA
+2026-06-05 23:44:06.905 | INFO     | __main__:main:193 - Enriching [419/534]: Nescafe NESCAFE CLASSIC 100G TIN EXP 10 / 18 (GR)
+2026-06-05 23:44:14.372 | INFO     | __main__:main:193 - Enriching [420/534]: Nescafe Nescafé Classic Classic Mild Instantkaffee
+2026-06-05 23:44:21.688 | INFO     | __main__:main:193 - Enriching [421/534]: Nescafe Classic café soluble natural
+2026-06-05 23:44:27.528 | INFO     | __main__:main:193 - Enriching [422/534]: Nestlé Nescafe Classic coffee
+2026-06-05 23:44:33.407 | INFO     | __main__:main:193 - Enriching [423/534]: Nescafe Nescafe Classic Instant Coffee 100g Glass
+2026-06-05 23:44:39.251 | INFO     | __main__:main:193 - Enriching [424/534]: Nescafe Nescafi
+2026-06-05 23:44:45.073 | INFO     | __main__:main:193 - Enriching [425/534]: Nescafe Coffee Classic
+2026-06-05 23:44:52.481 | INFO     | __main__:main:193 - Enriching [426/534]: Nescafe Nescafé Clásico
+2026-06-05 23:44:58.160 | INFO     | __main__:main:193 - Enriching [427/534]: Nescafe Kaffee - Classic Kräftig - löslicher Kaffee
+2026-06-05 23:45:04.005 | INFO     | __main__:main:193 - Enriching [428/534]: Nescafe Кофе Crema
+2026-06-05 23:45:09.848 | INFO     | __main__:main:193 - Enriching [429/534]: Nescafe Nescafe classic 200g
+2026-06-05 23:45:15.695 | INFO     | __main__:main:193 - Enriching [430/534]: Bru Bru gold
+2026-06-05 23:45:22.064 | INFO     | __main__:main:193 - Enriching [431/534]: Bru Bru Coffee 3rs Sachet
+2026-06-05 23:45:28.052 | INFO     | __main__:main:193 - Enriching [432/534]: Fssai BRU GOLD Edition
+2026-06-05 23:45:34.417 | INFO     | __main__:main:193 - Enriching [433/534]: Continental Continental Xtra Coffee Powder
+2026-06-05 23:45:40.394 | INFO     | __main__:main:193 - Enriching [434/534]: Continental Cappuccino
+2026-06-05 23:45:47.627 | INFO     | __main__:main:193 - Enriching [435/534]: Continental Continental Malgudi Coffee  53'
+2026-06-05 23:45:55.128 | INFO     | __main__:main:193 - Enriching [436/534]: Horlicks Horlicks classic Malt 500g
+2026-06-05 23:46:01.134 | INFO     | __main__:main:193 - Enriching [437/534]: Horlicks Horlicks Classic Malt
+2026-06-05 23:46:06.916 | INFO     | __main__:main:193 - Enriching [438/534]: Horlics Horlicks Classic Malt
+2026-06-05 23:46:12.655 | INFO     | __main__:main:193 - Enriching [439/534]: Hindustan Unilever Ltd Horlicks Classic Malt 500g Cbd
+2026-06-05 23:46:18.495 | INFO     | __main__:main:193 - Enriching [440/534]: Cadbury BournVita
+2026-06-05 23:46:24.323 | INFO     | __main__:main:193 - Enriching [441/534]: Cadbury Bournvita 1kg pet
+2026-06-05 23:46:30.252 | INFO     | __main__:main:193 - Enriching [442/534]: Cadbury Bournvita Biscuits 250
+2026-06-05 23:46:36.323 | INFO     | __main__:main:193 - Enriching [443/534]: Cadbury Bournvita 500G
+2026-06-05 23:46:43.715 | INFO     | __main__:main:193 - Enriching [444/534]: Cadbury Cadbury Bournvita Original Refill,500G
+2026-06-05 23:46:49.583 | INFO     | __main__:main:193 - Enriching [445/534]: Complan Complan
+2026-06-05 23:46:55.517 | INFO     | __main__:main:193 - Enriching [446/534]: Complan Strawberry
+2026-06-05 23:47:01.291 | INFO     | __main__:main:193 - Enriching [447/534]: Abbott PediaSure sabor vainilla
+2026-06-05 23:47:07.101 | INFO     | __main__:main:193 - Enriching [448/534]: PediaSure Vanilla Shake
+2026-06-05 23:47:12.839 | INFO     | __main__:main:193 - Enriching [449/534]: PediaSure Pediasure chocolate
+2026-06-05 23:47:18.859 | INFO     | __main__:main:193 - Enriching [450/534]: Abbott Pediasure
+2026-06-05 23:47:24.869 | INFO     | __main__:main:193 - Enriching [451/534]: Abbott PediaSure Complete
+2026-06-05 23:47:30.695 | INFO     | __main__:main:193 - Enriching [452/534]: PediaSure Grow & Gain
+2026-06-05 23:47:36.610 | INFO     | __main__:main:193 - Enriching [453/534]: PediaSure Pediasure sabor vainilla
+2026-06-05 23:47:42.429 | INFO     | __main__:main:193 - Enriching [454/534]: Abbott Pediasure drink
+2026-06-05 23:47:48.295 | INFO     | __main__:main:193 - Enriching [455/534]: PediaSure Pediasure drink
+2026-06-05 23:47:54.498 | INFO     | __main__:main:193 - Enriching [456/534]: Abbott Pediasure Vainilla Polvo 850G
+2026-06-05 23:48:00.444 | INFO     | __main__:main:193 - Enriching [457/534]: Abbott Pediasure fiber vainilla
+2026-06-05 23:48:06.279 | INFO     | __main__:main:193 - Enriching [458/534]: PediaSure Fibre Feed
+2026-06-05 23:48:12.153 | INFO     | __main__:main:193 - Enriching [459/534]: abott pediasure
+2026-06-05 23:48:17.907 | INFO     | __main__:main:193 - Enriching [460/534]: Abbott Pediasure Grow & Gane
+2026-06-05 23:48:23.825 | INFO     | __main__:main:193 - Enriching [461/534]: PediaSure Fórmula para alimentación Pediasure enteral especializada sabor chocolate
+2026-06-05 23:48:29.615 | INFO     | __main__:main:193 - Enriching [462/534]: Abbott PediaSure Grow&Gain
+2026-06-05 23:48:35.366 | INFO     | __main__:main:193 - Enriching [463/534]: Abbott Pediasure Harvest
+2026-06-05 23:48:41.270 | INFO     | __main__:main:193 - Enriching [464/534]: Abbott PediaSure Strawberry
+2026-06-05 23:48:47.113 | INFO     | __main__:main:193 - Enriching [465/534]: Abbott PediaSure sabor chocolate
+2026-06-05 23:48:53.193 | INFO     | __main__:main:193 - Enriching [466/534]: Abbott Pediasure Grow and Gain
+2026-06-05 23:48:59.001 | INFO     | __main__:main:193 - Enriching [467/534]: Protinex Protinex Vanilla flavor
+2026-06-05 23:49:04.994 | INFO     | __main__:main:193 - Enriching [468/534]: Protinex Protinex
+2026-06-05 23:49:11.728 | INFO     | __main__:main:193 - Enriching [469/534]: Protinex Protinex Chocolate Flavour
+2026-06-05 23:49:17.554 | INFO     | __main__:main:193 - Enriching [470/534]: Nutrica Protinex Chocolate Flavour
+2026-06-05 23:49:23.576 | INFO     | __main__:main:193 - Enriching [471/534]: Cadbury Milk Chocolate Biscuits
+2026-06-05 23:49:31.094 | INFO     | __main__:main:193 - Enriching [472/534]: Cadbury DAIRY MILK buttons
+2026-06-05 23:49:36.965 | INFO     | __main__:main:193 - Enriching [473/534]: Cadbury Cadbury dairy milk Freddo easter egg
+2026-06-05 23:49:43.053 | INFO     | __main__:main:193 - Enriching [474/534]: Cadbury Dairy Milk Chocolate Advent Calendar
+2026-06-05 23:49:48.927 | INFO     | __main__:main:193 - Enriching [475/534]: Cadbury Dairy Milk crunchie bits
+2026-06-05 23:49:54.851 | INFO     | __main__:main:193 - Enriching [476/534]: Cadbury Cadbury dairy milk chocolate bar wholenut
+2026-06-05 23:50:00.964 | INFO     | __main__:main:193 - Enriching [477/534]: Cadbury Dairy milk original
+2026-06-05 23:50:07.019 | INFO     | __main__:main:193 - Enriching [478/534]: Cadbury Cream egg Easter egg
+2026-06-05 23:50:12.856 | INFO     | __main__:main:193 - Enriching [479/534]: munchy's captain munch
+2026-06-05 23:50:18.662 | INFO     | __main__:main:193 - Enriching [480/534]: Parle Melody Chocolate
+2026-06-05 23:50:24.602 | INFO     | __main__:main:193 - Enriching [481/534]: Specially Selected Mini Éclairs Dessert Pastry
+2026-06-05 23:50:30.460 | INFO     | __main__:main:193 - Enriching [482/534]: Eclair Delicatesse
+2026-06-05 23:50:36.264 | INFO     | __main__:main:193 - Enriching [483/534]: Maggi Maggi chilli sauce 500g
+2026-06-05 23:50:42.291 | INFO     | __main__:main:193 - Enriching [484/534]: Kissan Chilli Tomato Sauce
+2026-06-05 23:50:48.073 | INFO     | __main__:main:193 - Enriching [485/534]: Kissan kissan fresh tomato
+2026-06-05 23:50:53.916 | INFO     | __main__:main:193 - Enriching [486/534]: Kissan Tomato Ketchup Kissan
+2026-06-05 23:51:01.068 | INFO     | __main__:main:193 - Enriching [487/534]: Weikfield Drinking Chocolate
+2026-06-05 23:51:06.901 | INFO     | __main__:main:193 - Enriching [488/534]: Weikfield Red Chilli Sauce
+2026-06-05 23:51:12.798 | INFO     | __main__:main:193 - Enriching [489/534]: Weikfield mango jelly
+2026-06-05 23:51:18.672 | INFO     | __main__:main:193 - Enriching [490/534]: Weikfield Cornflower
+2026-06-05 23:51:24.591 | INFO     | __main__:main:193 - Enriching [491/534]: Weikfield Peri peri sauce
+2026-06-05 23:51:30.419 | INFO     | __main__:main:193 - Enriching [492/534]: Weikfield Green Chilli Sauce
+2026-06-05 23:51:36.226 | INFO     | __main__:main:193 - Enriching [493/534]: Weikfield Corn Flour
+2026-06-05 23:51:42.165 | INFO     | __main__:main:193 - Enriching [494/534]: Kraft Heinz omogenizzati manzo nipiol
+2026-06-05 23:51:48.059 | INFO     | __main__:main:193 - Enriching [495/534]: Heinz Caldo de Pera Pear Baby Food
+2026-06-05 23:51:53.956 | INFO     | __main__:main:193 - Enriching [496/534]: Kraft Heinz Nipiol Vitello
+2026-06-05 23:51:59.840 | INFO     | __main__:main:193 - Enriching [497/534]: Heinz Heinz bb food lamb pumpkin 170g
+2026-06-05 23:52:05.886 | INFO     | __main__:main:193 - Enriching [498/534]: Heinz Rusks original
+2026-06-05 23:52:11.747 | INFO     | __main__:main:193 - Enriching [499/534]: Heinz HNZ VAN CUSTARD 120GM
+2026-06-05 23:52:17.616 | INFO     | __main__:main:193 - Enriching [500/534]: Kraft Heinz Plasmon - Biscottino Biberon (450 GR)
+2026-06-05 23:52:23.387 | INFO     | __main__:main:193 - Enriching [501/534]: Heinz Little kids
+2026-06-05 23:52:29.190 | INFO     | __main__:main:193 - Enriching [502/534]: Heinz Mango & Vanilla Custard
+2026-06-05 23:52:35.073 | INFO     | __main__:main:193 - Enriching [503/534]: Heinz Hnz Straw &van custard 120g
+2026-06-05 23:52:40.929 | INFO     | __main__:main:193 - Enriching [504/534]: Kraft Heinz Coniglio omogeneizzato
+2026-06-05 23:52:46.833 | INFO     | __main__:main:193 - Enriching [505/534]: Heinz Baby food
+2026-06-05 23:52:52.718 | INFO     | __main__:main:193 - Enriching [506/534]: Heinz Baby food banana
+2026-06-05 23:52:58.647 | INFO     | __main__:main:193 - Enriching [507/534]: Heinz Chicken, sweet corn & mango
+2026-06-05 23:53:04.543 | INFO     | __main__:main:193 - Enriching [508/534]: Kraft Heinz Biscotto
+2026-06-05 23:53:10.494 | INFO     | __main__:main:193 - Enriching [509/534]: Heinz smoothie pear betty & oat
+2026-06-05 23:53:16.423 | INFO     | __main__:main:193 - Enriching [510/534]: Heinz Pumpkin potato and beef baby food
+2026-06-05 23:53:22.283 | INFO     | __main__:main:193 - Enriching [511/534]: Heinz heinz tropical baby food
+2026-06-05 23:53:28.193 | INFO     | __main__:main:193 - Enriching [512/534]: Heinz Hnz app/bry/pass 120g
+2026-06-05 23:53:34.395 | INFO     | __main__:main:193 - Enriching [513/534]: Heinz Heinz bb food Beef  Vegetable 170g
+2026-06-05 23:53:40.212 | INFO     | __main__:main:193 - Enriching [514/534]: Heinz Heinz creamed porridge imp
+2026-06-05 23:53:46.117 | INFO     | __main__:main:193 - Enriching [515/534]: Heinz Heinz carrot potato baby food imp
+2026-06-05 23:53:51.906 | INFO     | __main__:main:193 - Enriching [516/534]: Heinz Heinz baby food Tropical Fruits
+2026-06-05 23:53:59.051 | INFO     | __main__:main:193 - Enriching [517/534]: Heinz Theething rusks
+2026-06-05 23:54:04.973 | INFO     | __main__:main:193 - Enriching [518/534]: Heinz Hnz Smth ban&oat ygt 120g
+2026-06-05 23:54:10.943 | INFO     | __main__:main:193 - Enriching [519/534]: Heinz Pear and BlackBerry Custard
+2026-06-05 23:54:16.849 | INFO     | __main__:main:193 - Enriching [520/534]: Kraft Heinz Formaggino fuso omogeneizzato
+2026-06-05 23:54:22.591 | INFO     | __main__:main:193 - Enriching [521/534]: Kraft Heinz Pollo Plasmon
+2026-06-05 23:54:28.410 | INFO     | __main__:main:193 - Enriching [522/534]: Heinz HNZ bb food  APPLE 110g
+2026-06-05 23:54:34.056 | INFO     | __main__:main:193 - Enriching [523/534]: Heinz Heinz For Baby - Beef Bolognese & Vegetables
+2026-06-05 23:54:39.877 | INFO     | __main__:main:193 - Enriching [524/534]: Kraft Heinz Omogeneizzati di pollo
+2026-06-05 23:54:45.894 | INFO     | __main__:main:193 - Enriching [525/534]: Kraft Heinz La pastina
+2026-06-05 23:54:52.227 | INFO     | __main__:main:193 - Enriching [526/534]: Kraft Heinz omogenizzati frutta mista nipiol
+2026-06-05 23:54:58.654 | INFO     | __main__:main:193 - Enriching [527/534]: Kraft Heinz Omogenizzati frutta
+2026-06-05 23:55:04.466 | INFO     | __main__:main:193 - Enriching [528/534]: Kraft Heinz Omogeneizzato agnello
+2026-06-05 23:55:10.246 | INFO     | __main__:main:193 - Enriching [529/534]: Heinz pear baby food
+2026-06-05 23:55:17.300 | INFO     | __main__:main:193 - Enriching [530/534]: Heinz Guava Baby Food
+2026-06-05 23:55:24.461 | INFO     | __main__:main:193 - Enriching [531/534]: Tata TATA Salt
+2026-06-05 23:55:30.433 | INFO     | __main__:main:193 - Enriching [532/534]: Tata salt
+2026-06-05 23:55:36.317 | INFO     | __main__:main:193 - Enriching [533/534]: The tasty catch Poisson salt et pepper
+2026-06-05 23:55:42.248 | INFO     | __main__:main:319 - Nutrition coverage: 626 -> 626 (71.6%)
+2026-06-05 23:55:42.248 | INFO     | __main__:main:320 - Ingredients coverage: 340 -> 340 (38.9%)

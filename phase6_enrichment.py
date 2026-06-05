@@ -166,6 +166,19 @@ def main():
     logger.info(f"Total products: {len(products)}")
     logger.info(f"Targeting {len(targets)} products missing metadata")
     
+    success_rows = []
+    failure_rows = []
+    
+    # Check if progress file exists to resume tracking counts
+    progress_file = REPORTS_DIR / "enrichment_progress.json"
+    if progress_file.exists():
+        try:
+            prev_prog = json.loads(progress_file.read_text(encoding="utf-8"))
+            nut_before = prev_prog.get("products_missing_nutrition_before", nut_before)
+            ing_before = prev_prog.get("products_missing_ingredients_before", ing_before)
+        except Exception:
+            pass
+            
     processed = 0
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
@@ -179,32 +192,75 @@ def main():
             
             logger.info(f"Enriching [{processed}/{len(targets)}]: {query}")
             
+            nut_added = False
+            ing_added = False
+            source_used = []
+            
+            was_nut_missing = _is_empty(p.get("nutrition"))
+            was_ing_missing = _is_empty(p.get("ingredients"))
+            
             # BigBasket
             bb = scrape_bigbasket_metadata(query, page)
-            if bb.get("ingredients") and _is_empty(p.get("ingredients")): p["ingredients"] = bb["ingredients"]
-            if bb.get("nutrition") and _is_empty(p.get("nutrition")): p["nutrition"] = bb["nutrition"]
-            if bb.get("description") and _is_empty(p.get("description")): p["description"] = bb["description"]
+            if bb.get("ingredients") and _is_empty(p.get("ingredients")): 
+                p["ingredients"] = bb["ingredients"]
+                ing_added = True
+                source_used.append("BigBasket")
+            if bb.get("nutrition") and _is_empty(p.get("nutrition")): 
+                p["nutrition"] = bb["nutrition"]
+                nut_added = True
+                source_used.append("BigBasket")
+            if bb.get("description") and _is_empty(p.get("description")): 
+                p["description"] = bb["description"]
             
             # Blinkit
             if _is_empty(p.get("ingredients")) or _is_empty(p.get("nutrition")):
                 bl = scrape_blinkit_metadata(query, page)
-                if bl.get("ingredients") and _is_empty(p.get("ingredients")): p["ingredients"] = bl["ingredients"]
-                if bl.get("nutrition") and _is_empty(p.get("nutrition")): p["nutrition"] = bl["nutrition"]
+                if bl.get("ingredients") and _is_empty(p.get("ingredients")): 
+                    p["ingredients"] = bl["ingredients"]
+                    ing_added = True
+                    if "Blinkit" not in source_used: source_used.append("Blinkit")
+                if bl.get("nutrition") and _is_empty(p.get("nutrition")): 
+                    p["nutrition"] = bl["nutrition"]
+                    nut_added = True
+                    if "Blinkit" not in source_used: source_used.append("Blinkit")
 
             # Amazon
             if _is_empty(p.get("ingredients")):
                 am = scrape_amazon_metadata(query)
-                if am.get("ingredients"): p["ingredients"] = am["ingredients"]
+                if am.get("ingredients"): 
+                    p["ingredients"] = am["ingredients"]
+                    ing_added = True
+                    if "Amazon" not in source_used: source_used.append("Amazon")
                 
             # OCR Fallback
             if _is_empty(p.get("ingredients")) or _is_empty(p.get("nutrition")):
-                # Find image directory
                 folder = re.sub(r"_+", "_", "_".join([re.sub(r"[^a-zA-Z0-9]", "_", x) for x in [brand, name, p.get("weight","")] if x]))[:100].strip("_")
                 img_dir = DATASET_DIR / "products" / folder / "images"
                 if img_dir.exists():
                     ocr_data = get_ocr_metadata(img_dir)
-                    if ocr_data.get("ingredients") and _is_empty(p.get("ingredients")): p["ingredients"] = ocr_data["ingredients"]
-                    if ocr_data.get("nutrition") and _is_empty(p.get("nutrition")): p["nutrition"] = ocr_data["nutrition"]
+                    if ocr_data.get("ingredients") and _is_empty(p.get("ingredients")): 
+                        p["ingredients"] = ocr_data["ingredients"]
+                        ing_added = True
+                        if "OCR" not in source_used: source_used.append("OCR")
+                    if ocr_data.get("nutrition") and _is_empty(p.get("nutrition")): 
+                        p["nutrition"] = ocr_data["nutrition"]
+                        nut_added = True
+                        if "OCR" not in source_used: source_used.append("OCR")
+
+            # Tracking
+            if nut_added or ing_added:
+                success_rows.append([name, brand, "Yes" if nut_added else "No", "Yes" if ing_added else "No", ", ".join(source_used)])
+            
+            still_missing_nut = _is_empty(p.get("nutrition"))
+            still_missing_ing = _is_empty(p.get("ingredients"))
+            
+            if still_missing_nut or still_missing_ing:
+                failure_rows.append([
+                    name, brand, 
+                    "Yes" if still_missing_nut and was_nut_missing else "No",
+                    "Yes" if still_missing_ing and was_ing_missing else "No",
+                    "Not found in any source"
+                ])
 
             processed += 1
             
@@ -215,6 +271,37 @@ def main():
                     w.writeheader()
                     w.writerows(products)
                     
+                # Update progress JSON
+                curr_nut_after = sum(1 for p in products if not _is_empty(p.get("nutrition")))
+                curr_ing_after = sum(1 for p in products if not _is_empty(p.get("ingredients")))
+                
+                prog_data = {
+                    "products_missing_nutrition_before": len(products) - nut_before,
+                    "products_missing_nutrition_after": len(products) - curr_nut_after,
+                    "products_missing_ingredients_before": len(products) - ing_before,
+                    "products_missing_ingredients_after": len(products) - curr_ing_after,
+                    "nutrition_coverage_current": round((curr_nut_after / len(products)) * 100, 1),
+                    "ingredients_coverage_current": round((curr_ing_after / len(products)) * 100, 1),
+                    "last_updated": time.strftime("%Y-%m-%dT%H:%M:%S")
+                }
+                progress_file.write_text(json.dumps(prog_data, indent=2), encoding="utf-8")
+                
+                # Append to reports
+                mode = "a" if progress_file.exists() else "w"
+                file_exists_s = (REPORTS_DIR / "enrichment_success_report.csv").exists()
+                with open(REPORTS_DIR / "enrichment_success_report.csv", "a", newline="", encoding="utf-8") as f:
+                    w = csv.writer(f)
+                    if not file_exists_s: w.writerow(["Product Name", "Brand", "Nutrition Added", "Ingredients Added", "Source Used"])
+                    w.writerows(success_rows)
+                success_rows = []
+                
+                file_exists_f = (REPORTS_DIR / "enrichment_failure_report.csv").exists()
+                with open(REPORTS_DIR / "enrichment_failure_report.csv", "a", newline="", encoding="utf-8") as f:
+                    w = csv.writer(f)
+                    if not file_exists_f: w.writerow(["Product Name", "Brand", "Missing Nutrition", "Missing Ingredients", "Reason"])
+                    w.writerows(failure_rows)
+                failure_rows = []
+                
         browser.close()
         
     # Final save
