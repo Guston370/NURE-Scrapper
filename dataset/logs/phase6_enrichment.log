@@ -1,2 +1,165 @@
 2026-06-05 22:42:00.851 | INFO     | __main__:main:166 - Total products: 874
 2026-06-05 22:42:00.853 | INFO     | __main__:main:167 - Targeting 534 products missing metadata
+2026-06-05 22:42:03.139 | INFO     | __main__:main:180 - Enriching [0/534]: Aashirvaad aashirwad atta 10kg
+2026-06-05 22:42:10.850 | INFO     | __main__:main:180 - Enriching [1/534]: Aashirvaad Atta with Multigrains
+2026-06-05 22:42:17.039 | INFO     | __main__:main:180 - Enriching [2/534]: Aashirvaad Atta Whole Wheat Flour With Multigrains
+2026-06-05 22:42:23.184 | INFO     | __main__:main:180 - Enriching [3/534]: Aashirvaad Atta with Millets
+2026-06-05 22:42:29.350 | INFO     | __main__:main:180 - Enriching [4/534]: Pillsbury Chakki atta
+2026-06-05 22:42:37.051 | INFO     | __main__:main:180 - Enriching [5/534]: Pillsbury Pilsbry chakki fresh atta 2kg
+2026-06-05 22:42:43.446 | INFO     | __main__:main:180 - Enriching [6/534]: Pillsbury Multigrain Atta
+2026-06-05 22:42:49.447 | INFO     | __main__:main:180 - Enriching [7/534]: Pillsbury Pillsbury gold atta 5kg
+2026-06-05 22:42:55.373 | INFO     | __main__:main:180 - Enriching [8/534]: India Gate Basmati Aged 1kg (India Gate)
+2026-06-05 22:43:01.454 | INFO     | __main__:main:180 - Enriching [9/534]: India Gate Basmati rice
+2026-06-05 22:43:07.415 | INFO     | __main__:main:180 - Enriching [10/534]: India Gate Rice India Gate uncooked
+2026-06-05 22:43:13.567 | INFO     | __main__:main:180 - Enriching [11/534]: India Gate Riz basmati - Rosana
+2026-06-05 22:43:19.553 | INFO     | __main__:main:180 - Enriching [12/534]: India Gate White basmati rice excel
+2026-06-05 22:43:25.601 | INFO     | __main__:main:180 - Enriching [13/534]: India Gate Basmati rice 10kg
+2026-06-05 22:43:31.320 | INFO     | __main__:main:180 - Enriching [14/534]: India Gate India Gate Classic Rice
+2026-06-05 22:43:37.295 | INFO     | __main__:main:180 - Enriching [15/534]: India Gate Sprouted Brown Basmati Rice
+2026-06-05 22:43:46.216 | INFO     | __main__:main:180 - Enriching [16/534]: India Gate Sella Basmati Rice
+2026-06-05 22:43:52.164 | INFO     | __main__:main:180 - Enriching [17/534]: India Gate Basmati Rice Classic
+2026-06-05 22:43:58.205 | INFO     | __main__:main:180 - Enriching [18/534]: India Gate Extra Long Basmati Rice Premium
+2026-06-05 22:44:05.994 | INFO     | __main__:main:180 - Enriching [19/534]: India Gate Parboiled Basmati Rice
+2026-06-05 22:44:12.399 | INFO     | __main__:main:180 - Enriching [20/534]: Daawat Original Basmati Rice
+2026-06-05 22:44:18.491 | INFO     | __main__:main:180 - Enriching [21/534]: Daawat Rozana Gold  basmati rice
+2026-06-05 22:44:24.136 | INFO     | __main__:main:180 - Enriching [22/534]: Daawat daawat super basmati rice
+2026-06-05 22:44:30.129 | INFO     | __main__:main:180 - Enriching [23/534]: Daawat Extra Long Basmati Rice
+2026-06-05 22:44:35.822 | INFO     | __main__:main:180 - Enriching [24/534]: Daawat Super Basmati Rice
+2026-06-05 22:44:41.994 | INFO     | __main__:main:180 - Enriching [25/534]: Daawat Brown Basmati Rice
+2026-06-05 22:44:48.130 | INFO     | __main__:main:180 - Enriching [26/534]: Daawat Chefs Secretz Basmati Rice
+2026-06-05 22:44:53.873 | INFO     | __main__:main:180 - Enriching [27/534]: Daawat Extra Long Basmati Reis
+2026-06-05 22:44:59.641 | INFO     | __main__:main:180 - Enriching [28/534]: Daawat Rice raw
+2026-06-05 22:45:05.501 | INFO     | __main__:main:180 - Enriching [29/534]: Daawat Daawat Basmati Blue 500g
+2026-06-05 22:45:11.534 | INFO     | __main__:main:180 - Enriching [30/534]: Daawat EVERYDAY BASMATI RICE
+2026-06-05 22:45:17.411 | INFO     | __main__:main:180 - Enriching [31/534]: Kohinoor Basmati
+2026-06-05 22:45:23.474 | INFO     | __main__:main:180 - Enriching [32/534]: Kohinoor Basmati rice
+2026-06-05 22:45:29.457 | INFO     | __main__:main:180 - Enriching [33/534]: Kohinoor Basmati Gold
+2026-06-05 22:45:37.052 | INFO     | __main__:main:180 - Enriching [34/534]: Kohinoor Extra Long Basmati Rice
+2026-06-05 22:45:42.972 | INFO     | __main__:main:180 - Enriching [35/534]: Kohinoor Basmati rice extra long 64oz.
+2026-06-05 22:45:48.831 | INFO     | __main__:main:180 - Enriching [36/534]: Kohinoor Extra Long Grain Basmati Rice
+2026-06-05 22:45:54.752 | INFO     | __main__:main:180 - Enriching [37/534]: Kohinoor Brown basmati rice
+2026-06-05 22:46:00.697 | INFO     | __main__:main:180 - Enriching [38/534]: Kazan’s Organic Toor Dal
+2026-06-05 22:46:06.945 | INFO     | __main__:main:180 - Enriching [39/534]: Real Toor Dal
+2026-06-05 22:46:12.894 | INFO     | __main__:main:180 - Enriching [40/534]: Annam Toor Dal
+2026-06-05 22:46:18.686 | INFO     | __main__:main:180 - Enriching [41/534]: Laxmi Toor Dal
+2026-06-05 22:46:24.448 | INFO     | __main__:main:180 - Enriching [42/534]: Devi Uncooked Toor Dal
+2026-06-05 22:46:30.368 | INFO     | __main__:main:180 - Enriching [43/534]: Laxmi Toor Dal (Vasad Madhi) Split Pigeon Peas
+2026-06-05 22:46:36.212 | INFO     | __main__:main:180 - Enriching [44/534]: Shani Toor Dal
+2026-06-05 22:46:43.573 | INFO     | __main__:main:180 - Enriching [45/534]: Bikaji Bikaji (moong Dal) 400GM
+2026-06-05 22:46:49.337 | INFO     | __main__:main:180 - Enriching [46/534]: Bikano Moong Dal
+2026-06-05 22:46:55.478 | INFO     | __main__:main:180 - Enriching [47/534]: Haldiram's Moong Dal
+2026-06-05 22:47:01.376 | INFO     | __main__:main:180 - Enriching [48/534]: Deep Moong Dal
+2026-06-05 22:47:07.383 | INFO     | __main__:main:180 - Enriching [49/534]: Diya Moong dal, split moong beans (without skin)
+2026-06-05 22:47:13.429 | INFO     | __main__:main:180 - Enriching [50/534]: Parle Parle Namkeen &quot;Moong Dal&quot; 400GM
+2026-06-05 22:47:19.468 | INFO     | __main__:main:180 - Enriching [51/534]: Rehmat-e-Sheren Dal Moong
+2026-06-05 22:47:25.618 | INFO     | __main__:main:180 - Enriching [52/534]: Parle Namkeen - Moong dal
+2026-06-05 22:47:31.858 | INFO     | __main__:main:180 - Enriching [53/534]: Ashoka Ashoka Moong Dal Kachori
+2026-06-05 22:47:37.697 | INFO     | __main__:main:180 - Enriching [54/534]: Shama Moong dal
+2026-06-05 22:47:44.029 | INFO     | __main__:main:180 - Enriching [55/534]: Laxmi Moong Dal
+2026-06-05 22:47:49.894 | INFO     | __main__:main:180 - Enriching [56/534]: 24 Mantra Organic Organic Moong Dal
+2026-06-05 22:47:55.865 | INFO     | __main__:main:180 - Enriching [57/534]: Laxmi Organic Moong Dal, Dry
+2026-06-05 22:48:01.924 | INFO     | __main__:main:180 - Enriching [58/534]: Shan Moong Dal Lentils
+2026-06-05 22:48:09.355 | INFO     | __main__:main:180 - Enriching [59/534]: Deep Moong Dal Chilka
+2026-06-05 22:48:15.292 | INFO     | __main__:main:180 - Enriching [60/534]: Laxmi Moong Dal Split
+2026-06-05 22:48:21.194 | INFO     | __main__:main:180 - Enriching [61/534]: Noor Gazal Moong Dal
+2026-06-05 22:48:27.134 | INFO     | __main__:main:180 - Enriching [62/534]: Patidar Moong Dal
+2026-06-05 22:48:32.961 | INFO     | __main__:main:180 - Enriching [63/534]: Devi Yellow Split Moong dal
+2026-06-05 22:48:38.723 | INFO     | __main__:main:180 - Enriching [64/534]: Sundar Moong Dal Washed
+2026-06-05 22:48:44.537 | INFO     | __main__:main:180 - Enriching [65/534]: Swad Moong Dal
+2026-06-05 22:48:50.568 | INFO     | __main__:main:180 - Enriching [66/534]: Angur Moong Dal
+2026-06-05 22:48:56.536 | INFO     | __main__:main:180 - Enriching [67/534]: Ravi Moong Dal
+2026-06-05 22:49:02.402 | INFO     | __main__:main:180 - Enriching [68/534]: Asli Moong Dal
+2026-06-05 22:49:08.243 | INFO     | __main__:main:180 - Enriching [69/534]: Roomy Split Moong Dal
+2026-06-05 22:49:14.063 | INFO     | __main__:main:180 - Enriching [70/534]: Mahraba Moong Dal (Petite Yellow Lentil)
+2026-06-05 22:49:19.841 | INFO     | __main__:main:180 - Enriching [71/534]: Rani Brand Moong Dal
+2026-06-05 22:49:25.677 | INFO     | __main__:main:180 - Enriching [72/534]: SpiceBox Moong Dal
+2026-06-05 22:49:31.494 | INFO     | __main__:main:180 - Enriching [73/534]: Bikaji moong dal
+2026-06-05 22:49:37.372 | INFO     | __main__:main:180 - Enriching [74/534]: Real Bites Moong Dal
+2026-06-05 22:49:43.146 | INFO     | __main__:main:180 - Enriching [75/534]: Kesar Grocery Moong Dal
+2026-06-05 22:49:49.154 | INFO     | __main__:main:180 - Enriching [76/534]: cofresh Chana dal (savoury Indian snack)
+2026-06-05 22:49:55.070 | INFO     | __main__:main:180 - Enriching [77/534]: Indus Chana Dal
+2026-06-05 22:50:01.054 | INFO     | __main__:main:180 - Enriching [78/534]: Raju Chana dal
+2026-06-05 22:50:06.923 | INFO     | __main__:main:180 - Enriching [79/534]: Balaji Chana Dal
+2026-06-05 22:50:13.254 | INFO     | __main__:main:180 - Enriching [80/534]: MDH MDH Chana Dal Masala 100G
+2026-06-05 22:50:18.944 | INFO     | __main__:main:180 - Enriching [81/534]: Ashoka Ashoka Chana Dal Tikki
+2026-06-05 22:50:24.865 | INFO     | __main__:main:180 - Enriching [82/534]: Laxmi Chana Dal
+2026-06-05 22:50:30.702 | INFO     | __main__:main:180 - Enriching [83/534]: Hero Salade de Chana Dal
+2026-06-05 22:50:39.453 | INFO     | __main__:main:180 - Enriching [84/534]: Ammaas Roasted Chana Dal
+2026-06-05 22:50:46.929 | INFO     | __main__:main:180 - Enriching [85/534]: Swad Chana dal Namkeen
+2026-06-05 22:50:52.616 | INFO     | __main__:main:180 - Enriching [86/534]: Stocked Chana Dal
+2026-06-05 22:50:58.609 | INFO     | __main__:main:180 - Enriching [87/534]: Ramdev Chana Dal
+2026-06-05 22:51:04.408 | INFO     | __main__:main:180 - Enriching [88/534]: Noor Gazal Chana Dal
+2026-06-05 22:51:10.177 | INFO     | __main__:main:180 - Enriching [89/534]: Bikano Chana Dal (Snack)
+2026-06-05 22:51:15.944 | INFO     | __main__:main:180 - Enriching [90/534]: Saurbhi Split Chana dal
+2026-06-05 22:51:21.800 | INFO     | __main__:main:180 - Enriching [91/534]: Divya Chana Dal Split Chickpea Lentil
+2026-06-05 22:51:27.611 | INFO     | __main__:main:180 - Enriching [92/534]: Praana Chana Dal
+2026-06-05 22:51:34.706 | INFO     | __main__:main:180 - Enriching [93/534]: Laxmi Chana Dal Split Chickpeas
+2026-06-05 22:51:41.970 | INFO     | __main__:main:180 - Enriching [94/534]: Saral CHANA DAL
+2026-06-05 22:51:47.911 | INFO     | __main__:main:180 - Enriching [95/534]: Fazlani Foods Fazlani foods, rajma masala
+2026-06-05 22:51:53.899 | INFO     | __main__:main:180 - Enriching [96/534]: ASHOKA Rajma pulao
+2026-06-05 22:51:59.939 | INFO     | __main__:main:180 - Enriching [97/534]: MTR Rajma masala
+2026-06-05 22:52:05.721 | INFO     | __main__:main:180 - Enriching [98/534]: Haldiram's Rajma Raseela
+2026-06-05 22:52:11.593 | INFO     | __main__:main:180 - Enriching [99/534]: Everest Rajma Masala
+2026-06-05 22:52:17.652 | INFO     | __main__:main:180 - Enriching [100/534]: Brooklyn Delhi LLC Red Bean Rajma Masala
+2026-06-05 22:52:23.572 | INFO     | __main__:main:180 - Enriching [101/534]: Ashoka Shahi Rajma
+2026-06-05 22:52:29.422 | INFO     | __main__:main:180 - Enriching [102/534]: Kohinoor Rajma Masala
+2026-06-05 22:52:35.484 | INFO     | __main__:main:180 - Enriching [103/534]: MTR MTR Ready-To-Eat Rajma Masala
+2026-06-05 22:52:41.373 | INFO     | __main__:main:180 - Enriching [104/534]: 24 Mantra Rajma, Raw
+2026-06-05 22:52:47.311 | INFO     | __main__:main:180 - Enriching [105/534]: Swad Raw Rajma
+2026-06-05 22:52:53.194 | INFO     | __main__:main:180 - Enriching [106/534]: Aman’s Jammu Rajma
+2026-06-05 22:53:00.369 | INFO     | __main__:main:180 - Enriching [107/534]: Dmart Premia Rajma White
+2026-06-05 22:53:06.062 | INFO     | __main__:main:180 - Enriching [108/534]: Vadilal Rajma Masala
+2026-06-05 22:53:11.973 | INFO     | __main__:main:180 - Enriching [109/534]: Tirupati’s Punjabi Rajma
+2026-06-05 22:53:20.199 | INFO     | __main__:main:180 - Enriching [110/534]: Bowlful Rajma
+2026-06-05 22:53:26.140 | INFO     | __main__:main:180 - Enriching [111/534]: Five Minutes To Delhi Rajma
+2026-06-05 22:53:32.166 | INFO     | __main__:main:180 - Enriching [112/534]: Orchid Kashmiri Rajma
+2026-06-05 22:53:38.345 | INFO     | __main__:main:180 - Enriching [113/534]: Indian Delibites Chitra Rajma
+2026-06-05 22:53:44.272 | INFO     | __main__:main:180 - Enriching [114/534]: Haldiram's Rajma Chawal
+2026-06-05 22:53:50.317 | INFO     | __main__:main:180 - Enriching [115/534]: Mother’s Recipe Amritsari Rajma
+2026-06-05 22:53:57.694 | INFO     | __main__:main:180 - Enriching [116/534]: Laxmi Rajma Masala
+2026-06-05 22:54:03.711 | INFO     | __main__:main:180 - Enriching [117/534]: Heera Rajma
+2026-06-05 22:54:09.628 | INFO     | __main__:main:180 - Enriching [118/534]: 24 Mantra Organic KABULI CHANA CHICKPEA
+2026-06-05 22:54:16.348 | INFO     | __main__:main:180 - Enriching [119/534]: Real Kabuli Chana
+2026-06-05 22:54:22.664 | INFO     | __main__:main:180 - Enriching [120/534]: Laxmi Kabuli Chana
+2026-06-05 22:54:30.870 | INFO     | __main__:main:180 - Enriching [121/534]: Deep Kabuli Chana
+2026-06-05 22:54:37.235 | INFO     | __main__:main:180 - Enriching [122/534]: Aara Kabuli Chana
+2026-06-05 22:54:43.172 | INFO     | __main__:main:180 - Enriching [123/534]: Deep Kabuli Chana Chickpeas
+2026-06-05 22:54:49.029 | INFO     | __main__:main:180 - Enriching [124/534]: Deer Kabuli chana
+2026-06-05 22:54:55.173 | INFO     | __main__:main:180 - Enriching [125/534]: Laxmi Kabuli Chana Chickpeas
+2026-06-05 22:55:01.634 | INFO     | __main__:main:180 - Enriching [126/534]: Everest Kitchen King Masala
+2026-06-05 22:55:07.540 | INFO     | __main__:main:180 - Enriching [127/534]: Everest Everest Sabji masala
+2026-06-05 22:55:13.707 | INFO     | __main__:main:180 - Enriching [128/534]: Everest Everest Sambhar masala
+2026-06-05 22:55:19.685 | INFO     | __main__:main:180 - Enriching [129/534]: Everest chiken biryani masala Everest
+2026-06-05 22:55:26.023 | INFO     | __main__:main:180 - Enriching [130/534]: Everest Kesari Milk Masala
+2026-06-05 22:55:31.623 | INFO     | __main__:main:180 - Enriching [131/534]: Everest Everest fish curry masala
+2026-06-05 22:55:37.545 | INFO     | __main__:main:180 - Enriching [132/534]: Everest EVEREST Masala tae
+2026-06-05 22:55:43.300 | INFO     | __main__:main:180 - Enriching [133/534]: Everest Shahi Paneer Masala
+2026-06-05 22:55:49.827 | INFO     | __main__:main:180 - Enriching [134/534]: Everest EVEREST Chhole Masala
+2026-06-05 22:55:57.752 | INFO     | __main__:main:180 - Enriching [135/534]: Everest Tikka Masala Curry
+2026-06-05 22:56:03.457 | INFO     | __main__:main:180 - Enriching [136/534]: Everest Sambar Masala
+2026-06-05 22:56:09.514 | INFO     | __main__:main:180 - Enriching [137/534]: Everest Everest Tandoori Chicken Masala
+2026-06-05 22:56:15.531 | INFO     | __main__:main:180 - Enriching [138/534]: Everest Chat Masala
+2026-06-05 22:56:21.465 | INFO     | __main__:main:180 - Enriching [139/534]: MDH Chunky Chat masala
+2026-06-05 22:56:27.268 | INFO     | __main__:main:180 - Enriching [140/534]: MDH Dal Makhani masala
+2026-06-05 22:56:33.293 | INFO     | __main__:main:180 - Enriching [141/534]: MDH pulao masala
+2026-06-05 22:56:39.241 | INFO     | __main__:main:180 - Enriching [142/534]: MDH MDH Dal Makhani Masala
+2026-06-05 22:56:45.200 | INFO     | __main__:main:180 - Enriching [143/534]: MDH T Plus Masala
+2026-06-05 22:56:51.147 | INFO     | __main__:main:180 - Enriching [144/534]: MDH MDH JAL JEERA MASALA
+2026-06-05 22:56:56.992 | INFO     | __main__:main:180 - Enriching [145/534]: MDH Karahi Paneer Masala
+2026-06-05 22:57:02.984 | INFO     | __main__:main:180 - Enriching [146/534]: MDH Stuffed Parantha Masala Spice Blend
+2026-06-05 22:57:08.818 | INFO     | __main__:main:180 - Enriching [147/534]: MDH Curry Masala for Karahi Gosht
+2026-06-05 22:57:14.845 | INFO     | __main__:main:180 - Enriching [148/534]: MDH Sindhi Biryani masala
+2026-06-05 22:57:20.546 | INFO     | __main__:main:180 - Enriching [149/534]: Catch Chhole Masala
+2026-06-05 22:57:27.013 | INFO     | __main__:main:180 - Enriching [150/534]: Catch Sprinkler Black Pepper
+2026-06-05 22:57:32.539 | INFO     | __main__:main:180 - Enriching [151/534]: Catch CHICKEN MASALA
+2026-06-05 22:57:38.556 | INFO     | __main__:main:180 - Enriching [152/534]: Catch SAMBHAR MASALA
+2026-06-05 22:57:44.651 | INFO     | __main__:main:180 - Enriching [153/534]: Catch Catch Chatpata Chat Masala
+2026-06-05 22:57:51.303 | INFO     | __main__:main:180 - Enriching [154/534]: Catch KITCHEN KING
+2026-06-05 22:57:58.559 | INFO     | __main__:main:180 - Enriching [155/534]: Catch Catch sabzi masala
+2026-06-05 22:58:04.453 | INFO     | __main__:main:180 - Enriching [156/534]: Catch JALJEERA
+2026-06-05 22:58:11.021 | INFO     | __main__:main:180 - Enriching [157/534]: Catch MEAT MASALA
+2026-06-05 22:58:17.148 | INFO     | __main__:main:180 - Enriching [158/534]: Catch Garam masala
+2026-06-05 22:58:24.183 | INFO     | __main__:main:180 - Enriching [159/534]: Catch catch Rajma masala
+2026-06-05 22:58:30.259 | INFO     | __main__:main:180 - Enriching [160/534]: Catch Amchur power
+2026-06-05 22:58:36.406 | INFO     | __main__:main:180 - Enriching [161/534]: Catch Kashmiri mirch power
+2026-06-05 22:58:42.303 | INFO     | __main__:main:180 - Enriching [162/534]: Catch catch chana masala
